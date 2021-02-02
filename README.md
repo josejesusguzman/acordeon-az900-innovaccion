@@ -6,8 +6,8 @@ Aquí podrás encontrar todos los recursos usados en Innovacicón Virtual para a
 Link a Microsoft Learn
 
 ## Glosarios
- - [Glosario de terminos básicos de tecnología](/blob/main/V2%20Glosario%20de%20términos%20Innovacción.pdf)
- - [Glosario de terminos de Azure](/blob/main/terminos_azure.md)
+ - [Glosario de terminos básicos de tecnología](V2%20Glosario%20de%20términos%20Innovacción.pdf)
+ - [Glosario de terminos de Azure](terminos_azure.md)
 
 ## Diagramas
  - Diagrama de terminos de Azure
