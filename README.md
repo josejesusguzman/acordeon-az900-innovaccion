@@ -17,20 +17,20 @@ Proximamente
 ```
 
 ## Diagramas
+ - [Diagrama de terminos de Azure](AquíVAElDeMari)
  - [Diagrama de jerarquia de suscripciones de Azure]()
  - [Tabla comparativa de seguridad en Azure]()
  - [Comparativa Azure AD Active Directory]()
  - [Comparativa VM, Kubernetes y Contenedores]()
 
 ## Recursos clave
- - [¿Cómo es el examen?]()
  - [Cumplimineto GDRP con Azure]()
  - [Formulas para calcular el nivel de servicio SLA]()
  - [Como hacer plantillas de ARM]()
  - [Como seleccionar las mejores herramientas para tu solución]()
  - [Pasos del Cloud Adoption Framework]()
 
-## Examenes de test
+## Examenes piloto
 - [Kahoot prueba de examen AZ-900]()
 - [Kahoot de examen sobre el eje de Arquitectura de Soluciones]()
 - [Kahoot de examen sobre como seleccionar las herramientas de tu solución]()
