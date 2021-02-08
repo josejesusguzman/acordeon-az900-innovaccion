@@ -7,9 +7,9 @@ Todo recurso debe tener una suscripción ya que a esta se le hace el cobro del u
 
 A continuación te muestro un par de diagramas que muestra la jerarquia en la que Azure coloca tus recursos
 
-![Imagen de diagrama con letras](res/../diagrama_simple.jpg)
+![Imagen de diagrama con letras](res/../images/diagrama_simple.jpg)
 
-![Imagen de diagrama con ilustraciones](res/../diagrama_imagenes.png)
+![Imagen de diagrama con ilustraciones](res/../images/diagrama_imagenes.png)
 *Fuente: Microsoft*
 
 La organización puede optar por crear multiples suscripciones por:
@@ -25,4 +25,4 @@ No obstante, la organización de estas suscripciones puede ser más compleja y a
 
 Se entiende **factura** como la cuenta que tienes que pagar a fin de mes por el uso de los recursos. Un ejemplo puede ser el recibo de luz de tu casa, te llega cada X tiempo y su costo dependerá de cuanto consumes en ese periodo.
 
-![Imagen de diagrama con letras](res/../diagrama_extendido.jpg)
+![Imagen de diagrama con letras](res/../images/diagrama_extendido.jpg)
