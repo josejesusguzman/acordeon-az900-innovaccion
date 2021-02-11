@@ -2,7 +2,7 @@
 
 Aquí podrás encontrar conceptos clave que usarás a través de todo tu viaje por Innovacción Virtual.
 
-Imagenes por [@mientraselmundosederrumba](https://www.instagram.com/mientraselmundosederrumba/)
+*Imagenes por [@mientraselmundosederrumba](https://www.instagram.com/mientraselmundosederrumba/)*
 
   - [**Indice**](#)
     - [Alta disponibilidad](#alta-disponibilidad)
@@ -40,7 +40,7 @@ Imagenes por [@mientraselmundosederrumba](https://www.instagram.com/mientraselmu
 
 
 ### Alta disponibilidad
-Dependiendo del SLA, las aplicaciones de nube pueden proporcionar servicio continuo sin inactividad aparente incluso cuando las cosas van mal.
+![Alta disponibilidad](/res/images/conceptos/alta_disponibilidad.png)
 
 ### Escalabilidad vertical
 Incremento de la capacidad de cómputo agregando RAM o CPU al recurso.
