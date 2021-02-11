@@ -2,6 +2,8 @@
 
 Aquí podrás encontrar conceptos clave que usarás a través de todo tu viaje por Innovacción Virtual.
 
+Imagenes por [@mientraselmundosederrumba](https://www.instagram.com/mientraselmundosederrumba/)
+
   - [**Indice**](#)
     - [Alta disponibilidad](#alta-disponibilidad)
     - [Escalabilidad vertical](#escalabilidad-vertical)
