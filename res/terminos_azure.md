@@ -2,6 +2,7 @@
 
 Aquí podrás encontrar conceptos clave que usarás a través de todo tu viaje por Innovacción Virtual.
 
+**[Descarga las fichas de imagenes de estos términos aquí](https://innovaccion-my.sharepoint.com/:f:/g/personal/jguzman_innovaccion_mx/EnO9_QErWA1DmICARLq9Mq0BpkrljWEX8VYgRHoz-i5ezw?e=ktAUKs)**
 *Imagenes por [@mientraselmundosederrumba](https://www.instagram.com/mientraselmundosederrumba/)*
 
   - [**Indice**](#)
@@ -42,8 +43,8 @@ Aquí podrás encontrar conceptos clave que usarás a través de todo tu viaje p
 ### Alta disponibilidad
 Dependiendo del SLA, las aplicaciones de nube pueden proporcionar servicio continuo sin inactividad aparente incluso cuando las cosas van mal.
 
-### Escalabilidad vertical
-Incremento de la capacidad de cómputo agregando RAM o CPU al recurso.
+![Alta disponibilidad](/res/images/conceptos/alta_disponibilidad.png =250x)
+
 
 ### Escalabilidad horizontal
 Incremento de la capacidad de cómputo agregando más instancias del mismo recurso.

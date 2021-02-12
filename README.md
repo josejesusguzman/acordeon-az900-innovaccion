@@ -13,7 +13,7 @@ Aquí podrás encontrar todos los recursos usados en Innovacicón Virtual para a
 - [Glosario de terminos básicos de tecnología](res/docs/V2%20Glosario%20de%20términos%20Innovacción.pdf)
 - [Glosario de terminos de Azure](res/terminos_azure.md)
 - **[Descarga las fichas de imagenes de los términos aquí](https://innovaccion-my.sharepoint.com/:f:/g/personal/jguzman_innovaccion_mx/EnO9_QErWA1DmICARLq9Mq0BpkrljWEX8VYgRHoz-i5ezw?e=ktAUKs)**
-  - *Imagenes por [@mientraselmundosederrumba](https://www.instagram.com/mientraselmundosederrumba/)*
+  - *Imagenes por [@mientraselmundosederrumba](https://www.instagram.com/mientraselmundosederrumba/)*   
 
 ## Diagramas
 - [Diagrama de terminos de Azure](AquíVAElDeMari)
@@ -32,7 +32,7 @@ Aquí podrás encontrar todos los recursos usados en Innovacicón Virtual para a
 - [Pasos del Cloud Adoption Framework](/res/pasos_caf.md)
 
 ## Examenes piloto
-- [Prueba de examen AZ-900]()
+- [Prueba de examen AZ-900](https://kahoot.it/challenge/02060231?challenge-id=17c998c7-d2ca-4aad-8555-25d087dca7da_1613089581619)
 - [Examen sobre el eje de Arquitectura de Soluciones]()
 - [Examen sobre como seleccionar las herramientas de tu solución]()
 
