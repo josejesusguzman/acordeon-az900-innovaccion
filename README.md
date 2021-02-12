@@ -35,6 +35,7 @@ Aquí podrás encontrar todos los recursos usados en Innovacicón Virtual para a
 - [Prueba de examen AZ-900](https://kahoot.it/challenge/02060231?challenge-id=17c998c7-d2ca-4aad-8555-25d087dca7da_1613089581619)
 - [Examen sobre el eje de Arquitectura de Soluciones]()
 - [Examen sobre como seleccionar las herramientas de tu solución]()
+- [Examen de Charlie Simulador AZ-900 *Solo Innovacción* ](https://forms.office.com/Pages/ResponsePage.aspx?id=BUvlSn63JEKu8YZhQi4IFnSwDYJ5jHlPnmCU7K6K1f1UMFpTTzQ5MU82TVdQWVI0UThJVzhKTzMyNS4u)
 
 ## Recursos extra
 - [Podcast en español sobre la certificación AZ-900](https://open.spotify.com/episode/7KY9i2Xz6WIHocJe6jlPmy?si=SyANKxMTT4K_4kCxGF59Ag)
