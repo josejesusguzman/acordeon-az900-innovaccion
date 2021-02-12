@@ -25,16 +25,17 @@ Puedes usarlas para:
 - Para recuperación de desastres
 - Para ejecutar aplicaciones de nube
 - Aislar una solución
+- Para ejecutar Windows o Linux y usar programas que tu computadora no pueda ejecutar
 
 ### Azure Virtual Machine Scale Sets
 Se pueden agrupar las máquinas virtuales para proporcionar alta disponibilidad, escalabilidad y redundancia. Con independencia de cuáles sean los requisitos de tiempo de actividad, Azure cuenta con varias características para que pueda cumplirlos.
 
-Los Scale Sets permiten crear y administrar un grupo de máquinas virtuales idénticas, de carga equilibrada.
+**Los Scale Sets permiten crear y administrar un grupo de máquinas virtuales idénticas, de carga equilibrada.**
 
 Con ellos puedes administrar, configurar y actualizar de forma centralizada un gran número de máquinas virtuales en cuestión de minutos para proporcionar aplicaciones altamente disponibles.
 
 ### Azure Batch
-Azure Batch permite trabajo por lotes paralelos a gran escala y de informática de alto rendimiento (HPC) con la capacidad de escalar a decenas, cientos o miles de máquinas virtuales.
+Azure Batch **permite trabajo por lotes paralelos a gran escala y de informática de alto rendimiento** (HPC) con la capacidad de escalar a decenas, cientos o miles de máquinas virtuales.
 
 Batch:
 
@@ -55,7 +56,11 @@ Conviene usar Kubernetes cuando:
 - Actualices contenedores a escala
 - Requieras funciones centralizadas de administración de almacenamiento y redes de contenedores
 
+[Video sobre como funcionan Kubernetes](https://youtu.be/oTf0KxK1QNo?t=55)
+
 ## Azure Functions 
+
+Con Azure Functions solo pagas por el tiempo en el que se ejecuta tu código. 
 
 ### Azure Logic Apps
 

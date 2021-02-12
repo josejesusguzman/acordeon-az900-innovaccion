@@ -38,6 +38,7 @@ Aquí podrás encontrar conceptos clave que usarás a través de todo tu viaje p
     - [Big Data](#big-data)
     - [Inteligencia Artificial (IA)](#inteligencia-artificial-ia)
     - [DevOps](#devops)
+  - [Diagrama completo](#diagrama-completo)
 
 
 ### Alta disponibilidad
@@ -171,6 +172,7 @@ Proporciona servicios de cómputo o procesamiento bajo demanda. Por ejemplo:
 - Azure Functions
 - Azure Container Instances
 
+<img src="/res/images/conceptos/compute.png" alt="drawing" width="400"/>
 
 ### Network
 Proporciona servicios de red que permiten conectar los recursos con el mundo exterior. Por ejemplo:
@@ -225,3 +227,6 @@ Proporciona servicios de aprendizaje automático (prefabricados o no). Por ejemp
 Ayuda a los equipos de desarrollo de software a automatizar y hacer eficientes sus procesos. Por ejemplo:
 - Azure DevOps
 - Azure DevTest Labs
+
+## Diagrama Completo
+![Diagrama completo](/res/images/conceptos/completo.jpeg)
