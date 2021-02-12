@@ -43,8 +43,7 @@ Aquí podrás encontrar conceptos clave que usarás a través de todo tu viaje p
 ### Alta disponibilidad
 Dependiendo del SLA, las aplicaciones de nube pueden proporcionar servicio continuo sin inactividad aparente incluso cuando las cosas van mal.
 
-![Alta disponibilidad](/res/images/conceptos/alta_disponibilidad.png =250x)
-
+<img src="/res/images/conceptos/alta_disponibilidad.png" alt="drawing" width="300"/>
 
 ### Escalabilidad horizontal
 Incremento de la capacidad de cómputo agregando más instancias del mismo recurso.
