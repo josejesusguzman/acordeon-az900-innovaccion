@@ -3,6 +3,7 @@
 Aquí podrás encontrar conceptos clave que usarás a través de todo tu viaje por Innovacción Virtual.
 
 **[Descarga las fichas de imagenes de estos términos aquí](https://innovaccion-my.sharepoint.com/:f:/g/personal/jguzman_innovaccion_mx/EnO9_QErWA1DmICARLq9Mq0BpkrljWEX8VYgRHoz-i5ezw?e=ktAUKs)**
+
 *Imagenes por [@mientraselmundosederrumba](https://www.instagram.com/mientraselmundosederrumba/)*
 
   - [**Indice**](#)
@@ -153,12 +154,12 @@ Porcentaje de disponibilidad y rendimeinto de los recursos durante un tiempo det
 ### Azure
 Servicio de nube de Microsoft que entrega servicios informáticos a través de Internet.
 
-
+<img src="/res/images/conceptos/azure.png" alt="drawing" width="400"/>
 
 ### Cómputo en la nube
 Es la entrega de servicios de computo a través de Internet.
 
-
+<img src="/res/images/conceptos/computo_en_nube.png" alt="drawing" width="400"/>
 
 ## Categorias de Azure
 Los servicios de Azure se agrupan en diferentes categorias las cuales son:
@@ -182,6 +183,7 @@ Proporciona servicios de red que permiten conectar los recursos con el mundo ext
 - Balanceadores de carga
 
 
+<img src="/res/images/conceptos/network.png" alt="drawing" width="400"/>
 
 ### Storage
 Proporciona servicios de almacenamiento de archivos y objetos. Por ejemplo:
@@ -190,7 +192,7 @@ Proporciona servicios de almacenamiento de archivos y objetos. Por ejemplo:
 - Azure Queue Storage
 - Azure Table Storage
 
-
+<img src="/res/images/conceptos/storage.png" alt="drawing" width="400"/>
 
 ### Database (DB)
 Proporciona servicios de bases de datos para una amplia variedad de tipos y volumenes de datos. Por ejemplo:
@@ -198,7 +200,7 @@ Proporciona servicios de bases de datos para una amplia variedad de tipos y volu
 - Azure SQL Database
 - Azure Database Migration Service
 
-
+<img src="/res/images/conceptos/db.png" alt="drawing" width="400"/>
 
 ### Internet of Things (IoT)
 Proporciona servicios de IoT para conectar y recibir información de sensores, relojes inteligentes, maquinaria, etc. Por ejemplo:
@@ -206,7 +208,7 @@ Proporciona servicios de IoT para conectar y recibir información de sensores, r
 - Azure IoT hub
 - IoT Edge
 
-
+<img src="/res/images/conceptos/iot.png" alt="drawing" width="400"/>
 
 ### Big Data
 Porporciona servicios para el procesamiento y análisis de grandes cantidades de registros. Por ejemplo:
@@ -214,7 +216,7 @@ Porporciona servicios para el procesamiento y análisis de grandes cantidades de
 - Azure Databricks
 - Azure HDInsight
 
-
+<img src="/res/images/conceptos/big_data.png" alt="drawing" width="400"/>
 
 ### Inteliencia Artificial (IA)
 Proporciona servicios de aprendizaje automático (prefabricados o no). Por ejemplo:
@@ -222,11 +224,14 @@ Proporciona servicios de aprendizaje automático (prefabricados o no). Por ejemp
 - Azure Machine Learning Studio
 - Azure Cognitive Services
 
+<img src="/res/images/conceptos/ia.png" alt="drawing" width="400"/>
 
 ### DevOps
 Ayuda a los equipos de desarrollo de software a automatizar y hacer eficientes sus procesos. Por ejemplo:
 - Azure DevOps
 - Azure DevTest Labs
+
+<img src="/res/images/conceptos/devops.png" alt="drawing" width="400"/>
 
 ## Diagrama Completo
 ![Diagrama completo](/res/images/conceptos/completo.jpeg)
