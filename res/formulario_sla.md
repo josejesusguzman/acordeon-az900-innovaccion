@@ -1,4 +1,4 @@
-# Formulario calculo de Nivel de Servicio (SLA)
+# Formulario para el calculo de Nivel de Servicio (SLA)
 
 **Para buscar el SLA de cada servicio consulta la [página de Acuerdos de nivel de servicio](https://azure.microsoft.com/es-mx/support/legal/sla/)**
 
