@@ -5,8 +5,9 @@ Servicio | Descripción
 Azure Kubernetes Services (AKS) | **Servicio de orquestación**. Es decir, administra y y automatiza una gran cantidad de contenedores y se encarga de la interacción entre ellos.
 Azure Virtual Machine (VM) | Pueden ser usados cuando careces de servidores fisicos. Consideralo una computadora dentro de otra computadora que esta a tu control casi total
 Azure Functions | **Serverless o informática sin servidor**. Con las functions, Azure se encarga de de la infraestructura, la asignación de recursos de acuerdo a la demada y del rendimiento. Tu solo te preocupas por el código que se ejecuta ahí.
+Azure Logic Apps | Al igual que Azure Functions, puede ejecutar automatizaciones por eventos pero aquí no se crean con código de programación sino con una interfaz gráfica 
 Azure App Service | Servicio que permite crear y hospedar aplicaciones web, trabajos en segundo plano, back-ends móviles y API RESTful en el lenguaje de programación que prefieras, sin tener que preocuparte por la infraestructura.
-Azure Container Instances (ACI) | Un contenedor es un **entorno de virtualización**. Sin embargo, a diferencia de las VM, aquí no operas todo el Sistema operativo. Los contenedores son ligeros y están diseñados para crearse, escalarse horizontalmente y detenerse de forma dinámica. 
+Azure Container Instances (ACI) | Un contenedor es un **entorno de virtualización**. Sin embargo, a diferencia de las VM, aquí no operas todo el sistema operativo. Los contenedores son ligeros y están diseñados para crearse, escalarse horizontalmente y detenerse de forma dinámica. 
 
 ## Azure Virtual Machine
 Con Azure Virtual Machines, puede crear y utilizar máquinas virtuales en la nube. Estas máquinas virtuales proporcionan una infraestructura como servicio (IaaS) en forma de un servidor virtualizado y se pueden usar de muchas formas. Al igual que sucede en un equipo físico, se puede personalizar todo el software que se ejecuta en la máquina virtual. Las máquinas virtuales son una opción ideal cuando se necesita lo siguiente:
@@ -58,11 +59,39 @@ Conviene usar Kubernetes cuando:
 
 [Video sobre como funcionan Kubernetes](https://youtu.be/oTf0KxK1QNo?t=55)
 
+## Azure Container Instances
+sadsadsadsa
+
+
+### Composición de un contenedor
+![Composición container](images/container.png)
+
+
+
 ## Azure Functions 
+
+Azure Functions es una solución sin servidor o *serverless* que te permite escribir menos código, mantener menos infraestructura y ahorrar costos. En lugar de preocuparte por implementar, mantener servidores, instalar las herramientas de desarrollo, implementar el sistema operativo, etc. la nube proporciona todos los recursos actualizados necesarios para mantener las aplicaciones en ejecución.
 
 Con Azure Functions solo pagas por el tiempo en el que se ejecuta tu código. 
 
+A menudo, se crean sistemas para que reaccionen a una serie de eventos críticos, es decir, que cuando se genera una petición, se realiza una acción o se llega a determinada hora y/o fecha se ejecuta el bloque de código de Azuer Functions.
+
+Azure Functions es normalmente usado en los siguientes escenarios:
+
+Si deseas... | Entonces...
+------------ | -----------
+Crear una API web | Implementa un punto de conexión para las aplicaciones web mediante el [desencadenador HTTP](https://docs.microsoft.com/es-es/azure/azure-functions/functions-bindings-http-webhook)
+Procesar cargas de archivos | Ejecuta código cuando se cargue o se cambie un archivo en el almacenamiento de blobs (Blog Storage)
+Compilar un flujo de trabajo serverless | Encadena una serie de funciones mediante [Durable Functions](https://docs.microsoft.com/es-es/azure/azure-functions/durable/durable-functions-overview?tabs=csharp)
+Responder a cambios en una base de datos | Ejecuta código personalizado cuando se cree o actualice un documento en Cosmos DB
+Ejecutar tareas programadas | Ejecuta código a horas establecidas
+Crear sistemas de cola de mensajes confiables | Procesa colas de mensajes mediante Queue Storage, Service Bus o Event Hubs
+Analizar flujos de datos de IoT	| Recopile y procese datos de [dispositivos IoT](https://docs.microsoft.com/es-es/azure/azure-functions/functions-bindings-event-iot)
+Procesar datos en tiempo real | Use [Functions y SignalR](https://docs.microsoft.com/es-es/azure/azure-functions/functions-bindings-signalr-service) para responder a los datos en el momento.
+
 ### Azure Logic Apps
+Es un servicio en la nube que te ayuda a programar, automatizar y organizar tareas, procesos empresariales y flujos de trabajo cuando tiene que integrar aplicaciones, datos, sistemas y servicios en empresas u organizaciones.
 
-## Azure Container Instances
+Al igual que Azure Functions, posibilita las cargas de trabajo sin servidor (*serverless*). Sin embargo, **Azure Functions es un servicio de proceso sin servidor, mientras que Azure Logic Apps proporciona flujos de trabajo sin servidor**
 
+En Azure Functions, las orquestaciones se desarrollan mediante la escritura de código y el uso de la extensión [Durable Functions](https://docs.microsoft.com/es-es/azure/azure-functions/durable/durable-functions-overview?tabs=csharp). En Logic Apps, las orquestaciones se crean mediante una Interfaz de usuario o editando archivos de configuración.
