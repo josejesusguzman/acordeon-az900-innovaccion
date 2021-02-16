@@ -26,7 +26,7 @@ Aquí podrás encontrar todos los recursos usados en Innovacicón Virtual para a
 - [Cumplimiento GDRP con Azure](/res/cumplimiento_gdrp.md)
 - [Formulas para calcular el nivel de servicio SLA](/res/formulario_sla.md)
 - [Como hacer plantillas de ARM](/res/plantilla_arm.md)
-- [Plantillas ARM validades de la comunidad](https://github.com/Azure/azure-quickstart-templates)
+- [Plantillas ARM validadas de la comunidad](https://github.com/Azure/azure-quickstart-templates)
 - [Buenas practicas para plantillas ARM](https://github.com/Azure/azure-quickstart-templates/blob/master/1-CONTRIBUTION-GUIDE/best-practices.md)
 - [Como seleccionar las mejores herramientas para tu solución](/res/seleccion_herramientas.md)
 - [Pasos del Cloud Adoption Framework](/res/pasos_caf.md)
