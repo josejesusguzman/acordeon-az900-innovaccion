@@ -16,7 +16,7 @@ Aquí podrás encontrar todos los recursos usados en Innovacicón Virtual para a
   - *Imagenes por [@mientraselmundosederrumba](https://www.instagram.com/mientraselmundosederrumba/)*   
 
 ## Diagramas
-- [Diagrama de terminos de Azure](AquíVAElDeMari)
+- [Diagrama de terminos de Azure](/res/images/conceptos/completo.jpeg)
 - [Diagrama de jerarquia de suscripciones de Azure](/res/jerarquia.md)
 - [Tabla comparativa de seguridad en Azure](/res/comparativa_seguridad.md)
 - [Comparativa Azure AD Active Directory](/res/comparativa_azureAD.md)

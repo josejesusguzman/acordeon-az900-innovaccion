@@ -17,6 +17,13 @@ Con Azure Virtual Machines, puede crear y utilizar máquinas virtuales en la nub
 
 La maquina virtual es toda la computadora completa pero sin el hardware.
 
+Ahora probablemente te preguntarás **¿Cuando es mejor usar las maquinas virtuales sobre los contenedores?** Claro que dependerá de tu solución y de la finalidad de la herramienta pero aquí tienes cuatro casos en los que sería mejor usar maquinas virtuales:
+
+- Alojar cargas de trabajo tradicionales, monolíticas y heredadas
+- Aislar ciclos de desarrollo riesgosos
+- Implementar recursos de infraestructura (como redes, servidores y datos)
+- Ejecutar un sistema operativo diferente dentro de otro sistema operativo (por ejemplo, ejecutar Unix en Linux)
+
 ### Composición de una VM
 ![Composición VM](images/vm.png)
 
@@ -60,12 +67,35 @@ Conviene usar Kubernetes cuando:
 [Video sobre como funcionan Kubernetes](https://youtu.be/oTf0KxK1QNo?t=55)
 
 ## Azure Container Instances
-sadsadsadsa
+El termino de **contenedores** viene desde la industría de la logistica y el transporte y son son espacios fisicos donde aislas el cargamento. Usualmente son de metal.
 
+![Contenedor real](/res/images/contenedor_real.jpg)
+
+Un contenedor es un paquete de software estándar que  agrupa el código de una aplicación con las bibliotecas y los archivos de configuración asociados, junto con las dependencias necesarias para que la aplicación se ejecute. Esto permite a los desarrolladores y profesionales de TI implementar aplicaciones sin problemas en todos los entornos.
+
+Así te evitas el clasico problema de "Es que en mi maquina si funcionaba".
+
+Un contenedor replica este entorno de ejecución para hacerlo identico en diferentes instancias de si mismo o en diferentes sistemas operativos sin necesidad de alterar el sistema operativo.
+
+En Azure tenemos Azure Container Instancies que es un servicio PaaS para crear y administrar contenedores sin tener que administrar ninguna máquina virtual o adoptar ningún servicio adicional.
+
+Los contenedores se pueden usar cuando:
+
+Caso de uso | Explicación
+------------ | -----------
+Aplicaciones nativas de la nube | Las aplicaciones nativas de la nube se basan en contenedores para lograr un entorno de operación común entre entornos, incluidos los públicos, privados e híbridos.
+Machine Learning | Los contenedores pueden hacer que las aplicaciones de Machine Learning sean autónomas y se puedan escalar fácilmente en cualquier entorno.
+Procesamiento por lotes o Batch | Como generación de informes,  cambio de tamaño de imágenes y conversión de archivos de un formato a otro. Los contenedores proporcionan una manera fácil de ejecutar trabajos por lotes sin tener que administrar un entorno y las dependencias.
+
+Ahora probablemente te preguntarás **¿Cuando es mejor usar contenedores sobre las VM?** Claro que dependerá de tu solución y de la finalidad de la herramienta pero aquí tienes cuatro casos en los que sería mejor usar contenedores:
+
+- Diseñar aplicaciones nativas de la nube
+- Empaquetar microservicios
+- Implantar gradualmente las prácticas de DevOps o de integración/distribución continuas CI/CD
+- Trasladar proyectos de TI escalables a todo un footprint de TI diverso con el - mismo sistema operativo
 
 ### Composición de un contenedor
 ![Composición container](images/container.png)
-
 
 
 ## Azure Functions 
