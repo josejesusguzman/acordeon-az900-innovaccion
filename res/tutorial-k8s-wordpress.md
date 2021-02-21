@@ -1,4 +1,4 @@
-# Tutorial de Wordpress copn Kubernetes
+# Tutorial de Wordpress con Kubernetes
 
 Para ver el tutorial introductorio y que instalar, checa este video:
 - [Tutorial básico de Kubernetes y contenedores](/res/tutorial-k8s-wordpress.md)
