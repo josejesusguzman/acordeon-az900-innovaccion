@@ -34,6 +34,7 @@ Aquí podrás encontrar todos los recursos usados en Innovacicón Virtual para a
 
 ## Tutoriales
 - [Implementación de una Web App con Docker y Azure Kubernetes Service](/res/tutorial_kubernetes_basic.md)
+- [Tutorial de Wordpress copn Kubernetes](/res/tutorial-k8s-wordpress.md)
 
 ## Examenes piloto
 - [Prueba de examen AZ-900](https://kahoot.it/challenge/02060231?challenge-id=17c998c7-d2ca-4aad-8555-25d087dca7da_1613089581619)
