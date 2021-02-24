@@ -41,6 +41,7 @@ Aquí podrás encontrar todos los recursos usados en Innovacicón Virtual para a
 - [Examen sobre el eje de Arquitectura de Soluciones]()
 - [Examen sobre como seleccionar las herramientas de tu solución]()
 - [Examen de Charlie Simulador AZ-900 *Solo Innovacción* ](https://forms.office.com/Pages/ResponsePage.aspx?id=BUvlSn63JEKu8YZhQi4IFnSwDYJ5jHlPnmCU7K6K1f1UMFpTTzQ5MU82TVdQWVI0UThJVzhKTzMyNS4u)
+- [Segundo examen de Charlie Simulador AZ-900 *Solo Innovacción*](https://forms.office.com/Pages/ResponsePage.aspx?id=BUvlSn63JEKu8YZhQi4IFnSwDYJ5jHlPnmCU7K6K1f1UNFkxTVpHUjVONzVHWTJOQ0NYQVY3SEFQRC4u)
 
 ## Recursos extra
 - [Podcast en español sobre la certificación AZ-900](https://open.spotify.com/episode/7KY9i2Xz6WIHocJe6jlPmy?si=SyANKxMTT4K_4kCxGF59Ag)

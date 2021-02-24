@@ -71,6 +71,8 @@ Traducido a minutos por año. Recordando que cada año equivale a 525600
 
 **53 minutos de servicio caido**
 
+**Nota**: Los valores resultantes de las regiones sin disponibilidad están redondeados hacia arriba.
+
 ![Diagrama 3 SLA](/res/images/diagrama3_sla.jpg)
 
 **NOTA:** En tu examen tendrás acceso a una calculadora así que no te preocupes por las cuentas, preocupate más por aprender el proceso.
