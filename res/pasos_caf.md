@@ -1,5 +1,53 @@
 # Sobre el Cloud Adoption Framework
 
+<!-- TOC -->
+- [Sobre el Cloud Adoption Framework](#sobre-el-cloud-adoption-framework)
+  - [1 Definir la estrategia.](#1-definir-la-estrategia)
+    - [1.1 Definir y documentar las motivaciones](#11-definir-y-documentar-las-motivaciones)
+    - [1.2 Documentación de los resultados empresariales](#12-documentación-de-los-resultados-empresariales)
+    - [1.3 Desarrollo de un caso empresarial](#13-desarrollo-de-un-caso-empresarial)
+    - [1.4 Elección adecuada del primer proyecto](#14-elección-adecuada-del-primer-proyecto)
+  - [2 Creación del plan](#2-creación-del-plan)
+    - [2.1 Patrimonio digital](#21-patrimonio-digital)
+    - [2.2 Alineación inicial de la organización](#22-alineación-inicial-de-la-organización)
+    - [2.3 Plan de preparación de las aptitudes](#23-plan-de-preparación-de-las-aptitudes)
+    - [2.4 Plan de adopción de la nube](#24-plan-de-adopción-de-la-nube)
+  - [3 Preparación de la organización](#3-preparación-de-la-organización)
+    - [3.1 Guía de instalación de Azure](#31-guía-de-instalación-de-azure)
+    - [3.2 Zonas de aterrizaje de Azure](#32-zonas-de-aterrizaje-de-azure)
+    - [3.3 Expansión de la zona de aterrizaje](#33-expansión-de-la-zona-de-aterrizaje)
+    - [3.4 Procedimientos recomendados](#34-procedimientos-recomendados)
+  - [4 Adopción de la nube - Fase de migración](#4-adopción-de-la-nube---fase-de-migración)
+    - [4.1 Migración de la primera carga de trabajo](#41-migración-de-la-primera-carga-de-trabajo)
+    - [4.2 Escenarios de migración](#42-escenarios-de-migración)
+    - [4.3 Procedimientos recomendados](#43-procedimientos-recomendados)
+    - [4.4 Mejoras de proceso](#44-mejoras-de-proceso)
+      - [Previsión de un estado final](#previsión-de-un-estado-final)
+      - [Migración incremental](#migración-incremental)
+  - [4 Adopción de la nube - Fase de innovación](#4-adopción-de-la-nube---fase-de-innovación)
+    - [4.1 Consenso del valor empresarial](#41-consenso-del-valor-empresarial)
+    - [4.2 Guía de innovación de Azure](#42-guía-de-innovación-de-azure)
+    - [4.3 Procedimientos recomendados](#43-procedimientos-recomendados-1)
+    - [4.4 Bucles de comentarios](#44-bucles-de-comentarios)
+  - [5 Control y administración de los entornos de nube](#5-control-y-administración-de-los-entornos-de-nube)
+    - [Gobernanza](#gobernanza)
+      - [5.1 Metodología](#51-metodología)
+        - [Previsión de un estado final](#previsión-de-un-estado-final-1)
+        - [Alcanzar el estado final](#alcanzar-el-estado-final)
+      - [5.2 Banco de pruebas](#52-banco-de-pruebas)
+      - [5.3 Base de gobernanza inicial](#53-base-de-gobernanza-inicial)
+      - [5.4 Mejora de la base de gobernanza inicial](#54-mejora-de-la-base-de-gobernanza-inicial)
+    - [Administración](#administración)
+      - [5.1 Definición de los compromisos empresariales](#51-definición-de-los-compromisos-empresariales)
+      - [5.2 Establecimiento de una base de referencia de administración](#52-establecimiento-de-una-base-de-referencia-de-administración)
+        - [Guía de administración de Azure: Antes de comenzar](#guía-de-administración-de-azure-antes-de-comenzar)
+      - [5.3 Expansión de la base de referencia de administración](#53-expansión-de-la-base-de-referencia-de-administración)
+        - [Procedimientos recomendados viables](#procedimientos-recomendados-viables)
+      - [5.4 Operaciones avanzadas y principios de diseño](#54-operaciones-avanzadas-y-principios-de-diseño)
+  - [Recursos adicionales](#recursos-adicionales)
+
+<!-- /TOC -->
+
 El Cloud Adoption Framework es una guía que sirve para el recorrido de la implementación de tecnologías de nube en una organización. 
 
 Este marco de trabajo contempla tareas organizacionales, técnicas y de planeación para la correcta migración a la nube.
@@ -177,12 +225,173 @@ Es la puesta en marcha de varias suscripciones que tiene en cuenta la escala, se
 
 Estas recomendaciones dependerán de los recursos, el tipo de solución a implementar, las áreas, la organización...
 
-## 4. Adopción de la nube
+## 4 Adopción de la nube - Fase de migración
+
+### 4.1 Migración de la primera carga de trabajo
+
+:book: usa la guía de migración de Azure para familiarizarte tanto con las herramientas nativas de Azure como con el método de migración.
+
+- [Guía de migración a la nube](https://docs.microsoft.com/es-es/azure/cloud-adoption-framework/migrate/azure-migration-guide/?tabs=MigrationTools)
+
+### 4.2 Escenarios de migración
+
+:book: Usa otros enfoques y herramientas de migración para actuar en otros escenarios de migración.
+
+- [Migración de acuerdo a las herramientas de origen](https://docs.microsoft.com/es-es/azure/cloud-adoption-framework/migrate/azure-best-practices/)
+
+### 4.3 Procedimientos recomendados
+
+:book: Aborda las necesidades comunes de migración mediante la aplicación de procedimientos recomendados coherentes.
+
+- [Migración de acuerdo a las herramientas de origen](https://docs.microsoft.com/es-es/azure/cloud-adoption-framework/migrate/azure-best-practices/)
+
+### 4.4 Mejoras de proceso
+
+:book: La migración es una actividad de proceso intensivo. A medida que se escalan los esfuerzos de migración, utilice estas mejoras de procesos para evaluar y consolidar diversos aspectos de la migración.
+
+- [5Rs de la racionalización](https://docs.microsoft.com/es-es/azure/cloud-adoption-framework/digital-estate/5-rs-of-rationalization#the-five-rs-of-rationalization)
+
+La migración y modernización de las cargas de trabajo van desde simples migraciones de rehospedaje (llamadas también migraciones lift and shift) mediante las funcionalidades de infraestructura como servicio (IaaS) que no requieren cambios de código y aplicaciones, pasando por la refactorización con cambios mínimos, hasta el rediseño para modificar y ampliar la funcionalidad de código y aplicaciones para aprovechar las tecnologías de la nube.
+
+#### Previsión de un estado final
+
+Es importante tener una visión aproximada del estado final antes de iniciar los trabajos de migración.
+
+![Migración estado final](/res/images/migration-options.png)
+
+#### Migración incremental
+
+El modelo de migración de Cloud Adoption Framework se basa en un proceso de transformación incremental en la nube. Asume que la organización comenzará con un esfuerzo inicial, de ámbito limitado, de migración a la nube, al que nos referimos comúnmente como la primera carga de trabajo. Este esfuerzo se ampliará de forma iterativa para incluir más cargas de trabajo a medida que los equipos de operaciones perfeccionen y mejoren sus procesos de migración.
+
+![Migración incremental](/res/images/methodology-migrate-caf.png)
+
+## 4 Adopción de la nube - Fase de innovación
+
+![Innovate Methodology](/res/images/innovate-methodology.png)
+
+### 4.1 Consenso del valor empresarial
+
+:book: Antes de decidir qué soluciones técnicas vas a usar, identifica de qué forma la innovación puede potenciar el valor empresarial. Asigna ese valor a su estrategia en la nube. En esta metodología incremental, el valor empresarial se representa mediante una hipótesis acerca de las necesidades del cliente.
+
+1. Preguntate primero:
+
+- ¿Qué necesidad definida del cliente busca satisfacer con esta solución?
+- ¿Qué oportunidades creará esta solución para la empresa?
+- ¿Qué resultados empresariales se lograrán con esta solución?
+- ¿Qué motivación de la empresa se atenderá con esta solución?
+
+2. Observa primero la perspectiva general y las oportunidades
+3. Solucionar la alineación de la solución. Para ello necesitas identificar:
+
+- Oportunidad de hipótesis
+- Oportunidad de creación
+- Oportunidad de aprendizaje
+
+### 4.2 Guía de innovación de Azure
+
+Azure incluye herramientas en la nube que aceleran la implementación de soluciones innovadoras. En función de lo que necesitas, puede plantearse varias combinaciones de herramientas. Se recomienda crear un producto viable mínimo con herramientas básicas.
+
+- [Introducción a la guía de soluciones innovadoras de Azure
+](https://docs.microsoft.com/es-es/azure/cloud-adoption-framework/innovate/innovation-guide/)
+
+### 4.3 Procedimientos recomendados
+
+:book: Las decisiones arquitectónicas deberían seguir los procedimientos recomendados en todas las herramientas de la cadena. esta guía acelerará más el desarrollo de soluciones y proporcionará una referencia para la creación de diseños arquitectónicos sólidos.
+
+![Innovaction Toolchain](/res/images/innovate-toolchain.png)
 
 
+- **Democratización de datos**: herramientas para compartir datos que satisfagan las necesidades de los clientes relacionadas con la información.
+- **Participación a través de aplicaciones**: Herramientas para crear aplicaciones que permitan la participación de los clientes más allá de los datos sin procesar.
+- **Capacitación de la adopción**: herramientas para acelerar la adopción por parte del cliente mediante el apoyo digital a los ciclos de crear-medir-aprender.
+- **Interacción con dispositivos**: herramientas para crear distintos niveles de experiencias ambientales para los clientes.
+- **Predicción e influencia**: herramientas para el análisis predictivo y la integración de su salida en aplicaciones.
 
-## 5. Control y administración de los entornos de nube
+### 4.4 Bucles de comentarios
 
+:book:  Durante cada iteración de desarrollo, las soluciones en desarrollo ofrecen a los equipos aprender la posibilidad de aprender al mismo tiempo que sus clientes. Los bucles de comentarios rápidos y precisos con sus clientes pueden ayudarte a probar, medir y aprender mejor, y, en última instancia, a reducir el tiempo de impacto en el mercado. 
+
+![Bucles de comentarios](/res/images/bml-feedback-loop.png)
+
+## 5 Control y administración de los entornos de nube
+
+### Gobernanza
+
+#### 5.1 Metodología
+
+:book: Establece un reconocimiento básico de la metodología que promueve la gobernanza en la nube dentro de Cloud Adoption Framework para empezar a pensar en la solución de estado final.
+
+##### Previsión de un estado final
+
+![Gobernanza 1](/res/images/operational-transformation-govern-large.png)
+
+:book:  La gobernanza incremental se basa en un pequeño conjunto de directivas corporativas, procesos y herramientas para establecer una base para la adopción y la gobernanza. Esta base se denomina producto viable mínimo (MVP) . Un MVP permite al equipo de gobernanza incorporar con rapidez la gobernanza en las implementaciones a lo largo del ciclo de vida de la adopción. Se puede establecer un MVP en cualquier punto durante el proceso de adopción de la nube. Es recomendable adoptar un MVP tan pronto como sea posible.
+
+##### Alcanzar el estado final
+
+![Gobenrarza 2](/res/images/incremental-governance-example.png)
+
+#### 5.2 Banco de pruebas
+
+:book: Evaluación del estado actual y futuro para establecer una visión a la hora de aplicar la plataforma.
+
+- [Usa esta herramienta](https://cafbaseline.com/)
+
+#### 5.3 Base de gobernanza inicial
+
+:book: Comienza tu recorrido por la gobernanza con un pequeño conjunto de herramientas de gobernanza de fácil implementación. Esta base de gobernanza inicial se denomina producto viable mínimo (MVP).
+
+- [Guía de gobernanza para empresas estándar](https://docs.microsoft.com/es-es/azure/cloud-adoption-framework/govern/guides/standard/)
+
+:book: El Producto Minimo Viable o MVP es la versión tempranda de un producto o servicio que sirve para validar solo la funcionalidad o validez de una idea o implementación.
+
+- :movie_camera: [MVP desde la vista del emprendimiento](https://youtu.be/LCrMWe09EQY)
+
+#### 5.4 Mejora de la base de gobernanza inicial
+
+:book: Durante la implementación del plan de adopción de la nube, agrega de manera iterativa los controles de gobernanza para afrontar riesgos tangibles a medida que avanza hacia el estado final.
+
+- [Vectores de madurez](https://docs.microsoft.com/es-es/azure/cloud-adoption-framework/govern/foundation-improvements#maturity-vectors)
+
+### Administración
+
+![CAF Manage](/res/images/caf-manage.png)
+
+#### 5.1 Definición de los compromisos empresariales
+
+:book: Documenta las cargas de trabajo admitidas para establecer los compromisos operativos con la empresa y acordar las inversiones en administración de la nube para cada carga de trabajo.
+
+- El primer paso para crear la alineación empresarial es garantizar la alineación de los términos.
+
+#### 5.2 Establecimiento de una base de referencia de administración
+
+:book: Define los grados de importancia, las herramientas de administración de la nube y los procesos necesarios para ofrecer tu compromiso mínimo con la administración de operaciones.
+
+##### Guía de administración de Azure: Antes de comenzar
+
+- **Inventario y visibilidad**: cree un inventario de recursos en varias nubes. Desarrolle la visibilidad del estado de ejecución de cada recurso
+- **Cumplimiento operativo**: establezca controles y procesos para asegurarse de que todos los estados están configurados correctamente y de que se ejecutan en un entorno bien controlado
+- **Protección y recuperación**: asegúrese de que todos los recursos administrados están protegidos y se pueden recuperar mediante las herramientas de administración de la línea de base
+- **Opciones de línea de base mejorada**: evalúe las incorporaciones comunes a la línea de base que puedan satisfacer las necesidades empresariales
+- **Operaciones de la plataforma**: amplíe la línea de base de administración con un catálogo de servicios bien definido y plataformas administradas centralmente
+- **Operaciones con cargas de trabajo**: amplíe la línea de base de administración para incluir la posibilidad de centrarse en las cargas de trabajo críticas
+
+#### 5.3 Expansión de la base de referencia de administración
+
+:book: Según los compromisos empresariales y las decisiones operativas, saca el máximo partido a los procedimientos recomendados que se incluyen para implementar las herramientas necesarias de administración de la nube.
+
+##### Procedimientos recomendados viables
+
+- [Azure Server Management](https://docs.microsoft.com/es-es/azure/cloud-adoption-framework/manage/azure-server-management/): guía de incorporación para agregar las herramientas y servicios nativos en la nube necesarios para administrar las operaciones.
+- [Supervisión híbrida](https://docs.microsoft.com/es-es/azure/cloud-adoption-framework/manage/monitor/): Muchos clientes ya han realizado una inversión sustancial en System Center Operations Manager. Para esos clientes, esta guía sobre la supervisión híbrida puede ayudar a comparar y contrastar las herramientas de notificación nativas de la nube con las herramientas de Operations Manager. Con esta comparación resulta más fácil decidir qué herramientas utilizar para la administración operativa.
+
+#### 5.4 Operaciones avanzadas y principios de diseño
+
+:book: Es posible que las plataformas o cargas de trabajo que necesiten un mayor nivel de compromiso empresarial requieran una revisión más profunda de la arquitectura para cumplir con los compromisos de resistencia y confiabilidad.
+
+![Operaciones avanzadas](/res/images/beyond-the-baseline.png)
+
+## Recursos adicionales
 
 - [Procedimientos recomendados de preparación para Azure](https://docs.microsoft.com/es-es/azure/cloud-adoption-framework/ready/azure-best-practices/)
 
