@@ -38,7 +38,7 @@ Aquí podrás encontrar todos los recursos usados en Innovacicón Virtual para a
 
 ## Examenes piloto
 - [Prueba de examen AZ-900](https://kahoot.it/challenge/02060231?challenge-id=17c998c7-d2ca-4aad-8555-25d087dca7da_1613089581619)
-- [Examen sobre el eje de Arquitectura de Soluciones]()
+- [Examen sobre el eje de Arquitectura de Soluciones](https://kahoot.it/challenge/004086262)
 - [Examen sobre como seleccionar las herramientas de tu solución](https://kahoot.it/challenge/002433076)
 - [Examen de Charlie Simulador AZ-900 *Solo Innovacción* ](https://forms.office.com/Pages/ResponsePage.aspx?id=BUvlSn63JEKu8YZhQi4IFnSwDYJ5jHlPnmCU7K6K1f1UMFpTTzQ5MU82TVdQWVI0UThJVzhKTzMyNS4u)
 - [Segundo examen de Charlie Simulador AZ-900 *Solo Innovacción*](https://forms.office.com/Pages/ResponsePage.aspx?id=BUvlSn63JEKu8YZhQi4IFnSwDYJ5jHlPnmCU7K6K1f1UNFkxTVpHUjVONzVHWTJOQ0NYQVY3SEFQRC4u)
