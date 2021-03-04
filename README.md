@@ -9,6 +9,8 @@ Aquí podrás encontrar todos los recursos usados en Innovacicón Virtual para a
 
 ***Nota para Innovacción: No compres la certificación**, espera instrucciones. Te daremos un voucher para hacer tu examen gratis. Microsoft no te devolverá el dinero que hayas gastado por error en comprar el examen o un curso pagado.*
 
+***Nota para Innovacción:, cuida tu crédito de azure** eliminando recursos, apagandolos y usando basic o free tiers de los recursos ya que Microsoft no te dará saldo extra una vez te lo acabes.*
+
 ## Glosarios
 - [Glosario de terminos básicos de tecnología](res/docs/V2%20Glosario%20de%20términos%20Innovacción.pdf)
 - [Glosario de terminos de Azure](res/terminos_azure.md)
@@ -55,8 +57,8 @@ Aquí podrás encontrar todos los recursos usados en Innovacicón Virtual para a
 
 [Asignador random de casos tipo examen]()
 
-Si quieres integrar algún recursos extra que te haya servido haz un *pull request* y lo evaluaré.
+Si quieres integrar algún recurso extra que te haya servido haz un *pull request* y lo evaluaré.
 
-También si encuentras un error de orgrafía o de contenido por favor levanta un *issue*.
+También si encuentras un error de ortografía o de contenido por favor levanta un *issue* y puedes resolverlo con un *pull request* también.
 
 Mucho éxito en tu examen.
