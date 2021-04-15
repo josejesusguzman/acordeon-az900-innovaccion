@@ -3,7 +3,7 @@
 
 ![Logo Arquitectura de soluciones](/res/images/logo_arquitectura.png)
 
-Aquí podrás encontrar todos los recursos usados en Innovacicón Virtual para ayudarte en tu travesía hacia certirficarte en la nube de Azure.
+Aquí podrás encontrar todos los recursos usados en Innovacción Virtual para ayudarte en tu travesía hacia certirficarte en la nube de Azure.
 
 **[Link de estudio en Microsoft Learn](https://docs.microsoft.com/es-mx/learn/certifications/exams/az-900#two-ways-to-prepare)**
 
