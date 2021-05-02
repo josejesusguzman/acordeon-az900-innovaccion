@@ -1,7 +1,7 @@
 # Acordeón de estudio AZ-900 Microsoft Fundamentals
 ### Eje de Inteligencia Artificial
 
-![Logo Arquitectura de soluciones](/res/images/logo_arquitectura.png)
+![Logo Inteligencia Artificial](/res/images/logo_ia.png)
 
 Aquí podrás encontrar todos los recursos usados en Innovacción Virtual para ayudarte en tu travesía hacia certirficarte en la nube de Azure.
 
