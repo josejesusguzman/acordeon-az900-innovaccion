@@ -23,6 +23,7 @@ Aquí podrás encontrar todos los recursos usados en Innovacicón Virtual para a
 - [Tabla comparativa de seguridad en Azure](/res/comparativa_seguridad.md)
 - [Comparativa Azure AD Active Directory](/res/comparativa_azureAD.md)
 - [Comparativa VM, Kubernetes y Contenedores](/res/comparativa_compute.md)
+- [Board de Miro con notas](https://miro.com/welcomeonboard/TUApmgcK4QmomV1TEkjMZcNn0H2pzzuEG3mszndx7I94kV4veuFo9dFZMW9izWWK)
 
 ## Recursos clave
 - [Cumplimiento GDRP con Azure](/res/cumplimiento_gdrp.md)
