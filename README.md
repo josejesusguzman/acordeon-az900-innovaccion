@@ -3,7 +3,7 @@
 
 ![Logo Arquitectura de soluciones](/res/images/logo_arquitectura.png)
 
-Aquí podrás encontrar todos los recursos usados en Innovacicón Virtual para ayudarte en tu travesía hacia certirficarte en la nube de Azure.
+Aquí podrás encontrar todos los recursos usados en Innovacción Virtual para ayudarte en tu travesía hacia certirficarte en la nube de Azure.
 
 **[Link de estudio en Microsoft Learn](https://docs.microsoft.com/es-mx/learn/certifications/exams/az-900#two-ways-to-prepare)**
 
@@ -24,6 +24,7 @@ Aquí podrás encontrar todos los recursos usados en Innovacicón Virtual para a
 - [Comparativa Azure AD Active Directory](/res/comparativa_azureAD.md)
 - [Comparativa VM, Kubernetes y Contenedores](/res/comparativa_compute.md)
 - [Board de Miro con notas](https://miro.com/welcomeonboard/TUApmgcK4QmomV1TEkjMZcNn0H2pzzuEG3mszndx7I94kV4veuFo9dFZMW9izWWK)
+- [Comparativa de servicios de redes de Azure]()
 
 ## Recursos clave
 - [Cumplimiento GDRP con Azure](/res/cumplimiento_gdrp.md)
