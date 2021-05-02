@@ -1,5 +1,5 @@
 # Acordeón de estudio AZ-900 Microsoft Fundamentals
-### Eje de Arquitectura de Soluciones
+### Eje de Inteligencia Artificial
 
 ![Logo Arquitectura de soluciones](/res/images/logo_arquitectura.png)
 
