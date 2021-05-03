@@ -26,7 +26,7 @@ Esta categoria guardará los datos y archivos necesarios para el correcto funcio
 
 ![Desición data](/res/images/data-store-decision-tree.png)
 
-## 3. Blanceo de carga
+## 3. Balanceo de carga
 
 Equilibrio de carga hace referencia a la distribución de cargas de trabajo entre varios recursos de proceso. El equilibrio de carga busca optimizar el uso de recursos, maximizar el rendimiento, minimizar el tiempo de respuesta y evitar la sobrecarga de un solo recurso. También puede mejorar la disponibilidad al compartir una carga de trabajo entre recursos de proceso redundantes.
 

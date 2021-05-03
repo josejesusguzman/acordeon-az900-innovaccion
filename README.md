@@ -24,9 +24,9 @@ Aquí podrás encontrar todos los recursos usados en Innovacción Virtual para a
 - [Comparativa Azure AD Active Directory](/res/comparativa_azureAD.md)
 - [Comparativa VM, Kubernetes y Contenedores](/res/comparativa_compute.md)
 - [Board de Miro con notas]()*
-- [Comparativa de servicios de redes de Azure]()*
-- [Comparativa entre servicios de Cognitive Services]()*
-- [Comparativa entre ML Studio y ML Services]()*
+- [Comparativa de servicios de redes de Azure](/res/comparativa_redes.md)
+- [Comparativa entre servicios de Cognitive Services](/res/comparativa_cognitive_services.md)*
+- [Comparativa entre ML Studio y ML Services](/res/comparativa_ml_studio.md)*
 
 ## Recursos clave
 - **[Curso básico de programación con Python](https://github.com/RodolfoFerro/python-innovaccion)**
@@ -36,7 +36,7 @@ Aquí podrás encontrar todos los recursos usados en Innovacción Virtual para a
 - [Buenas practicas para plantillas ARM](https://github.com/Azure/azure-quickstart-templates/blob/master/1-CONTRIBUTION-GUIDE/best-practices.md)
 - [Como seleccionar las mejores herramientas para tu solución](/res/seleccion_herramientas.md)
 - [Pasos del Cloud Adoption Framework](/res/pasos_caf.md)
-- [Ejercicios de calculo de SLA]()*
+- [Ejercicios de calculo de SLA](/res/ejercicios-sla.md)*
 - [Práctica de Azure IoT Hub](https://github.com/jose1824/iot-edge-innovaccion-practice)
 
 ## Tutoriales

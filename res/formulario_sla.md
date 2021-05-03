@@ -6,7 +6,7 @@ Para todos los servicios de Azure encontrarás cifras similares a 99.99% o 99.95
 
 **Por ejemplo:**
 
-<img src="/res/images/cosmos_db.png" alt="drawing" width="150"/>
+![Logo de cosmos DB](/res/images/cosmos_db.png)
 
 El servicio de **Azure Cosmos DB** ofrece un SLA de 99,999 %, esto quiere decir que el servicio tiene "*derecho*" a fallar o ser interrumpido por 52.56 minutos al año. 
 
