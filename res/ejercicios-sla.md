@@ -172,7 +172,6 @@ ________________________________________________________
 - El servicio de **Cosmos DB** esta configurado en multiples regiones
 - El servicio de **Blob Storage** tiene nivel de acceso esporadico con GRS
 
-0.9995 * 0.9999 * 0.9999 * 0.9999 * 0.9995 * 0.99999 * 0.99
 ### Resultado
 **SLA: 98.87 %**
 ________________________________________________________
@@ -184,9 +183,11 @@ ________________________________________________________
 - [Más información aquí](https://docs.microsoft.com/es-mx/azure/architecture/solution-ideas/articles/quality-assurance)
 
 ### Detalles
+- El **Events Hub** usa un nivel estándar de servicio
+- Ignora el **Raw Stream Data** y **Machine Learning**
 
 ### Resultado
-**SLA:  %**
+**SLA: 99.65 %**
 ________________________________________________________
 
 ## Ejercicio 12. Aplicación web básica
@@ -196,9 +197,14 @@ ________________________________________________________
 - [Más información aquí](https://docs.microsoft.com/es-mx/azure/architecture/reference-architectures/app-service-web-app/basic-web-app?tabs=cli)
 
 ### Detalles
+- **Active Directory** tiene un nivel de servicio básico
+- Ignora los servicios **Azure DNS**, **Key Vault**, **plan de App service** y el **Azure Monitor**
+- **Logical Server** es un servicio Azure SQL Database y tiene hyperscale con una replica
+- Las otras dos bases de datos **SQL Database** son de uso general con tres réplicas (redundancia de zona)
+- Considera la disponibilidad minima de un área de trabajo de **Log Analytics**
 
 ### Resultado
-**SLA:  %**
+**SLA: 99.62 %**
 ________________________________________________________
 
 ## Ejercicio 13. DevOps seguro para AKS
