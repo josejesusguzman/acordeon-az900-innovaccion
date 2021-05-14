@@ -7,11 +7,20 @@
 
 Aquí podrás encontrar todos los recursos usados en Innovacción Virtual para ayudarte en tu travesía hacia certirficarte en la nube de Azure.
 
-**[Link de estudio en Microsoft Learn](https://docs.microsoft.com/es-mx/learn/certifications/exams/az-900#two-ways-to-prepare)**
 
 ***Nota para Innovacción: No compres la certificación**, espera instrucciones. Te daremos un voucher para hacer tu examen gratis. Microsoft no te devolverá el dinero que hayas gastado por error en comprar el examen o un curso pagado.*
 
 ***Nota para Innovacción: cuida tu crédito de azure** eliminando recursos, apagandolos y usando basic o free tiers de los recursos ya que Microsoft no te dará saldo extra una vez te lo acabes.*
+
+##Links importantes
+- [Link de estudio en Microsoft Learn AZ-900](https://docs.microsoft.com/es-mx/learn/certifications/exams/az-900#two-ways-to-prepare)
+- **[(Solo Innovacción) Challenge Innovacción Virtual Ciclo Especializado](https://docs.microsoft.com/en-gb/learn/challenges?id=1b157d7d-b99e-4cf8-8523-9c8b51f93c1b)**
+- [Calculadora de TCO](https://azure.microsoft.com/es-mx/pricing/tco/)
+- [Calculadora de costos de Azure](https://azure.microsoft.com/es-mx/pricing/calculator/)
+- [Contratos de nivel de servicios de Azure](https://azure.microsoft.com/es-mx/support/legal/sla/)
+- [(Solo Innovacción) Microsoft Sponsorships](https://www.microsoftazuresponsorships.com/)
+- [(Solo Innovacción) Grabaciones de los live](https://web.microsoftstream.com/channel/cc21ece7-cc09-4d69-9d6a-b6aa1ce1bac4)
+
 
 ## Glosarios
 - [Glosario de terminos básicos de tecnología](res/docs/V2%20Glosario%20de%20términos%20Innovacción.pdf)
