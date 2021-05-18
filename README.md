@@ -56,7 +56,7 @@ Aquí podrás encontrar todos los recursos usados en Innovacción Virtual para a
 - [Tutorial de creación de un experimento con Machine Learning Studio]()*
 
 ## Examenes piloto
-- [Prueba de examen AZ-900](https://kahoot.it/challenge/02060231?challenge-id=17c998c7-d2ca-4aad-8555-25d087dca7da_1613089581619)
+- [Prueba de examen AZ-900](https://kahoot.it/challenge/003048799)
 - [Examen sobre el eje de Inteligencia Artificial]()*
 - [Examen sobre como seleccionar las herramientas de tu solución](https://kahoot.it/challenge/002433076)
 - Proximamente más
