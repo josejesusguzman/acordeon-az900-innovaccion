@@ -337,9 +337,14 @@ ________________________________________________________
 - [Más información aquí](https://docs.microsoft.com/es-mx/azure/architecture/solution-ideas/articles/iot-azure-data-explorer)
 
 ### Detalles
+- El servicio de **IoT Hub** no es gratuito
+- Ambos servicios de **Event Hub** utiliza el nivel estándar de servicio
+- **Kafka** se ejecuta en un cluster de Azure HDInsight
+- **Azure Data Lake Storage** es de nivel premium
+- **Cosmos DB** puede ser escrito en varias regiones de Azure
 
 ### Resultado
-**SLA:  %**
+**SLA: 98.90 %**
 ________________________________________________________
 
 ## Ejercicio 21. DevTest y DevOps para soluciones de microservicios
@@ -349,6 +354,15 @@ ________________________________________________________
 - [Más información aquí](https://docs.microsoft.com/es-mx/azure/architecture/solution-ideas/articles/dev-test-microservice)
 
 ### Detalles
+- En el ambiente de desarrollo se utiliza una replica y una sola región de escritura para **Cosmos DB**. En el ambiente de productivo se utilizan multiples regiones como puntos de conexión editables.
+- En el ambiente productivo se usa el **AKS** con zona de disponibilidad. En el de desarrollo no
+- Se esta pagando Azure Pipelines de pago para **Azure DevOps**
+- **Azure AD** es B2C
+- Para **Azure Monitor** considera los SLA de un área de trabajo Log Analytics y Applicaiton Insights en conjunto
 
 ### Resultado
-**SLA:  %**
+**SLA Productivo: 99.84 %**
+**SLA Total: 99.023 %**
+
+- El ambiente productivo puede fallar hasta **14 horas al año**
+- Toda la solución puede fallar hasta **7 horas al mes**
