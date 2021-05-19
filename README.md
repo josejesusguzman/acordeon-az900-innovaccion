@@ -34,8 +34,8 @@ Aquí podrás encontrar todos los recursos usados en Innovacción Virtual para a
 - [Tabla comparativa de seguridad en Azure](/res/comparativa_seguridad.md)
 - [Comparativa Azure AD Active Directory](/res/comparativa_azureAD.md)
 - [Comparativa VM, Kubernetes y Contenedores](/res/comparativa_compute.md)
-- [Board de Miro con notas propedeuticas](https://miro.com/app/board/o9J_lFmeuC4=/)*
-- [Board de Miro con notas](https://miro.com/app/board/o9J_lDGKcdM=/)*
+- [Board de Miro con notas propedeuticas](https://miro.com/app/board/o9J_lFmeuC4=/)
+- [Board de Miro con notas](https://miro.com/app/board/o9J_lDGKcdM=/)
 - [Comparativa de servicios de redes de Azure](/res/comparativa_redes.md)
 - [Comparativa entre servicios de Cognitive Services](/res/comparativa_cognitive_services.md)*
 - [Comparativa entre ML Studio y ML Services](/res/comparativa_ml_studio.md)*
