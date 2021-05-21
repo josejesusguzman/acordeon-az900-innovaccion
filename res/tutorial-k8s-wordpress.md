@@ -122,7 +122,7 @@ docker build --tag myblog:latest .
 
 - Creación del recurso Azure Container Registry (ACR)
 ```
-acr create --resource-group NOMBRE_GRUPO_RECURSO --name NOMBRE_ACR --sku Basic
+az acr create --resource-group NOMBRE_GRUPO_RECURSO --name NOMBRE_ACR --sku Basic
 ```
 
 - Creación del recurso de Azure Kubernetes Service (AKS)
