@@ -37,8 +37,8 @@ Aquí podrás encontrar todos los recursos usados en Innovacción Virtual para a
 - [Board de Miro con notas propedeuticas](https://miro.com/app/board/o9J_lFmeuC4=/)
 - [Board de Miro con notas](https://miro.com/app/board/o9J_lDGKcdM=/)
 - [Comparativa de servicios de redes de Azure](/res/comparativa_redes.md)
-- [Comparativa entre servicios de Cognitive Services](/res/comparativa_cognitive_services.md)*
-- [Comparativa entre ML Studio y ML Services](/res/comparativa_ml_studio.md)*
+- [Comparativa entre servicios de Cognitive Services](/res/comparativa_cognitive_services.md)
+
 
 ## Recursos clave
 - **[Curso básico de programación con Python](https://github.com/RodolfoFerro/python-innovaccion)**
@@ -54,7 +54,7 @@ Aquí podrás encontrar todos los recursos usados en Innovacción Virtual para a
 ## Tutoriales
 - [Implementación de una Web App con Docker y Azure Kubernetes Service](/res/tutorial_kubernetes_basic.md)
 - [Tutorial de Wordpress con Kubernetes](/res/tutorial-k8s-wordpress.md)
-- [Tutorial de creación de un experimento con Machine Learning Studio]()*
+- [Tutorial de creación de un experimento con Machine Learning Studio](/res/ml-studio-excercise.md)
 
 ## Examenes piloto
 - [Prueba de examen AZ-900](https://kahoot.it/challenge/003048799)
