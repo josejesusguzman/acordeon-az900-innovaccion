@@ -1,5 +1,7 @@
 # Ejercicio con Azure Machine Learning Studio
 
+- [Grabación de la ]()
+
 En esta práctica lo que harás será crear un modelo de predicción de diabetes de acuerdo con un dataset brindado. Todo lo harás con el portal de Azure y Machine Learning Studio. Además, aprenderás a usar un poco mejor la plataforma.
 
 ## Creación de un recurso de Aprendizaje automático
@@ -169,3 +171,137 @@ Estro creará un nuevo **Modelo** junto con un Endpoint o **Punto de conexión**
 
 ____________
 
+## Creación de un modelo con Machine Learning Designer
+
+1. Si eliminaste el Cluster de proceso crea uno nuevo
+
+2. Ve al apartado de **Diseñador** con el menú de la izquierda
+
+- Selecciona en el apartado de Canalizaciones el único pipeline que te aparece
+
+ - Si no aparece ninguno da clic en **Módulos creados previamente fáciles de usar**
+
+![tutorial-ml-select-diseñador](/res/images/tutorial-ml/tutorial-ml-select-diseñador.jpg)
+
+
+- Cambia el nombre del pipeline haciendo clic en el nombre de la parte superior
+
+
+2. Selecciona una instancia de cómputo desde la configuración y despúes **Selección de destino de proceso** en el menú de la derecha
+
+![tutorial-ml-diseñador-select-compute](/res/images/tutorial-ml/tutorial-ml-diseñador-select-compute.jpg)
+
+
+3. Expande el apartado de **Datasets** de la parte izquierda y arrastra al área gris de en medio el dataset que hemos creado (el único que debería aparecer)
+
+![tutorial-ml-diseñador-drag and drop](/res/images/tutorial-ml/tutorial-ml-diseñador-drag-drop.jpg)
+
+4. Agrega la transformación **Normalize Data** (te puedes apoyar de la barra de búsqueda)
+
+![tutorial-ml-aggregate-columns-diseñador](/res/images/tutorial-ml/tutorial-ml-aggregate-columns-diseñador.jpg)
+
+- Selecciona el nuevo elemento y parecerá uan sección en la parte izquierda. Dale clic en Editar columna y como en la imagen agrega las siguientes columnas:
+
+  - PlasmaGlucose
+  - DiastolicBloodPressure
+  - TricepsThickness
+  - SerumInsulin
+  - BMI
+  - DiabetesPedigree
+
+5. Agrega el elemento de transformación **Split Data** al diseñador
+
+Conecta los elementos como se ve en la imagen
+
+![tutorial-ml-diseñador-connect1](/res/images/tutorial-ml/tutorial-ml-diseñador-connect1.jpg)
+
+
+- Selecciona el elemento Split Data y configuralo como la siguiente imagen:
+
+![tutorial-ml-diseñador-splitdata-form](/res/images/tutorial-ml/tutorial-ml-diseñador-splitdata-form.jpg)
+
+6. Agrega el elemento **Train Model** y conecta la salida izquierda de Split Data con la entrada derecha de Train Model
+
+- Da clic en **Train Model** y en Editar Columnas en el campo de texto solo agrega la columna **Diabetic** y dale Guardar
+
+![tutorial-ml-diseñador-trainmodel-columnas](/res/images/tutorial-ml/tutorial-ml-diseñador-trainmodel-columnas.jpg)
+
+7. Agrega el elemento **Two-Class Logistic Regression** a la izquierda de **Split Data** y arriba de **Train Model**
+conecta su única salida a la entrada restante de **Train Model**
+
+8. Agrega el elemento **Score Model** debajo de **Train Model** y conecta la salida de **Train Model** a la entrada izquierda y **Split Data** a la entrada derecha
+
+9. Agrega el elemento **Evaluate Model** y conecta la salida de **Score Model** a la entrada izquierda de **Evaluate Model**
+
+- El diagrama del diseñador te debe quedar similar a este:
+
+![tutorial-ml-diseñador-resultado](/res/images/tutorial-ml/tutorial-ml-diseñador-resultado.jpg)
+
+10. Una vez hecho esto dale clic en Enviar, dale en **Crear Nuevo**, colocale un nombre y da clic en enviar para crear un nuevo experimento
+
+11. Una ves terminada la ejecución exitosa de nuestro experimento
+En el diseñador > Borradores de canalización > Seleccionamos le que hicimos
+
+12. Da clic en **Crear canalización de Interferencia** y selecciona canalización de tnerferencia en tiempo real
+
+![tutorial-ml-crear-canalizacion-interferencia](/res/images/tutorial-ml/tutorial-ml-crear-canalizacion-interferencia.jpg)
+
+- Se abrirá un pipeline nuevo
+- Renombralo a Predicción Diabetes
+
+13. Elimina el **diabetes dataset** (O como le hayas puesto a tu dataset)
+
+14. Coloca el módulo **Enter Data Manually**
+
+- Da clic en el nuevo módulo y en la sección de **Data** coloca lo siguiente:
+
+```CSV
+PatientID,Pregnancies,PlasmaGlucose,DiastolicBloodPressure,TricepsThickness,SerumInsulin,BMI,DiabetesPedigree,Age
+1882185,9,104,51,7,24,27.36983156,1.350472047,43
+1662484,6,73,61,35,24,18.74367404,1.074147566,75
+1228510,4,115,50,29,243,34.69215364,0.741159926,59
+```
+
+- Conectalo de la misma forma que estaba el **dataset** 
+
+15. Elimina el módulo Evaluate Model ya que no es útil para nueva data
+16. Elimina la conexión entre **Score Model** y **Web Service Output**
+
+17. Agrega el módulo **Execute Python Script**
+
+18. Conecta la salida de **Score Model** con la primer entrada de izquierda a derecha de **Execute Python Script**. De este último ejecuta su salida con **Web Service Output**.
+
+- Da clic **Execute Python Script** y remplaza todo el código del Script por lo siguiente:
+
+```Python
+import pandas as pd
+
+def azureml_main(dataframe1 = None, dataframe2 = None):
+
+    scored_results = dataframe1[['PatientID', 'Scored Labels', 'Scored Probabilities']]
+    scored_results.rename(columns={'Scored Labels':'DiabetesPrediction',
+                                    'Scored Probabilities':'Probability'},
+                            inplace=True)
+    return scored_results
+```
+
+- El diagrama resultante debe ser similar a este:
+
+![tutorial-ml-resultado2-diseñador-interferencia-final](/res/images/tutorial-ml/tutorial-ml-resultado2-diseñador-interferencia-final.jpg)
+
+
+19. Dale clic en enviar, **crea un nuevo experimento** y colocale un nombre nuevo.
+
+20. Una vez terminada la ejecución das clic al botón Implementar y selecciona la opción **Implementar nuevo punto de conexión en tiempo real** y con el **Tipo de proceso Instancia de Contenedor de Azure**
+
+- Espera a que se despliegue el web service
+
+21. Ve a la sección de puntos de conexión y abre el que acabamos de crear
+
+22. En la pestaña de cconsumir guarda el **punto de conexión REST** y el **Primary Key**
+
+23. Ve a la sección de **Notebooks**, agre la carpeta mslearn-dp100. Posteriormente accede al notebook **03-Get Designer Prediction**
+
+24. Suplanta el endpoint y el primary key en donde corresponden y ejecuta el Notebook
+
+25. Elimina los recursos para evitar que se gasten tu crédito de Azure
