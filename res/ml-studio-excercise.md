@@ -1,6 +1,6 @@
 # Ejercicio con Azure Machine Learning Studio
 
-- [Grabación de la ]()
+- [Grabación de la clase](https://web.microsoftstream.com/video/40c637e4-e15d-415b-90e0-9d54bfb0fae9)
 
 En esta práctica lo que harás será crear un modelo de predicción de diabetes de acuerdo con un dataset brindado. Todo lo harás con el portal de Azure y Machine Learning Studio. Además, aprenderás a usar un poco mejor la plataforma.
 
