@@ -60,6 +60,8 @@ Aquí podrás encontrar todos los recursos usados en Innovacción Virtual para a
 - [Prueba de examen AZ-900](https://kahoot.it/challenge/003048799)
 - [Examen sobre el eje de Inteligencia Artificial](https://kahoot.it/challenge/07609220?challenge-id=17c998c7-d2ca-4aad-8555-25d087dca7da_1622490996877)
 - [Examen sobre como seleccionar las herramientas de tu solución](https://kahoot.it/challenge/002433076)
+- [Examen módulo 5 AZ-900: Gobernanza y cumplimiento](https://kahoot.it/challenge/08853385?challenge-id=17c998c7-d2ca-4aad-8555-25d087dca7da_1622756310880)
+- [Examen módulo 6 AZ-900: Acuerdos de nivel de servicio y costos](https://kahoot.it/challenge/09666070?challenge-id=17c998c7-d2ca-4aad-8555-25d087dca7da_1622755923298)
 - Proximamente más
 
 ## Recursos extra
