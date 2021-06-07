@@ -58,9 +58,10 @@ Aquí podrás encontrar todos los recursos usados en Innovacción Virtual para a
 
 ## Examenes piloto
 - [Prueba de examen AZ-900](https://kahoot.it/challenge/003048799)
-- [Examen sobre el eje de Inteligencia Artificial]()*
+- [Examen sobre el eje de Inteligencia Artificial](https://kahoot.it/challenge/07609220?challenge-id=17c998c7-d2ca-4aad-8555-25d087dca7da_1622490996877)*
 - [Examen sobre como seleccionar las herramientas de tu solución](https://kahoot.it/challenge/002433076)
-- Proximamente más
+- [Examen módulo 5 AZ-900]()* Proximamente
+- [Examen módulo 6 AZ-900]()* Proximamente
 
 ## Recursos extra
 - [Ejercicios de Machine Learning con Python y Colab](https://github.com/jose1824/ms-learn-ml-crash-course-python)
