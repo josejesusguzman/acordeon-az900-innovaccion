@@ -34,10 +34,11 @@ Aquí podrás encontrar todos los recursos usados en Innovacción Virtual para a
 - [Tabla comparativa de seguridad en Azure](/res/comparativa_seguridad.md)
 - [Comparativa Azure AD Active Directory](/res/comparativa_azureAD.md)
 - [Comparativa VM, Kubernetes y Contenedores](/res/comparativa_compute.md)
-- [Board de Miro con notas]()*
+- [Board de Miro con notas propedeuticas](https://miro.com/app/board/o9J_lFmeuC4=/)
+- [Board de Miro con notas](https://miro.com/app/board/o9J_lDGKcdM=/)
 - [Comparativa de servicios de redes de Azure](/res/comparativa_redes.md)
-- [Comparativa entre servicios de Cognitive Services](/res/comparativa_cognitive_services.md)*
-- [Comparativa entre ML Studio y ML Services](/res/comparativa_ml_studio.md)*
+- [Comparativa entre servicios de Cognitive Services](/res/comparativa_cognitive_services.md)
+
 
 ## Recursos clave
 - **[Curso básico de programación con Python](https://github.com/RodolfoFerro/python-innovaccion)**
@@ -47,19 +48,20 @@ Aquí podrás encontrar todos los recursos usados en Innovacción Virtual para a
 - [Buenas practicas para plantillas ARM](https://github.com/Azure/azure-quickstart-templates/blob/master/1-CONTRIBUTION-GUIDE/best-practices.md)
 - [Como seleccionar las mejores herramientas para tu solución](/res/seleccion_herramientas.md)
 - [Pasos del Cloud Adoption Framework](/res/pasos_caf.md)
-- [Ejercicios de calculo de SLA](/res/ejercicios-sla.md)*
+- [Ejercicios de calculo de SLA](/res/ejercicios-sla.md)
 - [Práctica de Azure IoT Hub](https://github.com/jose1824/iot-edge-innovaccion-practice)
 
 ## Tutoriales
 - [Implementación de una Web App con Docker y Azure Kubernetes Service](/res/tutorial_kubernetes_basic.md)
 - [Tutorial de Wordpress con Kubernetes](/res/tutorial-k8s-wordpress.md)
-- [Tutorial de creación de un experimento con Machine Learning Studio]()*
+- [Tutorial de creación de un experimento con Machine Learning Studio](/res/ml-studio-excercise.md)
 
 ## Examenes piloto
-- [Prueba de examen AZ-900](https://kahoot.it/challenge/02060231?challenge-id=17c998c7-d2ca-4aad-8555-25d087dca7da_1613089581619)
-- [Examen sobre el eje de Inteligencia Artificial]()*
+- [Prueba de examen AZ-900](https://kahoot.it/challenge/003048799)
+- [Examen sobre el eje de Inteligencia Artificial](https://kahoot.it/challenge/07609220?challenge-id=17c998c7-d2ca-4aad-8555-25d087dca7da_1622490996877)
 - [Examen sobre como seleccionar las herramientas de tu solución](https://kahoot.it/challenge/002433076)
-- Proximamente más
+- [Examen módulo 5 AZ-900: Gobernanza y cumplimiento](https://kahoot.it/challenge/08853385?challenge-id=17c998c7-d2ca-4aad-8555-25d087dca7da_1622756310880)
+- [Examen módulo 6 AZ-900: Acuerdos de nivel de servicio y costos](https://kahoot.it/challenge/09666070?challenge-id=17c998c7-d2ca-4aad-8555-25d087dca7da_1622755923298)
 
 ## Recursos extra
 - [Ejercicios de Machine Learning con Python y Colab](https://github.com/jose1824/ms-learn-ml-crash-course-python)

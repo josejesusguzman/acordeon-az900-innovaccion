@@ -7,6 +7,8 @@ De cada una de estas soluciones tienes que calcular el acuerdo de nivel de servi
 
 Te dejo el enlace con la explicación de cada solución por si quieres aprender más como funciona y como se conectan los diferentes recursos de Azure.
 
+**Nota:** Algunos resultados pueden estar redondeados.
+
 - **[Consulta aquí los SLA de los recursos](https://azure.microsoft.com/es-mx/support/legal/sla/)**
 - **[Si tienes dudas checa este formulario de SLA](/res/formulario_sla.md)**
 
@@ -214,9 +216,13 @@ ________________________________________________________
 - [Más información aquí](https://docs.microsoft.com/es-mx/azure/architecture/solution-ideas/articles/secure-devops-for-kubernetes)
 
 ### Detalles
+- Solo toma en cuenta el SLA de los recursos de Azure y si no tiene SLA no lo tomes en cuenta
+- Los **Pipelines** son parte de Azure DevOps y se usa un plan de pago de pipelines
+- El **AKS** utiliza zona de disponibilidad
+- El servicio de **Azure Monitor** utiliza un área de trabajo de Log Analytics
 
 ### Resultado
-**SLA:  %**
+**SLA: 99.65 %**
 ________________________________________________________
 
 ## Ejercicio 14. Inteligencia artificial en el perímetro con Azure Stack Hub: desconectado
@@ -226,9 +232,14 @@ ________________________________________________________
 - [Más información aquí](https://docs.microsoft.com/es-mx/azure/architecture/solution-ideas/articles/ai-at-the-edge-disconnected)
 
 ### Detalles
+- Si un servicio no tiene SLA ignoralo
+- El servicio de **Apache Hadoop** se ejecuta en un cluster de HDImsight
+- La **maquina virtual** tiene un SSD estandar y es de una sola instancia
+- Una **cuenta de almacenamiento** utiliza RA-GRS y  la otra utiliza ZRS. Ambas no son de acceso esporádico
+- El **AKS** no utiliza zona de disponibilidad
 
 ### Resultado
-**SLA:  %**
+**SLA: 98.99 %**
 ________________________________________________________
 
 ## Ejercicio 15. Ejecución de un servidor Jenkins en Azure
@@ -238,9 +249,15 @@ ________________________________________________________
 - [Más información aquí](https://docs.microsoft.com/es-mx/azure/architecture/example-scenario/apps/jenkins)
 
 ### Detalles
+- La **Jenkins Server** tiene tres instancias en zona de disponibilidad dentro de la misma región
+- Las tres **Build VM** están en una grupo de Host dedicado con dos instancias dentro del conjunto de disponibilidad
+- Se usa el nivel premium de **Active Directory**
+- Los **Managed Disk** toman el SLA de una cuenta de almacenamiento con ZRS
+- Ignora el SLA de **Azure Monitor**
+- El **Blob Storage** es de nivel de acceso esporadico con LRS
 
 ### Resultado
-**SLA:  %**
+**SLA: 98.63 %**
 ________________________________________________________
 
 ## Ejercicio 16. Mantenimiento predictivo de Azure para IoT industrial
@@ -250,9 +267,14 @@ ________________________________________________________
 - [Más información aquí](https://docs.microsoft.com/es-mx/azure/architecture/solution-ideas/articles/iot-predictive-maintenance)
 
 ### Detalles
+- Ignora los servicios que no tienen SLA
+- El servicio **Azure Kubernetes Services** utiliza zona de disponibilidad
+- El **Event Hub** usa el nivel específico
+- Data Lake = **Data Lake Storage**
+- **Power Bi** esta en su edición Embedded
 
 ### Resultado
-**SLA:  %**
+**SLA: 99.59 %**
 ________________________________________________________
 
 ## Ejercicio 17. Ofertas personalizadas
@@ -262,9 +284,14 @@ ________________________________________________________
 - [Más información aquí](https://docs.microsoft.com/es-mx/azure/architecture/solution-ideas/articles/personalized-offers)
 
 ### Detalles
+- Ignora los elementos de data, no los servicios de Azure
+- El servicios **Cosmos DB** esta hospedado solo en una región
+- El servicio de Event Hub usa el nivel básico
+- Ignora el **Machine Learning Studio**
+- La **base de datos** es de PostgreSQL
 
 ### Resultado
-**SLA:  %**
+**SLA: 99.68 %**
 ________________________________________________________
 
 ## Ejercicio 18. Aplicaciones web de varias regiones con conectividad privada a la base de datos
@@ -274,9 +301,14 @@ ________________________________________________________
 - [Más información aquí](https://docs.microsoft.com/es-mx/azure/architecture/example-scenario/sql-failover/app-service-private-sql-multi-region)
 
 ### Detalles
+- Cada región tiene dos **App Services** B1
+- Cada región tiene un **Private Link**
+- La región primaria usa un servicio **SQL Database** Premium con implementación redundante
+- La región secundaria usa un servicio **SQL Database** Business Critical con dos replicas
+- Ignora el servicio **DNS**
 
 ### Resultado
-**SLA:  %**
+**SLA: 99.76 %**
 ________________________________________________________
 
 ## Ejercicio 19. Compilación de aplicaciones web y para dispositivos móviles
@@ -286,9 +318,16 @@ ________________________________________________________
 - [Más información aquí](https://docs.microsoft.com/es-mx/azure/architecture/solution-ideas/articles/webapps)
 
 ### Detalles
+- **API Management** usa el nivel premium con dos zonas de disponibilidad
+- Un **AKS** no utiliza zona de disponibilidad. El que manda la información a la app si
+- El primer **Event Hub** utiliza el servicio básico
+- El segundo **Event Hub** utiliza el servicio de nivel específico
+- **Cache for Redis** utiliza el servicio Enterprise Flash sin zona de disponibilidad
+- **Blob Storage** tiene LRS
+- Es posible escribir en la base de datos de **Cosmos DB** desde varias regiones
 
 ### Resultado
-**SLA:  %**
+**SLA: 99.51 %**
 ________________________________________________________
 
 ## Ejercicio 20. Análisis de IoT con Azure Data Explorer
@@ -298,9 +337,14 @@ ________________________________________________________
 - [Más información aquí](https://docs.microsoft.com/es-mx/azure/architecture/solution-ideas/articles/iot-azure-data-explorer)
 
 ### Detalles
+- El servicio de **IoT Hub** no es gratuito
+- Ambos servicios de **Event Hub** utiliza el nivel estándar de servicio
+- **Kafka** se ejecuta en un cluster de Azure HDInsight
+- **Azure Data Lake Storage** es de nivel premium
+- **Cosmos DB** puede ser escrito en varias regiones de Azure
 
 ### Resultado
-**SLA:  %**
+**SLA: 98.90 %**
 ________________________________________________________
 
 ## Ejercicio 21. DevTest y DevOps para soluciones de microservicios
@@ -310,6 +354,15 @@ ________________________________________________________
 - [Más información aquí](https://docs.microsoft.com/es-mx/azure/architecture/solution-ideas/articles/dev-test-microservice)
 
 ### Detalles
+- En el ambiente de desarrollo se utiliza una replica y una sola región de escritura para **Cosmos DB**. En el ambiente de productivo se utilizan multiples regiones como puntos de conexión editables.
+- En el ambiente productivo se usa el **AKS** con zona de disponibilidad. En el de desarrollo no
+- Se esta pagando Azure Pipelines de pago para **Azure DevOps**
+- **Azure AD** es B2C
+- Para **Azure Monitor** considera los SLA de un área de trabajo Log Analytics y Applicaiton Insights en conjunto
 
 ### Resultado
-**SLA:  %**
+**SLA Productivo: 99.84 %**
+**SLA Total: 99.023 %**
+
+- El ambiente productivo puede fallar hasta **14 horas al año**
+- Toda la solución puede fallar hasta **7 horas al mes**
