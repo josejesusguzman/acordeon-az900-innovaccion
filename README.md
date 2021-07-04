@@ -14,7 +14,7 @@ Aquí podrás encontrar todos los recursos usados en Innovacción Virtual para a
 ***Nota para Innovacción: cuida tu crédito de azure** eliminando recursos, apagandolos y usando basic o free tiers de los recursos ya que Microsoft no te dará saldo extra una vez te lo acabes.*
 
 ## Glosarios
-- [Glosario de terminos básicos de tecnología](res/docs/V2%20Glosario%20de%20términos%20Innovacción.pdf)
+- [Glosario de terminos básicos de tecnología](/res/docs/V2%20Glosario%20de%20términos%20Innovacción.pdf)
 - [Glosario de terminos de Azure](res/terminos_azure.md)
 - **[Descarga las fichas de imagenes de los términos aquí](https://innovaccion-my.sharepoint.com/:f:/g/personal/jguzman_innovaccion_mx/EnO9_QErWA1DmICARLq9Mq0BpkrljWEX8VYgRHoz-i5ezw?e=ktAUKs)**
   - *Imagenes por [@mientraselmundosederrumba](https://www.instagram.com/mientraselmundosederrumba/)*   
