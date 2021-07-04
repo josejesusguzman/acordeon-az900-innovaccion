@@ -1,8 +1,9 @@
 # Tutorial de Wordpress con Kubernetes
 
 Para ver el tutorial introductorio y que instalar, checa este video:
-- [Tutorial básico de Kubernetes y contenedores](/res/tutorial-k8s-wordpress.md)
+- [Tutorial básico de Kubernetes y contenedores](/res/tutorial_kubernetes_basic.md)
 - [Video tutorial](https://web.microsoftstream.com/video/380105ad-3a67-4134-8acd-608bbb5bacc3)
+- [Descarga Wordpress](https://wordpress.org/download/)
 
 ## Contenido de los archivos
 
@@ -121,7 +122,7 @@ docker build --tag myblog:latest .
 
 - Creación del recurso Azure Container Registry (ACR)
 ```
-acr create --resource-group NOMBRE_GRUPO_RECURSO --name NOMBRE_ACR --sku Basic
+az acr create --resource-group NOMBRE_GRUPO_RECURSO --name NOMBRE_ACR --sku Basic
 ```
 
 - Creación del recurso de Azure Kubernetes Service (AKS)
