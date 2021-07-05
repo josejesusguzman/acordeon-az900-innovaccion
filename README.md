@@ -1,6 +1,5 @@
 # Acordeón de estudio AZ-900 Microsoft Fundamentals
-## Summer Cloud
-### Ciclo de Verano
+## Summer Cloud - Ciclo de verano
 
 ![Logo Arquitectura de soluciones](/res/images/badge-eje.png)
 
