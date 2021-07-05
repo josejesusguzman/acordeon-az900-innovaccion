@@ -1,9 +1,11 @@
 # Acordeón de estudio AZ-900 Microsoft Fundamentals
-### Eje de Arquitectura de Soluciones
+## Summer Cloud
+### Ciclo de Verano
 
-![Logo Arquitectura de soluciones](/res/images/logo_arquitectura.png)
+![Logo Arquitectura de soluciones](/res/images/badge-eje.png)
 
-- **[Accede al acordeón para el eje de Inteligencia Artificial](https://github.com/jose1824/acordeon-az900-innovaccion/tree/ia)**
+- [Accede al acordeón para el eje de Inteligencia Artificial](https://github.com/jose1824/acordeon-az900-innovaccion/tree/ia)
+- [Accede al acordeón par ael eje de Arquitectura de Soluciones](https://github.com/jose1824/acordeon-az900-innovaccion/)
 
 Aquí podrás encontrar todos los recursos usados en Innovacción Virtual para ayudarte en tu travesía hacia certirficarte en la nube de Azure.
 
