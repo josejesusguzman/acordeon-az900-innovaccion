@@ -1,37 +1,212 @@
-## Welcome to GitHub Pages
+# Acordeón de estudio AZ-900 Microsoft Fundamentals
+## Summer Cloud - Ciclo de verano
 
-You can use the [editor on GitHub](https://github.com/josejesusguzman/acordeon-az900-innovaccion/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+![Logo Summer Camp](/res/images/badge-eje.png)
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Aquí podrás encontrar todos los recursos usados en Innovacción Virtual para ayudarte en tu travesía hacia certirficarte en la nube de Azure.
 
-### Markdown
+***Nota para Innovacción: No compres la certificación**, espera instrucciones. Te daremos un voucher para hacer tu examen gratis. Microsoft no te devolverá el dinero que hayas gastado por error en comprar el examen o un curso pagado.*
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+***Nota para Innovacción: cuida tu crédito de azure** eliminando recursos, apagandolos y usando basic o free tiers de los recursos ya que Microsoft no te dará saldo extra una vez te lo acabes.*
 
-```markdown
-Syntax highlighted code block
+## Links importantes
+- [Link de estudio en Microsoft Learn AZ-900](https://docs.microsoft.com/es-mx/learn/certifications/exams/az-900#two-ways-to-prepare)
+- **[(Solo Innovacción) Challenge Innovacción Virtual Summer Cloud](https://docs.microsoft.com/es-mx/learn/challenges?id=9d729b5a-9842-4f33-a7e7-7e9c106005e1)**
+- [Calculadora de TCO](https://azure.microsoft.com/es-mx/pricing/tco/)
+- [Calculadora de costos de Azure](https://azure.microsoft.com/es-mx/pricing/calculator/)
+- [Contratos de nivel de servicios de Azure](https://azure.microsoft.com/es-mx/support/legal/sla/)
+- [(Solo Innovacción) Microsoft Sponsorships. Revisa cuanto saldo tienes](https://www.microsoftazuresponsorships.com/)
+- [(Solo Innovacción) Grabaciones de los live](https://web.microsoftstream.com/channel/2fc54fb6-6d8c-4c83-91da-97ad0bc02531)
 
-# Header 1
-## Header 2
-### Header 3
+## Glosarios
+- [Glosario de terminos básicos de tecnología](/res/docs/V2%20Glosario%20de%20términos%20Innovacción.pdf)
+- [Glosario de terminos de Azure](res/terminos_azure.md)
+- **[Descarga las fichas de imagenes de los términos aquí](https://innovaccion-my.sharepoint.com/:f:/g/personal/jguzman_innovaccion_mx/EnO9_QErWA1DmICARLq9Mq0BpkrljWEX8VYgRHoz-i5ezw?e=ktAUKs)**
+  - *Imagenes por [@mientraselmundosederrumba](https://www.instagram.com/mientraselmundosederrumba/)*   
+- [Diagrama de terminos de Azure](/res/images/conceptos/completo.jpeg)
 
-- Bulleted
-- List
+## Notas de ayuda
+- [Board de Miro con notas propedeuticas](https://miro.com/app/board/o9J_lFmeuC4=/)
+- [Board de Miro con notas](https://miro.com/app/board/o9J_lDGKcdM=/)
 
-1. Numbered
-2. List
+_________
 
-**Bold** and _Italic_ and `Code` text
+## Módulo 1: Descripción de los conceptos básicos de Azure
+En este módulo aprenderás sobre las definiciones fundamentales del uso de la nube de Microsoft Azure. Después, explorarás el portal de Azure para comenzar a crear soluciones
 
-[Link](url) and ![Image](src)
-```
+### Módulos de Microsoft Learn (Challenge)
+- [Introducción a los aspectos básicos de Azure
+](https://docs.microsoft.com/es-mx/learn/modules/intro-to-azure-fundamentals/)
+- [Conceptos fundamentales de Azure
+](https://docs.microsoft.com/es-mx/learn/modules/fundamental-azure-concepts/)
+- [Descripción de los componentes principales de la arquitectura de Azure
+](https://docs.microsoft.com/es-mx/learn/modules/azure-architecture-fundamentals/)
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+### Contenidos
+- [Glosario de terminos de Azure](res/terminos_azure.md)
+- **[Descarga las fichas de imagenes de los términos aquí](https://innovaccion-my.sharepoint.com/:f:/g/personal/jguzman_innovaccion_mx/EnO9_QErWA1DmICARLq9Mq0BpkrljWEX8VYgRHoz-i5ezw?e=ktAUKs)**
+  - *Imagenes por [@mientraselmundosederrumba](https://www.instagram.com/mientraselmundosederrumba/)*   
+- [Diagrama de terminos de Azure](/res/images/conceptos/completo.jpeg)
+- [Diagrama de jerarquia de suscripciones de Azure](/res/jerarquia.md)
+- [Podcast en español sobre la certificación AZ-900](https://open.spotify.com/episode/7KY9i2Xz6WIHocJe6jlPmy?si=SyANKxMTT4K_4kCxGF59Ag)
+- [Podcast en inglés sobre la certificación AZ-900 (No tiene el mismo contenido que el de arriba)](https://open.spotify.com/episode/3UknsHbYA0ZzT33cggBmrA?si=_7qf-A9lRv6D3_fklpHSfw)
+- [Podcast en español sobre que es cómputo en la nube](https://open.spotify.com/episode/4Sp0OYXtD8ndueA9aBsny6?si=ke9SNZudRqKxf8AIrO1_Iw)
 
-### Jekyll Themes
+### Examen de prueba Módulo 1
+- [PROXIMAMENTE]()*
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/josejesusguzman/acordeon-az900-innovaccion/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+_______
 
-### Support or Contact
+## Módulo 2: Descripción de los servicios básicos de Azure
+Comienza con los servicios básicos de Azure. Los servicios de compute, Storage, Database y Network son los que componen la mayoria de los demás recursos más complejos en Azure.
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+### Módulos de Microsoft Learn (Challenge)
+- [Exploración de los servicios de Azure Compute
+](https://docs.microsoft.com/es-mx/learn/modules/azure-compute-fundamentals/)
+- [Exploración de los servicios de red de Azure
+](https://docs.microsoft.com/es-mx/learn/modules/azure-networking-fundamentals/)
+- [Exploración de los servicios de Azure Storage
+](https://docs.microsoft.com/es-mx/learn/modules/azure-storage-fundamentals/)
+- [Exploración de los servicios de análisis y bases de datos de Azure
+](https://docs.microsoft.com/es-mx/learn/modules/azure-database-fundamentals/)
+
+### Contenidos
+- [Comparativa VM, Kubernetes y Contenedores](/res/comparativa_compute.md)
+- [Comparativa de servicios de redes de Azure](/res/comparativa_redes.md)
+- [Como seleccionar las mejores herramientas para tu solución](/res/seleccion_herramientas.md)
+
+
+### Laboratorios
+- [Página de Wordpress con Maquina Virtual y Azure CLI](https://github.com/jose1824/codigos_innovaccion_tutorial_vm_wordpress)
+- [Implementación de una Web App con Docker y Azure Kubernetes Service](/res/tutorial_kubernetes_basic.md)
+- [Tutorial de Wordpress con Kubernetes](/res/tutorial-k8s-wordpress.md)
+
+### Examen de prueba Módulo 2
+- [PROXIMAMENTE]()*
+
+__________
+
+## Módulo 3: Descripción de las principales soluciones y herramientas de administración de Azure
+En este módulo veremos más servicios de la nube de Azure, así como las herramientas que nos permiten hacer más eficiente el trabajo de los equipos de TI.
+
+### Módulos de Microsoft Learn (Challenge)
+- [Elegir el mejor servicio de Azure IoT para su aplicación
+](https://docs.microsoft.com/es-mx/learn/modules/iot-fundamentals/)
+- [Elija el mejor servicio de IA para sus necesidades
+](https://docs.microsoft.com/es-mx/learn/modules/ai-machine-learning-fundamentals/)
+- [Elección de la mejor tecnología sin servidor de Azure para su escenario empresarial
+](https://docs.microsoft.com/es-mx/learn/modules/serverless-fundamentals/)
+- [Elección de las mejores herramientas para ayudar a que las organizaciones creen mejores soluciones
+](https://docs.microsoft.com/es-mx/learn/modules/azure-devops-devtest-labs/)
+- [Elección de las mejores herramientas para administrar y configurar el entorno de Azure
+](https://docs.microsoft.com/es-mx/learn/modules/management-fundamentals/)
+- [Elección del mejor servicio de supervisión para visibilidad, información y mitigación de interrupciones
+](https://docs.microsoft.com/es-mx/learn/modules/monitoring-fundamentals/)
+
+### Contenidos
+- [Comparativa entre servicios de Cognitive Services](/res/comparativa_cognitive_services.md)
+- [Como hacer plantillas de ARM](/res/plantilla_arm.md)
+- [Buenas practicas para plantillas ARM](https://github.com/Azure/azure-quickstart-templates/blob/master/1-CONTRIBUTION-GUIDE/best-practices.md)
+- [Plantillas ARM validadas de la comunidad](https://github.com/Azure/azure-quickstart-templates)
+- [Podcast en español sobre que es Inteligencia Artificial](https://open.spotify.com/episode/6kLmxMKovbdE3QmGhvDCFH?si=ad949acfe2284c57)
+- [Podcast en español sobre que es Inteligencia Artificial -  Extendido](https://open.spotify.com/episode/2N8EEOKikGGq5xtrrHBT9K?si=f0349be769a545c3)
+- [Tabla comparativa entre Azure Sentinel y Azure Sphere]()*
+- [Comparativa entre Azure Advisor, Monitor, Log Analytics Sentinel]()*
+
+### Laboratorios
+- [Tutorial de creación de un experimento con Machine Learning Studio](/res/ml-studio-excercise.md)
+- [Práctica de Azure IoT Hub](https://github.com/jose1824/iot-edge-innovaccion-practice)
+
+### Examen de prueba Módulo 3
+- [PROXIMAMENTE]()*
+
+### Extras
+- [Así usa Netflix la inteligencia artificial para las portadas de su contenido](https://medium.com/bigdatalatam/netflix-una-peque%C3%B1a-vista-a-la-compleja-tecnolog%C3%ADa-detr%C3%A1s-del-servicio-m%C3%A1s-popular-de-streaming-907124c3d5da)
+- [Así usa Spotify la IA - 1](https://lieslanggijono.medium.com/the-magic-ingredient-of-spotify-machine-learning-b6af57ecca03)
+- [Así usa Spotify la IA - 2](https://medium.com/s/story/spotifys-discover-weekly-how-machine-learning-finds-your-new-music-19a41ab76efe)
+- [Curso básico de programación con Python](https://github.com/RodolfoFerro/python-innovaccion)
+________
+
+## Módulo 4: Descripción de las caracteristicas de seguridad general y seguridad de red
+En este módulo aprenderás sobre los servicios que protejen a la nube de Azure a las soluciones sobre esta, de ataques externos.
+
+### Módulos de Microsoft Learn (Challenge)
+- [Protección frente a amenazas de seguridad en Azure
+](https://docs.microsoft.com/es-mx/learn/modules/protect-against-security-threats-azure/)
+- [Conectividad de red segura en Azure
+](https://docs.microsoft.com/es-mx/learn/modules/secure-network-connectivity-azure/)
+
+### Contenidos
+- [Tabla comparativa de seguridad en Azure](/res/comparativa_seguridad.md)
+- [Tabla comparativa entre Azure Sentinel y Azure Sphere]()*
+- [Comparativa entre Azure Advisor, Monitor, Log Analytics Sentinel]()*
+
+### Examen de prueba Módulo 4
+- [PROXIMAMENTE]()*
+______
+
+## Módulo 5: Descripción de las características de identidad, gobernanza, privacidad y cumplimiento
+Entender quién usa tus sistemas y qué permisos tiene es imprescindible para proteger tus datos de los atacantes. Para poder organizarse, administrar costos y alcanzar los objetivos de cumplimiento, es necesario disponer de una buena estrategia de gobernanza en la nube.
+
+Obten información sobre cómo Azure puede ayudarle a proteger el acceso a los recursos de la nube, qué significa crear una estrategia de gobernanza en la nube y cómo Azure cumple con los estándares habituales normativos y de cumplimiento.
+
+### Módulos de Microsoft Learn (Challenge)
+- [Acceso seguro a las aplicaciones con servicios de identidad de Azure
+](https://docs.microsoft.com/es-mx/learn/modules/secure-access-azure-identity-services/)
+- [Creación de una estrategia de gobernanza en la nube en Azure
+](https://docs.microsoft.com/es-mx/learn/modules/build-cloud-governance-strategy-azure/)
+- [Examine los estándares de privacidad, cumplimiento y protección de datos en Azure
+](https://docs.microsoft.com/es-mx/learn/modules/examine-privacy-compliance-data-protection-standards/)
+
+### Contenidos
+- [Comparativa Azure AD Active Directory](/res/comparativa_azureAD.md)
+- [Cumplimiento GDRP con Azure](/res/cumplimiento_gdrp.md)
+- [Pasos del Cloud Adoption Framework](/res/pasos_caf.md)
+
+### Laboratorios
+
+### Examen de prueba Módulo 5
+- [PROXIMAMENTE]()
+_______
+
+## Módulo 6: Descripción de los acuerdos de nivel de servicio y la administración de costos de Azure
+Conoce sobre los factores que influyen en el costo, las herramientas que se pueden usar para poder estimar y administrar el gasto en la nube, y sobre cómo los acuerdos de nivel de servicio de Azure (SLA) pueden influir en las decisiones de diseño de una aplicación.
+
+
+### Módulos de Microsoft Learn (Challenge)
+- [Planeación y administración de los costos de Azure
+](https://docs.microsoft.com/es-mx/learn/modules/plan-manage-azure-costs/)
+- [Elección de los servicios de Azure adecuados según los acuerdos de nivel de servicio y el ciclo de vida del servicio
+](https://docs.microsoft.com/es-mx/learn/modules/choose-azure-services-sla-lifecycle/)
+
+### Contenidos
+- [Formulas para calcular el nivel de servicio SLA](/res/formulario_sla.md)
+
+### Laboratorios
+- [Ejercicios de calculo de SLA](/res/ejercicios-sla.md)
+
+### Examen de prueba Módulo 6
+- [PROXIMAMENTE]()
+- [Calculadora de TCO](https://azure.microsoft.com/es-mx/pricing/tco/)
+- [Calculadora de costos de Azure](https://azure.microsoft.com/es-mx/pricing/calculator/)
+- [Contratos de nivel de servicios de Azure](https://azure.microsoft.com/es-mx/support/legal/sla/)
+______
+
+
+
+## Examenes piloto
+- [Prueba de examen AZ-900- PROXIMAMENTE]()
+- [Examen sobre como seleccionar las herramientas de tu solución - PROXIMAMENTE]()
+
+## Extras
+- [Accede al acordeón para el eje de Inteligencia Artificial](https://github.com/jose1824/acordeon-az900-innovaccion/tree/ia)
+- [Accede al acordeón par ael eje de Arquitectura de Soluciones](https://github.com/jose1824/acordeon-az900-innovaccion/)
+
+
+[Asignador random de casos tipo examen]()*
+
+Si quieres integrar algún recurso extra que te haya servido haz un *pull request* y lo evaluaré.
+
+También si encuentras un error de ortografía o de contenido por favor levanta un *issue* y puedes resolverlo con un *pull request* también.
+
+Mucho éxito en tu examen.
