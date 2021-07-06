@@ -1,9 +1,10 @@
 # Acordeón de estudio AZ-900 Microsoft Fundamentals
-### Eje de Inteligencia Artificial
+## Summer Cloud - Ciclo de verano
 
-![Logo Inteligencia Artificial](/res/images/logo_ia.png)
+![Logo Arquitectura de soluciones](/res/images/badge-eje.png)
 
-- **[Accede al acordeón para el eje de Inteligencia Artificial](https://github.com/jose1824/acordeon-az900-innovaccion/tree/ia)**
+- [Accede al acordeón para el eje de Inteligencia Artificial](https://github.com/jose1824/acordeon-az900-innovaccion/tree/ia)
+- [Accede al acordeón par ael eje de Arquitectura de Soluciones](https://github.com/jose1824/acordeon-az900-innovaccion/)
 
 Aquí podrás encontrar todos los recursos usados en Innovacción Virtual para ayudarte en tu travesía hacia certirficarte en la nube de Azure.
 
@@ -23,7 +24,7 @@ Aquí podrás encontrar todos los recursos usados en Innovacción Virtual para a
 
 
 ## Glosarios
-- [Glosario de terminos básicos de tecnología](res/docs/V2%20Glosario%20de%20términos%20Innovacción.pdf)
+- [Glosario de terminos básicos de tecnología](/res/docs/V2%20Glosario%20de%20términos%20Innovacción.pdf)
 - [Glosario de terminos de Azure](res/terminos_azure.md)
 - **[Descarga las fichas de imagenes de los términos aquí](https://innovaccion-my.sharepoint.com/:f:/g/personal/jguzman_innovaccion_mx/EnO9_QErWA1DmICARLq9Mq0BpkrljWEX8VYgRHoz-i5ezw?e=ktAUKs)**
   - *Imagenes por [@mientraselmundosederrumba](https://www.instagram.com/mientraselmundosederrumba/)*   
