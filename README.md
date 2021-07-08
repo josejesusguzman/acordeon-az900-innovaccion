@@ -17,6 +17,8 @@ Aquí podrás encontrar todos los recursos usados en Innovacción Virtual para a
 - [Contratos de nivel de servicios de Azure](https://azure.microsoft.com/es-mx/support/legal/sla/)
 - [(Solo Innovacción) Microsoft Sponsorships. Revisa cuanto saldo tienes](https://www.microsoftazuresponsorships.com/)
 - [(Solo Innovacción) Grabaciones de los live](https://web.microsoftstream.com/channel/2fc54fb6-6d8c-4c83-91da-97ad0bc02531)
+- [App de Azure para iOS y iPadOS](https://apps.apple.com/es/app/microsoft-azure/id1219013620)
+- [App de Azure para Android](https://play.google.com/store/apps/details?id=com.microsoft.azure&hl=es_MX&gl=US)
 
 ## Glosarios
 - [Glosario de terminos básicos de tecnología](/res/docs/V2%20Glosario%20de%20términos%20Innovacción.pdf)
