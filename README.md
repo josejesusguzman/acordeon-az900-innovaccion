@@ -3,6 +3,7 @@
 
 ![Logo Arquitectura de soluciones](/res/images/logo_arquitectura.png)
 
+- **[Accede al acordeón Activo Actual - SUMMER CAMP](https://github.com/josejesusguzman/acordeon-az900-innovaccion/tree/summer-camp)**
 - **[Accede al acordeón para el eje de Inteligencia Artificial](https://github.com/jose1824/acordeon-az900-innovaccion/tree/ia)**
 
 Aquí podrás encontrar todos los recursos usados en Innovacción Virtual para ayudarte en tu travesía hacia certirficarte en la nube de Azure.
