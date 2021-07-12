@@ -39,12 +39,9 @@ _________
 En este módulo aprenderás sobre las definiciones fundamentales del uso de la nube de Microsoft Azure. Después, explorarás el portal de Azure para comenzar a crear soluciones
 
 ### Módulos de Microsoft Learn (Challenge)
-- [Introducción a los aspectos básicos de Azure
-](https://docs.microsoft.com/es-mx/learn/modules/intro-to-azure-fundamentals/)
-- [Conceptos fundamentales de Azure
-](https://docs.microsoft.com/es-mx/learn/modules/fundamental-azure-concepts/)
-- [Descripción de los componentes principales de la arquitectura de Azure
-](https://docs.microsoft.com/es-mx/learn/modules/azure-architecture-fundamentals/)
+- [Introducción a los aspectos básicos de Azure](https://docs.microsoft.com/es-mx/learn/modules/intro-to-azure-fundamentals/)
+- [Conceptos fundamentales de Azure](https://docs.microsoft.com/es-mx/learn/modules/fundamental-azure-concepts/)
+- [Descripción de los componentes principales de la arquitectura de Azure](https://docs.microsoft.com/es-mx/learn/modules/azure-architecture-fundamentals/)
 
 ### Contenidos
 - [Glosario de terminos de Azure](res/terminos_azure.md)
@@ -94,18 +91,12 @@ __________
 En este módulo veremos más servicios de la nube de Azure, así como las herramientas que nos permiten hacer más eficiente el trabajo de los equipos de TI.
 
 ### Módulos de Microsoft Learn (Challenge)
-- [Elegir el mejor servicio de Azure IoT para su aplicación
-](https://docs.microsoft.com/es-mx/learn/modules/iot-fundamentals/)
-- [Elija el mejor servicio de IA para sus necesidades
-](https://docs.microsoft.com/es-mx/learn/modules/ai-machine-learning-fundamentals/)
-- [Elección de la mejor tecnología sin servidor de Azure para su escenario empresarial
-](https://docs.microsoft.com/es-mx/learn/modules/serverless-fundamentals/)
-- [Elección de las mejores herramientas para ayudar a que las organizaciones creen mejores soluciones
-](https://docs.microsoft.com/es-mx/learn/modules/azure-devops-devtest-labs/)
-- [Elección de las mejores herramientas para administrar y configurar el entorno de Azure
-](https://docs.microsoft.com/es-mx/learn/modules/management-fundamentals/)
-- [Elección del mejor servicio de supervisión para visibilidad, información y mitigación de interrupciones
-](https://docs.microsoft.com/es-mx/learn/modules/monitoring-fundamentals/)
+- [Elegir el mejor servicio de Azure IoT para su aplicación](https://docs.microsoft.com/es-mx/learn/modules/iot-fundamentals/)
+- [Elija el mejor servicio de IA para sus necesidades](https://docs.microsoft.com/es-mx/learn/modules/ai-machine-learning-fundamentals/)
+- [Elección de la mejor tecnología sin servidor de Azure para su escenario empresarial](https://docs.microsoft.com/es-mx/learn/modules/serverless-fundamentals/)
+- [Elección de las mejores herramientas para ayudar a que las organizaciones creen mejores soluciones](https://docs.microsoft.com/es-mx/learn/modules/azure-devops-devtest-labs/)
+- [Elección de las mejores herramientas para administrar y configurar el entorno de Azure](https://docs.microsoft.com/es-mx/learn/modules/management-fundamentals/)
+- [Elección del mejor servicio de supervisión para visibilidad, información y mitigación de interrupciones](https://docs.microsoft.com/es-mx/learn/modules/monitoring-fundamentals/)
 
 ### Contenidos
 - [Comparativa entre servicios de Cognitive Services](/res/comparativa_cognitive_services.md)
@@ -135,10 +126,8 @@ ________
 En este módulo aprenderás sobre los servicios que protejen a la nube de Azure a las soluciones sobre esta, de ataques externos.
 
 ### Módulos de Microsoft Learn (Challenge)
-- [Protección frente a amenazas de seguridad en Azure
-](https://docs.microsoft.com/es-mx/learn/modules/protect-against-security-threats-azure/)
-- [Conectividad de red segura en Azure
-](https://docs.microsoft.com/es-mx/learn/modules/secure-network-connectivity-azure/)
+- [Protección frente a amenazas de seguridad en Azure](https://docs.microsoft.com/es-mx/learn/modules/protect-against-security-threats-azure/)
+- [Conectividad de red segura en Azure](https://docs.microsoft.com/es-mx/learn/modules/secure-network-connectivity-azure/)
 
 ### Contenidos
 - [Tabla comparativa de seguridad en Azure](/res/comparativa_seguridad.md)
@@ -157,12 +146,9 @@ Entender quién usa tus sistemas y qué permisos tiene es imprescindible para pr
 Obten información sobre cómo Azure puede ayudarle a proteger el acceso a los recursos de la nube, qué significa crear una estrategia de gobernanza en la nube y cómo Azure cumple con los estándares habituales normativos y de cumplimiento.
 
 ### Módulos de Microsoft Learn (Challenge)
-- [Acceso seguro a las aplicaciones con servicios de identidad de Azure
-](https://docs.microsoft.com/es-mx/learn/modules/secure-access-azure-identity-services/)
-- [Creación de una estrategia de gobernanza en la nube en Azure
-](https://docs.microsoft.com/es-mx/learn/modules/build-cloud-governance-strategy-azure/)
-- [Examine los estándares de privacidad, cumplimiento y protección de datos en Azure
-](https://docs.microsoft.com/es-mx/learn/modules/examine-privacy-compliance-data-protection-standards/)
+- [Acceso seguro a las aplicaciones con servicios de identidad de Azure](https://docs.microsoft.com/es-mx/learn/modules/secure-access-azure-identity-services/)
+- [Creación de una estrategia de gobernanza en la nube en Azure](https://docs.microsoft.com/es-mx/learn/modules/build-cloud-governance-strategy-azure/)
+- [Examine los estándares de privacidad, cumplimiento y protección de datos en Azure](https://docs.microsoft.com/es-mx/learn/modules/examine-privacy-compliance-data-protection-standards/)
 
 ### Contenidos
 - [Comparativa Azure AD Active Directory](/res/comparativa_azureAD.md)
@@ -179,10 +165,8 @@ Conoce sobre los factores que influyen en el costo, las herramientas que se pued
 
 
 ### Módulos de Microsoft Learn (Challenge)
-- [Planeación y administración de los costos de Azure
-](https://docs.microsoft.com/es-mx/learn/modules/plan-manage-azure-costs/)
-- [Elección de los servicios de Azure adecuados según los acuerdos de nivel de servicio y el ciclo de vida del servicio
-](https://docs.microsoft.com/es-mx/learn/modules/choose-azure-services-sla-lifecycle/)
+- [Planeación y administración de los costos de Azure](https://docs.microsoft.com/es-mx/learn/modules/plan-manage-azure-costs/)
+- [Elección de los servicios de Azure adecuados según los acuerdos de nivel de servicio y el ciclo de vida del servicio](https://docs.microsoft.com/es-mx/learn/modules/choose-azure-services-sla-lifecycle/)
 
 ### Contenidos
 - [Formulas para calcular el nivel de servicio SLA](/res/formulario_sla.md)
