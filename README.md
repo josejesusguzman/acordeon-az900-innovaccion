@@ -33,6 +33,8 @@ Aquí podrás encontrar todos los recursos usados en Innovacción Virtual para a
 
 _________
 
+# Semana 1
+
 ## Módulo 1: Descripción de los conceptos básicos de Azure
 En este módulo aprenderás sobre las definiciones fundamentales del uso de la nube de Microsoft Azure. Después, explorarás el portal de Azure para comenzar a crear soluciones
 
@@ -59,18 +61,16 @@ En este módulo aprenderás sobre las definiciones fundamentales del uso de la n
 
 _______
 
+# Semana 2
+
 ## Módulo 2: Descripción de los servicios básicos de Azure
 Comienza con los servicios básicos de Azure. Los servicios de compute, Storage, Database y Network son los que componen la mayoria de los demás recursos más complejos en Azure.
 
 ### Módulos de Microsoft Learn (Challenge)
-- [Exploración de los servicios de Azure Compute
-](https://docs.microsoft.com/es-mx/learn/modules/azure-compute-fundamentals/)
-- [Exploración de los servicios de red de Azure
-](https://docs.microsoft.com/es-mx/learn/modules/azure-networking-fundamentals/)
-- [Exploración de los servicios de Azure Storage
-](https://docs.microsoft.com/es-mx/learn/modules/azure-storage-fundamentals/)
-- [Exploración de los servicios de análisis y bases de datos de Azure
-](https://docs.microsoft.com/es-mx/learn/modules/azure-database-fundamentals/)
+- [Exploración de los servicios de Azure Compute](https://docs.microsoft.com/es-mx/learn/modules/azure-compute-fundamentals/)
+- [Exploración de los servicios de red de Azure](https://docs.microsoft.com/es-mx/learn/modules/azure-networking-fundamentals/)
+- [Exploración de los servicios de Azure Storage](https://docs.microsoft.com/es-mx/learn/modules/azure-storage-fundamentals/)
+- [Exploración de los servicios de análisis y bases de datos de Azure](https://docs.microsoft.com/es-mx/learn/modules/azure-database-fundamentals/)
 
 ### Contenidos
 - [Comparativa VM, Kubernetes y Contenedores](/res/comparativa_compute.md)
@@ -87,6 +87,8 @@ Comienza con los servicios básicos de Azure. Los servicios de compute, Storage,
 - [PROXIMAMENTE]()*
 
 __________
+
+# Semana 3
 
 ## Módulo 3: Descripción de las principales soluciones y herramientas de administración de Azure
 En este módulo veremos más servicios de la nube de Azure, así como las herramientas que nos permiten hacer más eficiente el trabajo de los equipos de TI.
@@ -147,6 +149,8 @@ En este módulo aprenderás sobre los servicios que protejen a la nube de Azure 
 - [PROXIMAMENTE]()*
 ______
 
+# Semana 4
+
 ## Módulo 5: Descripción de las características de identidad, gobernanza, privacidad y cumplimiento
 Entender quién usa tus sistemas y qué permisos tiene es imprescindible para proteger tus datos de los atacantes. Para poder organizarse, administrar costos y alcanzar los objetivos de cumplimiento, es necesario disponer de una buena estrategia de gobernanza en la nube.
 
@@ -165,7 +169,6 @@ Obten información sobre cómo Azure puede ayudarle a proteger el acceso a los r
 - [Cumplimiento GDRP con Azure](/res/cumplimiento_gdrp.md)
 - [Pasos del Cloud Adoption Framework](/res/pasos_caf.md)
 
-### Laboratorios
 
 ### Examen de prueba Módulo 5
 - [PROXIMAMENTE]()
@@ -193,8 +196,6 @@ Conoce sobre los factores que influyen en el costo, las herramientas que se pued
 - [Calculadora de costos de Azure](https://azure.microsoft.com/es-mx/pricing/calculator/)
 - [Contratos de nivel de servicios de Azure](https://azure.microsoft.com/es-mx/support/legal/sla/)
 ______
-
-
 
 ## Examenes piloto
 - [Prueba de examen AZ-900- PROXIMAMENTE]()
