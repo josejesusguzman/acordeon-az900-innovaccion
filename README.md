@@ -10,8 +10,8 @@ Aquí podrás encontrar todos los recursos usados en Innovacción Virtual para a
 ***Nota para Innovacción: cuida tu crédito de azure** eliminando recursos, apagandolos y usando basic o free tiers de los recursos ya que Microsoft no te dará saldo extra una vez te lo acabes.*
 
 ## Links importantes
-- [Link de estudio en Microsoft Learn AZ-900](https://docs.microsoft.com/es-mx/learn/certifications/exams/az-900#two-ways-to-prepare)
 - **[(Solo Innovacción) Challenge Innovacción Virtual Summer Cloud](https://docs.microsoft.com/es-mx/learn/challenges?id=9d729b5a-9842-4f33-a7e7-7e9c106005e1)**
+- [Certificación AZ-900](https://docs.microsoft.com/es-mx/learn/certifications/exams/az-900#two-ways-to-prepare)
 - [Calculadora de TCO](https://azure.microsoft.com/es-mx/pricing/tco/)
 - [Calculadora de costos de Azure](https://azure.microsoft.com/es-mx/pricing/calculator/)
 - [Contratos de nivel de servicios de Azure](https://azure.microsoft.com/es-mx/support/legal/sla/)
