@@ -19,6 +19,7 @@ Aquí podrás encontrar todos los recursos usados en Innovacción Virtual para a
 - [(Solo Innovacción) Grabaciones de los live](https://web.microsoftstream.com/channel/2fc54fb6-6d8c-4c83-91da-97ad0bc02531)
 - [App de Azure para iOS y iPadOS](https://apps.apple.com/es/app/microsoft-azure/id1219013620)
 - [App de Azure para Android](https://play.google.com/store/apps/details?id=com.microsoft.azure&hl=es_MX&gl=US)
+- [Playlists](#playlists)
 
 ## Glosarios
 - [Glosario de terminos básicos de tecnología](/res/docs/V2%20Glosario%20de%20términos%20Innovacción.pdf)
@@ -75,7 +76,8 @@ Comienza con los servicios básicos de Azure. Los servicios de compute, Storage,
 - [Como seleccionar las mejores herramientas para tu solución](/res/seleccion_herramientas.md)
 
 
-### Laboratorios
+### Laboratorios - práctca
+- [Lab de Azure App Service: Sube tu página a App Service](https://github.com/josejesusguzman/lab-subir-app-service-azure)
 - [Página de Wordpress con Maquina Virtual y Azure CLI](https://github.com/jose1824/codigos_innovaccion_tutorial_vm_wordpress)
 - [Implementación de una Web App con Docker y Azure Kubernetes Service](/res/tutorial_kubernetes_basic.md)
 - [Tutorial de Wordpress con Kubernetes](/res/tutorial-k8s-wordpress.md)
@@ -108,7 +110,7 @@ En este módulo veremos más servicios de la nube de Azure, así como las herram
 - [Tabla comparativa entre Azure Sentinel y Azure Sphere]()*
 - [Comparativa entre Azure Advisor, Monitor, Log Analytics Sentinel]()*
 
-### Laboratorios
+### Laboratorios - práctca
 - [Tutorial de creación de un experimento con Machine Learning Studio](/res/ml-studio-excercise.md)
 - [Práctica de Azure IoT Hub](https://github.com/jose1824/iot-edge-innovaccion-practice)
 
@@ -171,7 +173,7 @@ Conoce sobre los factores que influyen en el costo, las herramientas que se pued
 ### Contenidos
 - [Formulas para calcular el nivel de servicio SLA](/res/formulario_sla.md)
 
-### Laboratorios
+### Laboratorios - práctca
 - [Ejercicios de calculo de SLA](/res/ejercicios-sla.md)
 
 ### Examen de prueba Módulo 6
@@ -189,6 +191,16 @@ ______
 - [Accede al acordeón para el eje de Inteligencia Artificial](https://github.com/jose1824/acordeon-az900-innovaccion/tree/ia)
 - [Accede al acordeón par ael eje de Arquitectura de Soluciones](https://github.com/jose1824/acordeon-az900-innovaccion/)
 
+
+## Playlists
+- [Spotify: Summer Camp. Curaduría del Sherpa](https://open.spotify.com/playlist/2maugKhJMa5miQvtSmNDPp?si=614d1c994d34482a)
+- [Spotify: Summer Cloud Oficial](https://open.spotify.com/playlist/5kUBNNIKj5y6Ybf35LYjgM?si=4bcf372605484c88)}
+  - Si quieres 
+- [Apple Music: Summer Camp. Curaduría del Sherpa](https://music.apple.com/mx/playlist/summer-cloud-curadur%C3%ADa-del-sherpa/pl.u-pMyl1KlI4Ey43Pp)
+- [Apple Music: Summer Cloud Oficial](https://music.apple.com/mx/playlist/summer-cloud-oficial/pl.u-zPyLmD5CZP4Z5RW)
+- Puedes pasar las canciones a tu plataforma preferida con: [Songshift](https://songshift.com/) o similares
+
+<iframe src="https://open.spotify.com/embed/playlist/5kUBNNIKj5y6Ybf35LYjgM" width="100%" height="380" frameBorder="0" allowtransparency="true" allow="encrypted-media"></iframe>
 
 [Asignador random de casos tipo examen]()*
 
