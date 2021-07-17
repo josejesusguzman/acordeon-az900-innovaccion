@@ -83,7 +83,7 @@ Comienza con los servicios básicos de Azure. Los servicios de compute, Storage,
 - [Tutorial de Wordpress con Kubernetes](/res/tutorial-k8s-wordpress.md)
 
 ### Examen de prueba Módulo 2
-- [PROXIMAMENTE]()*
+- [Dale clic aquí para acceder al examen](https://kahoot.it/challenge/07770634?challenge-id=17c998c7-d2ca-4aad-8555-25d087dca7da_1626492198789)
 
 __________
 
