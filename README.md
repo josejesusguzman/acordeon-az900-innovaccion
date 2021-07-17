@@ -55,7 +55,7 @@ En este módulo aprenderás sobre las definiciones fundamentales del uso de la n
 - [Podcast en español sobre que es cómputo en la nube](https://open.spotify.com/episode/4Sp0OYXtD8ndueA9aBsny6?si=ke9SNZudRqKxf8AIrO1_Iw)
 
 ### Examen de prueba Módulo 1
-- [Da clic aquí para acceder al examen](https://kahoot.it/challenge/01835162?challenge-id=17c998c7-d2ca-4aad-8555-25d087dca7da_1625875834376)*
+- [Da clic aquí para acceder al examen](https://kahoot.it/challenge/01835162?challenge-id=17c998c7-d2ca-4aad-8555-25d087dca7da_1625875834376)
 
 _______
 
