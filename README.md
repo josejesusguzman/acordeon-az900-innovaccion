@@ -3,7 +3,7 @@
 
 ![Logo Summer Camp](/res/images/badge-eje.png)
 
-Aquí podrás encontrar todos los recursos usados en Innovacción Virtual para ayudarte en tu travesía hacia certirficarte en la nube de Azure.
+Aquí podrás encontrar todos los recursos usados en Innovacción Virtual para ayudarte en tu travesía hacia certificarte en la nube de Azure.
 
 ***Nota para Innovacción: No compres la certificación**, espera instrucciones. Te daremos un voucher para hacer tu examen gratis. Microsoft no te devolverá el dinero que hayas gastado por error en comprar el examen o un curso pagado.*
 
@@ -22,14 +22,14 @@ Aquí podrás encontrar todos los recursos usados en Innovacción Virtual para a
 - [Playlists](#playlists)
 
 ## Glosarios
-- [Glosario de terminos básicos de tecnología](/res/docs/V2%20Glosario%20de%20términos%20Innovacción.pdf)
-- [Glosario de terminos de Azure](res/terminos_azure.md)
-- **[Descarga las fichas de imagenes de los términos aquí](https://innovaccion-my.sharepoint.com/:f:/g/personal/jguzman_innovaccion_mx/EnO9_QErWA1DmICARLq9Mq0BpkrljWEX8VYgRHoz-i5ezw?e=ktAUKs)**
+- [Glosario de términos básicos de tecnología](/res/docs/V2%20Glosario%20de%20términos%20Innovacción.pdf)
+- [Glosario de términos de Azure](res/terminos_azure.md)
+- **[Descarga las fichas de imágenes de los términos aquí](https://innovaccion-my.sharepoint.com/:f:/g/personal/jguzman_innovaccion_mx/EnO9_QErWA1DmICARLq9Mq0BpkrljWEX8VYgRHoz-i5ezw?e=ktAUKs)**
   - *Imagenes por [@mientraselmundosederrumba](https://www.instagram.com/mientraselmundosederrumba/)*   
 - [Diagrama de terminos de Azure](/res/images/conceptos/completo.jpeg)
 
 ## Notas de ayuda
-- [Board de Miro con notas propedeuticas](https://miro.com/app/board/o9J_lFmeuC4=/)
+- [Board de Miro con notas propedéuticas](https://miro.com/app/board/o9J_lFmeuC4=/)
 - [Board de Miro con notas](https://miro.com/app/board/o9J_lDGKcdM=/)
 
 _________
@@ -37,7 +37,7 @@ _________
 # Semana 1
 
 ## Módulo 1: Descripción de los conceptos básicos de Azure
-En este módulo aprenderás sobre las definiciones fundamentales del uso de la nube de Microsoft Azure. Después, explorarás el portal de Azure para comenzar a crear soluciones
+En este módulo aprenderás sobre las definiciones fundamentales del uso de la nube de Microsoft Azure. Después, explorarás el portal de Azure para comenzar a crear soluciones.
 
 ### Módulos de Microsoft Learn (Challenge)
 - [Introducción a los aspectos básicos de Azure](https://docs.microsoft.com/es-mx/learn/modules/intro-to-azure-fundamentals/)
@@ -45,11 +45,11 @@ En este módulo aprenderás sobre las definiciones fundamentales del uso de la n
 - [Descripción de los componentes principales de la arquitectura de Azure](https://docs.microsoft.com/es-mx/learn/modules/azure-architecture-fundamentals/)
 
 ### Contenidos
-- [Glosario de terminos de Azure](res/terminos_azure.md)
-- **[Descarga las fichas de imagenes de los términos aquí](https://innovaccion-my.sharepoint.com/:f:/g/personal/jguzman_innovaccion_mx/EnO9_QErWA1DmICARLq9Mq0BpkrljWEX8VYgRHoz-i5ezw?e=ktAUKs)**
+- [Glosario de términos de Azure](res/terminos_azure.md)
+- **[Descarga las fichas de imágenes de los términos aquí](https://innovaccion-my.sharepoint.com/:f:/g/personal/jguzman_innovaccion_mx/EnO9_QErWA1DmICARLq9Mq0BpkrljWEX8VYgRHoz-i5ezw?e=ktAUKs)**
   - *Imagenes por [@mientraselmundosederrumba](https://www.instagram.com/mientraselmundosederrumba/)*   
-- [Diagrama de terminos de Azure](/res/images/conceptos/completo.jpeg)
-- [Diagrama de jerarquia de suscripciones de Azure](/res/jerarquia.md)
+- [Diagrama de términos de Azure](/res/images/conceptos/completo.jpeg)
+- [Diagrama de jerarquía de suscripciones de Azure](/res/jerarquia.md)
 - [Podcast en español sobre la certificación AZ-900](https://open.spotify.com/episode/7KY9i2Xz6WIHocJe6jlPmy?si=SyANKxMTT4K_4kCxGF59Ag)
 - [Podcast en inglés sobre la certificación AZ-900 (No tiene el mismo contenido que el de arriba)](https://open.spotify.com/episode/3UknsHbYA0ZzT33cggBmrA?si=_7qf-A9lRv6D3_fklpHSfw)
 - [Podcast en español sobre que es cómputo en la nube](https://open.spotify.com/episode/4Sp0OYXtD8ndueA9aBsny6?si=ke9SNZudRqKxf8AIrO1_Iw)
@@ -83,6 +83,7 @@ Comienza con los servicios básicos de Azure. Los servicios de compute, Storage,
 - [Tutorial de Wordpress con Kubernetes](/res/tutorial-k8s-wordpress.md)
 
 ### Examen de prueba Módulo 2
+
 - [Dale clic aquí para acceder al examen](https://kahoot.it/challenge/07770634?challenge-id=17c998c7-d2ca-4aad-8555-25d087dca7da_1626492198789)
 
 __________
@@ -124,7 +125,7 @@ En este módulo veremos más servicios de la nube de Azure, así como las herram
 - [Curso básico de programación con Python](https://github.com/RodolfoFerro/python-innovaccion)
 ________
 
-## Módulo 4: Descripción de las caracteristicas de seguridad general y seguridad de red
+## Módulo 4: Descripción de las características de seguridad general y seguridad de red
 En este módulo aprenderás sobre los servicios que protejen a la nube de Azure a las soluciones sobre esta, de ataques externos.
 
 ### Módulos de Microsoft Learn (Challenge)
@@ -137,7 +138,7 @@ En este módulo aprenderás sobre los servicios que protejen a la nube de Azure 
 - [Comparativa entre Azure Advisor, Monitor, Log Analytics, Service Health y Sentinel](/res/comparativa-advisor-monitor-log-sentinel.md)
 
 ### Examen de prueba Módulo 4
-- [PROXIMAMENTE]()*
+- [PRÓXIMAMENTE]()*
 ______
 
 # Semana 4
@@ -171,13 +172,13 @@ Conoce sobre los factores que influyen en el costo, las herramientas que se pued
 - [Elección de los servicios de Azure adecuados según los acuerdos de nivel de servicio y el ciclo de vida del servicio](https://docs.microsoft.com/es-mx/learn/modules/choose-azure-services-sla-lifecycle/)
 
 ### Contenidos
-- [Formulas para calcular el nivel de servicio SLA](/res/formulario_sla.md)
+- [Fórmulas para calcular el nivel de servicio SLA](/res/formulario_sla.md)
 
 ### Laboratorios - práctca
 - [Ejercicios de calculo de SLA](/res/ejercicios-sla.md)
 
 ### Examen de prueba Módulo 6
-- [PROXIMAMENTE]()
+- [PRÓXIMAMENTE]()
 - [Calculadora de TCO](https://azure.microsoft.com/es-mx/pricing/tco/)
 - [Calculadora de costos de Azure](https://azure.microsoft.com/es-mx/pricing/calculator/)
 - [Contratos de nivel de servicios de Azure](https://azure.microsoft.com/es-mx/support/legal/sla/)
