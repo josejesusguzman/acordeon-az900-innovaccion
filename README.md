@@ -20,7 +20,7 @@ Aquí podrás encontrar todos los recursos usados en Innovacción Virtual para a
 - [App de Azure para iOS y iPadOS](https://apps.apple.com/es/app/microsoft-azure/id1219013620)
 - [App de Azure para Android](https://play.google.com/store/apps/details?id=com.microsoft.azure&hl=es_MX&gl=US)
 - [Playlists](#playlists)
-- [Controbuidores](#contrbuidores)
+- [Contribuidores](#contribuidores)
 
 ## Glosarios
 - [Glosario de términos básicos de tecnología](/res/docs/V2%20Glosario%20de%20términos%20Innovacción.pdf)
