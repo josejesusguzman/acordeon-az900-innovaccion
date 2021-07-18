@@ -19,6 +19,7 @@ Aquí podrás encontrar todos los recursos usados en Innovacción Virtual para a
 - [(Solo Innovacción) Grabaciones de los live](https://web.microsoftstream.com/channel/2fc54fb6-6d8c-4c83-91da-97ad0bc02531)
 - [App de Azure para iOS y iPadOS](https://apps.apple.com/es/app/microsoft-azure/id1219013620)
 - [App de Azure para Android](https://play.google.com/store/apps/details?id=com.microsoft.azure&hl=es_MX&gl=US)
+- [Playlists](#playlists)
 
 ## Glosarios
 - [Glosario de términos básicos de tecnología](/res/docs/V2%20Glosario%20de%20términos%20Innovacción.pdf)
@@ -54,7 +55,7 @@ En este módulo aprenderás sobre las definiciones fundamentales del uso de la n
 - [Podcast en español sobre que es cómputo en la nube](https://open.spotify.com/episode/4Sp0OYXtD8ndueA9aBsny6?si=ke9SNZudRqKxf8AIrO1_Iw)
 
 ### Examen de prueba Módulo 1
-- [Da clic aquí para acceder al examen](https://kahoot.it/challenge/01835162?challenge-id=17c998c7-d2ca-4aad-8555-25d087dca7da_1625875834376)*
+- [Da clic aquí para acceder al examen](https://kahoot.it/challenge/01835162?challenge-id=17c998c7-d2ca-4aad-8555-25d087dca7da_1625875834376)
 
 _______
 
@@ -75,13 +76,15 @@ Comienza con los servicios básicos de Azure. Los servicios de compute, Storage,
 - [Como seleccionar las mejores herramientas para tu solución](/res/seleccion_herramientas.md)
 
 
-### Laboratorios
+### Laboratorios - práctca
+- [Lab de Azure App Service: Sube tu página a App Service](https://github.com/josejesusguzman/lab-subir-app-service-azure)
 - [Página de Wordpress con Maquina Virtual y Azure CLI](https://github.com/jose1824/codigos_innovaccion_tutorial_vm_wordpress)
 - [Implementación de una Web App con Docker y Azure Kubernetes Service](/res/tutorial_kubernetes_basic.md)
 - [Tutorial de Wordpress con Kubernetes](/res/tutorial-k8s-wordpress.md)
 
 ### Examen de prueba Módulo 2
-- [PRÓXIMAMENTE]()*
+
+- [Dale clic aquí para acceder al examen](https://kahoot.it/challenge/07770634?challenge-id=17c998c7-d2ca-4aad-8555-25d087dca7da_1626492198789)
 
 __________
 
@@ -105,10 +108,10 @@ En este módulo veremos más servicios de la nube de Azure, así como las herram
 - [Plantillas ARM validadas de la comunidad](https://github.com/Azure/azure-quickstart-templates)
 - [Podcast en español sobre que es Inteligencia Artificial](https://open.spotify.com/episode/6kLmxMKovbdE3QmGhvDCFH?si=ad949acfe2284c57)
 - [Podcast en español sobre que es Inteligencia Artificial -  Extendido](https://open.spotify.com/episode/2N8EEOKikGGq5xtrrHBT9K?si=f0349be769a545c3)
-- [Tabla comparativa entre Azure Sentinel y Azure Sphere]()*
-- [Comparativa entre Azure Advisor, Monitor, Log Analytics Sentinel]()*
+- [Comparativa entre Azure Sentinel y Azure Sphere](/res/comparativa-sentinel-sphere.md)
+- [Comparativa entre Azure Advisor, Monitor, Log Analytics, Service Health y Sentinel](/res/comparativa-advisor-monitor-log-sentinel.md)
 
-### Laboratorios
+### Laboratorios - práctca
 - [Tutorial de creación de un experimento con Machine Learning Studio](/res/ml-studio-excercise.md)
 - [Práctica de Azure IoT Hub](https://github.com/jose1824/iot-edge-innovaccion-practice)
 
@@ -131,8 +134,8 @@ En este módulo aprenderás sobre los servicios que protejen a la nube de Azure 
 
 ### Contenidos
 - [Tabla comparativa de seguridad en Azure](/res/comparativa_seguridad.md)
-- [Tabla comparativa entre Azure Sentinel y Azure Sphere]()*
-- [Comparativa entre Azure Advisor, Monitor, Log Analytics Sentinel]()*
+- [Comparativa entre Azure Sentinel y Azure Sphere](/res/comparativa-sentinel-sphere.md)
+- [Comparativa entre Azure Advisor, Monitor, Log Analytics, Service Health y Sentinel](/res/comparativa-advisor-monitor-log-sentinel.md)
 
 ### Examen de prueba Módulo 4
 - [PRÓXIMAMENTE]()*
@@ -171,7 +174,7 @@ Conoce sobre los factores que influyen en el costo, las herramientas que se pued
 ### Contenidos
 - [Fórmulas para calcular el nivel de servicio SLA](/res/formulario_sla.md)
 
-### Laboratorios
+### Laboratorios - práctca
 - [Ejercicios de calculo de SLA](/res/ejercicios-sla.md)
 
 ### Examen de prueba Módulo 6
@@ -190,6 +193,15 @@ ______
 - [Accede al acordeón par ael eje de Arquitectura de Soluciones](https://github.com/jose1824/acordeon-az900-innovaccion/)
 
 
+## Playlists
+- [Spotify: Summer Camp. Curaduría del Sherpa](https://open.spotify.com/playlist/2maugKhJMa5miQvtSmNDPp?si=614d1c994d34482a)
+- [Spotify: Summer Cloud Oficial](https://open.spotify.com/playlist/5kUBNNIKj5y6Ybf35LYjgM?si=4bcf372605484c88)}
+  - Si quieres una adición a la playlist tendrás que hacer un **Pull Request** a este repositorio con una modificación en el [apartado de adiciones a la playlist](/res/adiciones-playlist.md)
+- [Apple Music: Summer Camp. Curaduría del Sherpa](https://music.apple.com/mx/playlist/summer-cloud-curadur%C3%ADa-del-sherpa/pl.u-pMyl1KlI4Ey43Pp)
+- [Apple Music: Summer Cloud Oficial](https://music.apple.com/mx/playlist/summer-cloud-oficial/pl.u-zPyLmD5CZP4Z5RW)
+- Puedes pasar las canciones a tu plataforma preferida con: [Songshift](https://songshift.com/) o similares
+
+# Asignador random de casos tipo examen
 [Asignador random de casos tipo examen]()*
 
 Si quieres integrar algún recurso extra que te haya servido haz un *pull request* y lo evaluaré.
@@ -197,3 +209,4 @@ Si quieres integrar algún recurso extra que te haya servido haz un *pull reques
 También si encuentras un error de ortografía o de contenido por favor levanta un *issue* y puedes resolverlo con un *pull request* también.
 
 Mucho éxito en tu examen.
+
