@@ -107,8 +107,8 @@ En este módulo veremos más servicios de la nube de Azure, así como las herram
 - [Plantillas ARM validadas de la comunidad](https://github.com/Azure/azure-quickstart-templates)
 - [Podcast en español sobre que es Inteligencia Artificial](https://open.spotify.com/episode/6kLmxMKovbdE3QmGhvDCFH?si=ad949acfe2284c57)
 - [Podcast en español sobre que es Inteligencia Artificial -  Extendido](https://open.spotify.com/episode/2N8EEOKikGGq5xtrrHBT9K?si=f0349be769a545c3)
-- [Tabla comparativa entre Azure Sentinel y Azure Sphere]()*
-- [Comparativa entre Azure Advisor, Monitor, Log Analytics Sentinel]()*
+- [Comparativa entre Azure Sentinel y Azure Sphere](/res/comparativa-sentinel-sphere.md)
+- [Comparativa entre Azure Advisor, Monitor, Log Analytics, Service Health y Sentinel](/res/comparativa-advisor-monitor-log-sentinel.md)
 
 ### Laboratorios - práctca
 - [Tutorial de creación de un experimento con Machine Learning Studio](/res/ml-studio-excercise.md)
@@ -133,8 +133,8 @@ En este módulo aprenderás sobre los servicios que protejen a la nube de Azure 
 
 ### Contenidos
 - [Tabla comparativa de seguridad en Azure](/res/comparativa_seguridad.md)
-- [Tabla comparativa entre Azure Sentinel y Azure Sphere]()*
-- [Comparativa entre Azure Advisor, Monitor, Log Analytics Sentinel]()*
+- [Comparativa entre Azure Sentinel y Azure Sphere](/res/comparativa-sentinel-sphere.md)
+- [Comparativa entre Azure Advisor, Monitor, Log Analytics, Service Health y Sentinel](/res/comparativa-advisor-monitor-log-sentinel.md)
 
 ### Examen de prueba Módulo 4
 - [PROXIMAMENTE]()*
