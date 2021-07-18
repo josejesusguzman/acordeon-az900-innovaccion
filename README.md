@@ -211,7 +211,7 @@ También si encuentras un error de ortografía o de contenido por favor levanta 
 
 Mucho éxito en tu examen.
 
-# Contrbuidores
+# Contribuidores
 Muchas gracias por su vaiolsa ayuda
 
 - [Camilo Hortua](https://github.com/oc-hortua)
