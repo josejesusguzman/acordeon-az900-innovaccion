@@ -102,7 +102,6 @@ En este módulo veremos más servicios de la nube de Azure, así como las herram
 
 ### Contenidos
 - [Comparativa entre servicios de Cognitive Services](/res/comparativa_cognitive_services.md)
-- [Como hacer plantillas de ARM](/res/plantilla_arm.md)
 - [Buenas practicas para plantillas ARM](https://github.com/Azure/azure-quickstart-templates/blob/master/1-CONTRIBUTION-GUIDE/best-practices.md)
 - [Plantillas ARM validadas de la comunidad](https://github.com/Azure/azure-quickstart-templates)
 - [Podcast en español sobre que es Inteligencia Artificial](https://open.spotify.com/episode/6kLmxMKovbdE3QmGhvDCFH?si=ad949acfe2284c57)
@@ -111,6 +110,7 @@ En este módulo veremos más servicios de la nube de Azure, así como las herram
 - [Comparativa entre Azure Advisor, Monitor, Log Analytics Sentinel]()*
 
 ### Laboratorios - práctca
+- [Como hacer plantillas de ARM](/res/plantilla_arm.md)
 - [Tutorial de creación de un experimento con Machine Learning Studio](/res/ml-studio-excercise.md)
 - [Práctica de Azure IoT Hub](https://github.com/jose1824/iot-edge-innovaccion-practice)
 
