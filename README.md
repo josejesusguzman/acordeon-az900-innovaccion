@@ -112,6 +112,7 @@ En este módulo veremos más servicios de la nube de Azure, así como las herram
 - [Comparativa entre Azure Advisor, Monitor, Log Analytics, Service Health y Sentinel](/res/comparativa-advisor-monitor-log-sentinel.md)
 
 ### Laboratorios - práctca
+- [Código de consumo de Custom Vision](https://github.com/josejesusguzman/azure-preditcion-api-consumption)
 - [Como hacer plantillas de ARM](/res/plantilla_arm.md)
 - [Tutorial de creación de un experimento con Machine Learning Studio](/res/ml-studio-excercise.md)
 - [Práctica de Azure IoT Hub](https://github.com/jose1824/iot-edge-innovaccion-practice)

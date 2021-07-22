@@ -1,8 +1,51 @@
 # Ejercicio con Azure Machine Learning Studio
 
-- [Grabación de la clase](https://web.microsoftstream.com/video/40c637e4-e15d-415b-90e0-9d54bfb0fae9)
+- [Grabación de la clase](https://web.microsoftstream.com/video/f66412fb-b9f0-421e-8d56-809aebb25b35)
 
 En esta práctica lo que harás será crear un modelo de predicción de diabetes de acuerdo con un dataset brindado. Todo lo harás con el portal de Azure y Machine Learning Studio. Además, aprenderás a usar un poco mejor la plataforma.
+
+______
+
+## Datos para la práctica de predicción de rentas de bicicletas
+
+- [Datos de renta de bicis](https://aka.ms/bike-rentals)
+
+Código de ejecución en Python para el ejercicio de renta de bicis:
+
+```python
+endpoint = 'YOUR_ENDPOINT' #Replace with your endpoint
+key = 'YOUR_KEY' #Replace with your key
+
+import json
+import requests
+
+#An array of features based on five-day weather forecast
+x = [[1,1,2022,1,0,6,0,2,0.344167,0.363625,0.805833,0.160446],
+    [2,1,2022,1,0,0,0,2,0.363478,0.353739,0.696087,0.248539],
+    [3,1,2022,1,0,1,1,1,0.196364,0.189405,0.437273,0.248309],
+    [4,1,2022,1,0,2,1,1,0.2,0.212122,0.590435,0.160296],
+    [5,1,2022,1,0,3,1,1,0.226957,0.22927,0.436957,0.1869]]
+
+#Convert the array to JSON format
+input_json = json.dumps({"data": x})
+
+#Set the content type and authentication for the request
+headers = {"Content-Type":"application/json",
+        "Authorization":"Bearer " + key}
+
+#Send the request
+response = requests.post(endpoint, input_json, headers=headers)
+
+#If we got a valid response, display the predictions
+if response.status_code == 200:
+    y = json.loads(response.json())
+    print("Predictions:")
+    for i in range(len(x)):
+        print (" Day: {}. Predicted rentals: {}".format(i+1, max(0, round(y["result"][i]))))
+else:
+    print(response)
+```
+_____
 
 ## Creación de un recurso de Aprendizaje automático
 Para usar Azure Machine Learning Studio necesitamos un recurso de Aprendizaje Automático de Azure que nos proporcionará el área de trabajo y la facturación a nuestra suscripción de Microsoft Azure.
