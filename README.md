@@ -121,6 +121,7 @@ En este módulo veremos más servicios de la nube de Azure, así como las herram
 - [PROXIMAMENTE]()*
 
 ### Extras
+- [Hoja para decidir que algoritmo de IA usar](https://docs.microsoft.com/es-mx/azure/machine-learning/algorithm-cheat-sheet)
 - [Así usa Netflix la inteligencia artificial para las portadas de su contenido](https://medium.com/bigdatalatam/netflix-una-peque%C3%B1a-vista-a-la-compleja-tecnolog%C3%ADa-detr%C3%A1s-del-servicio-m%C3%A1s-popular-de-streaming-907124c3d5da)
 - [Así usa Spotify la IA - 1](https://lieslanggijono.medium.com/the-magic-ingredient-of-spotify-machine-learning-b6af57ecca03)
 - [Así usa Spotify la IA - 2](https://medium.com/s/story/spotifys-discover-weekly-how-machine-learning-finds-your-new-music-19a41ab76efe)
