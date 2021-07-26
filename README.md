@@ -182,14 +182,16 @@ Conoce sobre los factores que influyen en el costo, las herramientas que se pued
 
 ### Examen de prueba Módulo 6
 - [PRÓXIMAMENTE]()
+
+### Links necesarios
 - [Calculadora de TCO](https://azure.microsoft.com/es-mx/pricing/tco/)
 - [Calculadora de costos de Azure](https://azure.microsoft.com/es-mx/pricing/calculator/)
 - [Contratos de nivel de servicios de Azure](https://azure.microsoft.com/es-mx/support/legal/sla/)
 ______
 
-## Examenes piloto
-- [Prueba de examen AZ-900- PROXIMAMENTE]()
-- [Examen sobre como seleccionar las herramientas de tu solución - PROXIMAMENTE]()
+## Examenes finales de prueba (Kahoot)
+- [Prueba de examen AZ-900](https://kahoot.it/challenge/06081434?challenge-id=17c998c7-d2ca-4aad-8555-25d087dca7da_1627315696018)
+- [Examen sobre como seleccionar las herramientas de tu solución](https://kahoot.it/challenge/02323305?challenge-id=17c998c7-d2ca-4aad-8555-25d087dca7da_1627315719037)
 
 ## Extras
 - [Accede al acordeón para el eje de Inteligencia Artificial](https://github.com/jose1824/acordeon-az900-innovaccion/tree/ia)
@@ -198,7 +200,7 @@ ______
 
 ## Playlists
 - [Spotify: Summer Camp. Curaduría del Sherpa](https://open.spotify.com/playlist/2maugKhJMa5miQvtSmNDPp?si=614d1c994d34482a)
-- [Spotify: Summer Cloud Oficial](https://open.spotify.com/playlist/5kUBNNIKj5y6Ybf35LYjgM?si=4bcf372605484c88)}
+- [Spotify: Summer Cloud Oficial](https://open.spotify.com/playlist/5kUBNNIKj5y6Ybf35LYjgM?si=4bcf372605484c88)
   - Si quieres una adición a la playlist tendrás que hacer un **Pull Request** a este repositorio con una modificación en el [apartado de adiciones a la playlist](/res/adiciones-playlist.md)
 - [Apple Music: Summer Camp. Curaduría del Sherpa](https://music.apple.com/mx/playlist/summer-cloud-curadur%C3%ADa-del-sherpa/pl.u-pMyl1KlI4Ey43Pp)
 - [Apple Music: Summer Cloud Oficial](https://music.apple.com/mx/playlist/summer-cloud-oficial/pl.u-zPyLmD5CZP4Z5RW)
