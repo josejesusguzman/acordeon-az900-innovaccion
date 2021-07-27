@@ -162,9 +162,8 @@ Obten información sobre cómo Azure puede ayudarle a proteger el acceso a los r
 - [Cumplimiento GDRP con Azure](/res/cumplimiento_gdrp.md)
 - [Pasos del Cloud Adoption Framework](/res/pasos_caf.md)
 
-
 ### Examen de prueba Módulo 5
-- [PROXIMAMENTE]()
+- [Dale clic aquí para acceder al examen](https://kahoot.it/challenge/0787044?challenge-id=17c998c7-d2ca-4aad-8555-25d087dca7da_1627315635272)
 _______
 
 ## Módulo 6: Descripción de los acuerdos de nivel de servicio y la administración de costos de Azure
