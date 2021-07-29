@@ -181,7 +181,7 @@ Conoce sobre los factores que influyen en el costo, las herramientas que se pued
 - [Ejercicios de calculo de SLA](/res/ejercicios-sla.md)
 
 ### Examen de prueba Módulo 6
-- [PRÓXIMAMENTE]()
+- [Dale clic aquí para acceder al examen](https://kahoot.it/challenge/09781916?challenge-id=17c998c7-d2ca-4aad-8555-25d087dca7da_1627315666617 )
 
 ### Links necesarios
 - [Calculadora de TCO](https://azure.microsoft.com/es-mx/pricing/tco/)
