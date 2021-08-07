@@ -86,7 +86,7 @@ Comienza con los servicios básicos de Azure. Los servicios de compute, Storage,
 
 ### Examen de prueba Módulo 2
 
-- [Dale clic aquí para acceder al examen](https://kahoot.it/challenge/07770634?challenge-id=17c998c7-d2ca-4aad-8555-25d087dca7da_1626492198789)
+- [Dale clic aquí para acceder al examen](https://kahoot.it/challenge/02829346?challenge-id=17c998c7-d2ca-4aad-8555-25d087dca7da_1628297577518)
 
 __________
 
