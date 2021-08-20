@@ -34,7 +34,9 @@ Aquí podrás encontrar conceptos clave que usarás a través de todo tu viaje p
     - [Compute](#compute)
     - [Network](#network)
     - [Storage](#storage)
+    - [Móvil](#móvil)
     - [Database (DB)](#database-db)
+    - [Web](#web)
     - [Internet of Things (IoT)](#internet-of-things-iot)
     - [Big Data](#big-data)
     - [Inteligencia Artificial (IA)](#inteligencia-artificial-ia)
@@ -194,6 +196,14 @@ Proporciona servicios de almacenamiento de archivos y objetos. Por ejemplo:
 
 <img src="/res/images/conceptos/storage.png" alt="drawing" width="400"/>
 
+### Móvil
+Permite crear servicios back-end móviles para aplicaciones iOS, Android y Windows de forma rápida y sencilla. Algunas de sus características son:
+
+- Sincronización de datos sin conexión.
+- Conectividad a datos locales.
+- Difusión de notificaciones de inserción.
+- Escalado automático para satisfacer las necesidades del negocio.
+
 ### Database (DB)
 Proporciona servicios de bases de datos para una amplia variedad de tipos y volumenes de datos. Por ejemplo:
 - Cosmos DB
@@ -201,6 +211,15 @@ Proporciona servicios de bases de datos para una amplia variedad de tipos y volu
 - Azure Database Migration Service
 
 <img src="/res/images/conceptos/db.png" alt="drawing" width="400"/>
+
+### Web
+Proporciona servicios para compilar y hospedar aplicaciones y servicios web basados en HTTP. Por ejemplo:
+- Azure App Service
+- Azure Notification Hubs
+- Azure API Management
+- Azure Cognitive Search
+- Característica Web Apps de Azure App Service
+- Servicio Azure SignalR
 
 ### Internet of Things (IoT)
 Proporciona servicios de IoT para conectar y recibir información de sensores, relojes inteligentes, maquinaria, etc. Por ejemplo:
