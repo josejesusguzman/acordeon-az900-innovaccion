@@ -61,6 +61,9 @@ En este módulo aprenderás sobre las definiciones fundamentales del uso de la n
 ### Examen de prueba Módulo 1
 - [Da clic aquí para acceder al examen (PROXIMAMENTE)]()
 
+### Extras
+- [Práctica de fundamentos de Python](https://github.com/josejesusguzman/practica-fundamentos-python)
+
 _______
 
 # Semana 2
