@@ -163,7 +163,7 @@ Obten información sobre cómo Azure puede ayudarle a proteger el acceso a los r
 - [Pasos del Cloud Adoption Framework](/res/pasos_caf.md)
 
 ### Examen de prueba Módulo 5
-- [Dale clic aquí para acceder al examen](https://kahoot.it/challenge/0787044?challenge-id=17c998c7-d2ca-4aad-8555-25d087dca7da_1627315635272)
+- [Dale clic aquí para acceder al examen](https://kahoot.it/challenge/09507218?challenge-id=17c998c7-d2ca-4aad-8555-25d087dca7da_1629695664084)
 _______
 
 ## Módulo 6: Descripción de los acuerdos de nivel de servicio y la administración de costos de Azure
@@ -181,7 +181,7 @@ Conoce sobre los factores que influyen en el costo, las herramientas que se pued
 - [Ejercicios de calculo de SLA](/res/ejercicios-sla.md)
 
 ### Examen de prueba Módulo 6
-- [Dale clic aquí para acceder al examen](https://kahoot.it/challenge/09781916?challenge-id=17c998c7-d2ca-4aad-8555-25d087dca7da_1627315666617 )
+- [Dale clic aquí para acceder al examen](https://kahoot.it/challenge/08335833?challenge-id=17c998c7-d2ca-4aad-8555-25d087dca7da_1629695720704)
 
 ### Links necesarios
 - [Calculadora de TCO](https://azure.microsoft.com/es-mx/pricing/tco/)
