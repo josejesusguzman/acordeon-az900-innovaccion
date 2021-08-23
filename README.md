@@ -119,7 +119,7 @@ En este módulo veremos más servicios de la nube de Azure, así como las herram
 - [Práctica de Azure IoT Hub](https://github.com/jose1824/iot-edge-innovaccion-practice)
 
 ### Examen de prueba Módulo 3
-- [Dale clic aquí para acceder al examen](https://kahoot.it/challenge/0833580?challenge-id=17c998c7-d2ca-4aad-8555-25d087dca7da_1628987181985)
+- [Dale clic aquí para acceder al examen](https://kahoot.it/challenge/06834968?challenge-id=17c998c7-d2ca-4aad-8555-25d087dca7da_1629747697600)
 
 ### Extras
 - [Hoja para decidir que algoritmo de IA usar](https://docs.microsoft.com/es-mx/azure/machine-learning/algorithm-cheat-sheet)
@@ -142,7 +142,7 @@ En este módulo aprenderás sobre los servicios que protejen a la nube de Azure 
 - [Comparativa entre Azure Advisor, Monitor, Log Analytics, Service Health y Sentinel](/res/comparativa-advisor-monitor-log-sentinel.md)
 
 ### Examen de prueba Módulo 4
-- [Dale clic aquí para acceder al examen](https://kahoot.it/challenge/01012358?challenge-id=17c998c7-d2ca-4aad-8555-25d087dca7da_1629692169853)
+- [Dale clic aquí para acceder al examen](https://kahoot.it/challenge/0833580?challenge-id=17c998c7-d2ca-4aad-8555-25d087dca7da_1628987181985)
 ______
 
 # Semana 4
