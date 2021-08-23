@@ -194,7 +194,7 @@ ______
 - [Kahoot G2](https://kahoot.it/challenge/007622098)
 - [Kahoot G3](https://kahoot.it/challenge/003427374)
 - [Kahoot G4](https://kahoot.it/challenge/007539876)
-- [Prueba de examen AZ-900](https://kahoot.it/challenge/06081434?challenge-id=17c998c7-d2ca-4aad-8555-25d087dca7da_1627315696018)
+- [Prueba de examen AZ-900](https://kahoot.it/challenge/008111340)
 - [Examen sobre como seleccionar las herramientas de tu solución](https://kahoot.it/challenge/02323305?challenge-id=17c998c7-d2ca-4aad-8555-25d087dca7da_1627315719037)
 
 
