@@ -37,6 +37,7 @@ Aquí podrás encontrar todos los recursos usados en Innovacción Virtual para a
 - [Board de Miro con notas de Azure](https://miro.com/app/board/o9J_lDGKcdM=/)
 
 _________
+_________
 
 # Semana 1
 
@@ -132,7 +133,9 @@ En este módulo veremos más servicios de la nube de Azure, así como las herram
 - [Así usa Spotify la IA - 1](https://lieslanggijono.medium.com/the-magic-ingredient-of-spotify-machine-learning-b6af57ecca03)
 - [Así usa Spotify la IA - 2](https://medium.com/s/story/spotifys-discover-weekly-how-machine-learning-finds-your-new-music-19a41ab76efe)
 - [Curso básico de programación con Python](https://github.com/RodolfoFerro/python-innovaccion)
-________
+______
+
+# Semana 4
 
 ## Módulo 4: Descripción de las características de seguridad general y seguridad de red
 En este módulo aprenderás sobre los servicios que protejen a la nube de Azure a las soluciones sobre esta, de ataques externos.
@@ -148,9 +151,8 @@ En este módulo aprenderás sobre los servicios que protejen a la nube de Azure 
 
 ### Examen de prueba Módulo 4
 - [Dale clic aquí para acceder al examen (PROXIMAMENTE)]()
-______
 
-# Semana 4
+______
 
 ## Módulo 5: Descripción de las características de identidad, gobernanza, privacidad y cumplimiento
 Entender quién usa tus sistemas y qué permisos tiene es imprescindible para proteger tus datos de los atacantes. Para poder organizarse, administrar costos y alcanzar los objetivos de cumplimiento, es necesario disponer de una buena estrategia de gobernanza en la nube.
@@ -192,6 +194,7 @@ Conoce sobre los factores que influyen en el costo, las herramientas que se pued
 - [Calculadora de TCO](https://azure.microsoft.com/es-mx/pricing/tco/)
 - [Calculadora de costos de Azure](https://azure.microsoft.com/es-mx/pricing/calculator/)
 - [Contratos de nivel de servicios de Azure](https://azure.microsoft.com/es-mx/support/legal/sla/)
+______
 ______
 
 ## Examenes finales de prueba (Kahoot)
