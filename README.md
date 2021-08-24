@@ -41,6 +41,8 @@ _________
 
 # Semana 1
 
+- [Resumen semana 1](https://innovaccionvirtual.azurewebsites.net/2021/08/17/%f0%9f%a4%98-semana-1-inteligencia-artificial-%f0%9f%a4%98/)
+
 ## Módulo 1: Descripción de los conceptos básicos de Azure
 En este módulo aprenderás sobre las definiciones fundamentales del uso de la nube de Microsoft Azure. Después, explorarás el portal de Azure para comenzar a crear soluciones.
 
@@ -68,6 +70,8 @@ En este módulo aprenderás sobre las definiciones fundamentales del uso de la n
 _______
 
 # Semana 2
+
+- [Resumen semana 2](https://innovaccionvirtual.azurewebsites.net/2021/08/23/semana-2-inteligencia-artificial/)
 
 ## Módulo 2: Descripción de los servicios básicos de Azure
 Comienza con los servicios básicos de Azure. Los servicios de compute, Storage, Database y Network son los que componen la mayoria de los demás recursos más complejos en Azure.
@@ -97,6 +101,8 @@ Comienza con los servicios básicos de Azure. Los servicios de compute, Storage,
 __________
 
 # Semana 3
+
+- [Resumen semana 3]()
 
 ## Módulo 3: Descripción de las principales soluciones y herramientas de administración de Azure
 En este módulo veremos más servicios de la nube de Azure, así como las herramientas que nos permiten hacer más eficiente el trabajo de los equipos de TI.
@@ -136,6 +142,8 @@ En este módulo veremos más servicios de la nube de Azure, así como las herram
 ______
 
 # Semana 4
+
+- [Resumen semana 4]()
 
 ## Módulo 4: Descripción de las características de seguridad general y seguridad de red
 En este módulo aprenderás sobre los servicios que protejen a la nube de Azure a las soluciones sobre esta, de ataques externos.
