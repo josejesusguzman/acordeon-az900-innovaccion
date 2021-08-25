@@ -7,7 +7,7 @@ Por ejemplo:
 - Instant Crush - Daft Punk - @josejesusguzman
 
 
-# Deja tu canción aquí abajo sin quitar caciones, solo agregando
+# Deja tu canción aquí abajo sin quitar canciones, solo agregando
 
 - 11TH Dimension - Julian Casablancas - @JLRODRIGUEZ001
 - Fated - Alan Walker - @JLRODRIGUEZ001
