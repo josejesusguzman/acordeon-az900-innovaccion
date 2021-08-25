@@ -6,3 +6,5 @@ NOMBRE DE LA CANCIÓN - ARTISTA - USERNAME DE GITHUB CON ARROBA
 Por ejemplo:
 
 Instant Crush - Daft Punk - @josejesusguzman
+
+La Camisa Negra - Juanes - @JacobHawk603
