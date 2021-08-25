@@ -4,5 +4,13 @@ Si quieres agregar nueva música a la Playlist tendrás que hacer un Pull Reques
 NOMBRE DE LA CANCIÓN - ARTISTA - USERNAME DE GITHUB CON ARROBA
 
 Por ejemplo:
+- Instant Crush - Daft Punk - @josejesusguzman
 
-11TH Dimension - Julian Casablancas - @JLRODRIGUEZ001
+
+# Deja tu canción aquñi abajo sin quitar caciones, solo agregando
+
+- 11TH Dimension - Julian Casablancas - @JLRODRIGUEZ001
+- Fated - Alan Walker - @JLRODRIGUEZ001
+- Without you(ft.Usher) - David Guetta,Usher - @JLRODRIGUEZ001
+- La Camisa Negra - Juanes - @JacobHawk603
+
