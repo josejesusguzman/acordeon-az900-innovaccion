@@ -102,7 +102,7 @@ __________
 
 # Semana 3
 
-- [Resumen semana 3]()
+- [Resumen semana 3](https://innovaccionvirtual.azurewebsites.net/2021/08/30/semana-3-inteligencia-artificial/)
 
 ## Módulo 3: Descripción de las principales soluciones y herramientas de administración de Azure
 En este módulo veremos más servicios de la nube de Azure, así como las herramientas que nos permiten hacer más eficiente el trabajo de los equipos de TI.
