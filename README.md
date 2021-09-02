@@ -135,6 +135,7 @@ En este módulo veremos más servicios de la nube de Azure, así como las herram
 - [Dale clic aquí para acceder al examen (PROXIMAMENTE)]()
 
 ### Extras
+- [Genera arte con Inteligencia Artificial](https://colab.research.google.com/drive/1go6YwMFe5MX6XM9tv-cnQiSTU50N9EeT#scrollTo=g7EDme5RYCrt)
 - [Hoja para decidir que algoritmo de IA usar](https://docs.microsoft.com/es-mx/azure/machine-learning/algorithm-cheat-sheet)
 - [Así usa Netflix la inteligencia artificial para las portadas de su contenido](https://medium.com/bigdatalatam/netflix-una-peque%C3%B1a-vista-a-la-compleja-tecnolog%C3%ADa-detr%C3%A1s-del-servicio-m%C3%A1s-popular-de-streaming-907124c3d5da)
 - [Así usa Spotify la IA - 1](https://lieslanggijono.medium.com/the-magic-ingredient-of-spotify-machine-learning-b6af57ecca03)
