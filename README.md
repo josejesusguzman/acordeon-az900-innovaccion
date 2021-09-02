@@ -135,6 +135,7 @@ En este módulo veremos más servicios de la nube de Azure, así como las herram
 - [Dale clic aquí para acceder al examen (PROXIMAMENTE)]()
 
 ### Extras
+- [Elección de algoritmos de Inteligencia Artificial](https://docs.microsoft.com/en-us/azure/machine-learning/algorithm-cheat-sheet)
 - [Genera arte con Inteligencia Artificial](https://colab.research.google.com/drive/1go6YwMFe5MX6XM9tv-cnQiSTU50N9EeT#scrollTo=g7EDme5RYCrt)
   - [Explicación en la clase](https://web.microsoftstream.com/video/451b5ae7-2555-44b9-b848-d2d17f6a3a05)
 - [Hoja para decidir que algoritmo de IA usar](https://docs.microsoft.com/es-mx/azure/machine-learning/algorithm-cheat-sheet)
