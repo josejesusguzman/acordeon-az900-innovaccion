@@ -126,13 +126,14 @@ En este módulo veremos más servicios de la nube de Azure, así como las herram
 
 ### Laboratorios - práctca
 - [Detección de edad y emociones con una Selfie](https://github.com/josejesusguzman/face-api-consumption-python)
+- [Consumo de la API de Speech-To-Text (Crea tu asistente virtual)](https://github.com/josejesusguzman/speech-to-text-consumption-jarvis)
 - [Código de consumo de Custom Vision](https://github.com/josejesusguzman/azure-preditcion-api-consumption)
 - [Como hacer plantillas de ARM](/res/plantilla_arm.md)
 - [Tutorial de creación de un experimento con Machine Learning Studio](/res/ml-studio-excercise.md)
 - [Práctica de Azure IoT Hub](https://github.com/jose1824/iot-edge-innovaccion-practice)
 
 ### Examen de prueba Módulo 3
-- [Dale clic aquí para acceder al examen (PROXIMAMENTE)]()
+- [Dale clic aquí para acceder al examen](https://kahoot.it/challenge/00127445)
 
 ### Extras
 - [Elección de algoritmos de Inteligencia Artificial](https://docs.microsoft.com/en-us/azure/machine-learning/algorithm-cheat-sheet)
@@ -214,7 +215,7 @@ ______
 - [Kahoot G2 (PROXIMAMENTE)]()
 - [Kahoot G3 (PROXIMAMENTE)]()
 - [Kahoot G4 (PROXIMAMENTE)]()
-- [Prueba de examen AZ-900 (PROXIMAMENTE)]()
+- [Prueba de examen AZ-900](https://kahoot.it/challenge/00748758)
 - [Examen sobre como seleccionar las herramientas de tu solución (PROXIMAMENTE)]()
 
 
