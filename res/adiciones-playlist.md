@@ -4,7 +4,7 @@ Si quieres agregar nueva música a la Playlist tendrás que hacer un Pull Reques
 NOMBRE DE LA CANCIÓN - ARTISTA - USERNAME DE GITHUB CON ARROBA
 
 Por ejemplo:
-- Instant Crush - Daft Punk - @josejesusguzman
+- Guaracha sabrosona - Alberto Pedraza - @JLRODRIGUEZ001
 
 
 # Deja tu canción aquí abajo sin quitar canciones, solo agregando
