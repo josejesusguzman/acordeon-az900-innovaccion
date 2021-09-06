@@ -148,7 +148,7 @@ ______
 
 # Semana 4
 
-- [Resumen semana 4]()
+- [Resumen semana 4](https://innovaccionvirtual.azurewebsites.net/2021/09/06/semana-4-inteligencia-artificial/)
 
 ## Módulo 4: Descripción de las características de seguridad general y seguridad de red
 En este módulo aprenderás sobre los servicios que protejen a la nube de Azure a las soluciones sobre esta, de ataques externos.
