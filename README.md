@@ -131,6 +131,7 @@ En este módulo veremos más servicios de la nube de Azure, así como las herram
 - [Como hacer plantillas de ARM](/res/plantilla_arm.md)
 - [Tutorial de creación de un experimento con Machine Learning Studio](/res/ml-studio-excercise.md)
 - [Práctica de Azure IoT Hub](https://github.com/jose1824/iot-edge-innovaccion-practice)
+- [Azure DevTest Labs](https://www.youtube.com/watch?v=FffAWp2xz84)
 
 ### Examen de prueba Módulo 3
 - [Dale clic aquí para acceder al examen](https://kahoot.it/challenge/00127445)
