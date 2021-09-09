@@ -16,6 +16,9 @@ La categoría que ejecutará nuestra solución, procesará las solicitudes de lo
 
 ![Diagrama de compute](/res/images/diagrama-select-compute.jpg)
 
+Diagrama en inglés:
+![Diagrama en inglés](/res/images/compute-decision-tree.png)
+
 **"Lift-and-shift"** es una estrategia de migración de una carga de trabajo a la nube sin volver a diseñar la aplicación ni realizar cambios en el código. También se denomina rehospedaje.
 
 - Para más información consulta la [documentación](https://docs.microsoft.com/es-mx/azure/architecture/guide/technology-choices/compute-decision-tree)
