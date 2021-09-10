@@ -304,7 +304,7 @@ ________________________________________________________
 - Cada región tiene dos **App Services** B1
 - Cada región tiene un **Private Link**
 - La región primaria usa un servicio **SQL Database** Premium con implementación redundante
-- La región secundaria usa un servicio **SQL Database** Business Critical con dos replicas
+- La región secundaria usa un servicio **SQL Database** General Purpose con dos replicas
 - Ignora el servicio **DNS**
 
 ### Resultado
