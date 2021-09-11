@@ -122,7 +122,7 @@ ________________________________________________________
 
 ### Detalles
 - El **Event hub** utiliza el nivel especifico de servicio
-- La **cuenta de almacenamiento** es de nivel de acceso esporadico RA-GRS
+- La **cuenta de almacenamiento** es de nivel de acceso esporadico con Redundancia Local (LRS)
 - Ignora Machine Learning Studio y Power BI
 
 ### Resultado
