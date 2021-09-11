@@ -62,7 +62,7 @@ En este módulo aprenderás sobre las definiciones fundamentales del uso de la n
 - [Podcast en español sobre que es cómputo en la nube](https://open.spotify.com/episode/4Sp0OYXtD8ndueA9aBsny6?si=ke9SNZudRqKxf8AIrO1_Iw)
 
 ### Examen de prueba Módulo 1
-- [Da clic aquí para acceder al examen (PROXIMAMENTE)]()
+- [Da clic aquí para acceder al examen](https://kahoot.it/challenge/008710702)
 
 ### Extras
 - [Práctica de fundamentos de Python](https://github.com/josejesusguzman/practica-fundamentos-python)
@@ -184,7 +184,7 @@ Obten información sobre cómo Azure puede ayudarle a proteger el acceso a los r
 - [Pasos del Cloud Adoption Framework](/res/pasos_caf.md)
 
 ### Examen de prueba Módulo 5
-- [Dale clic aquí para acceder al examen (PROXIMAMENTE)]()
+- [Dale clic aquí para acceder al examen](https://kahoot.it/challenge/009967703)
 _______
 
 ## Módulo 6: Descripción de los acuerdos de nivel de servicio y la administración de costos de Azure
@@ -217,7 +217,7 @@ ______
 - [Kahoot G3](https://kahoot.it/challenge/003448806)
 - [Kahoot G4](https://kahoot.it/challenge/002421291)
 - [Prueba de examen AZ-900](https://kahoot.it/challenge/00748758)
-- [Examen sobre como seleccionar las herramientas de tu solución (PROXIMAMENTE)]()
+- [Examen sobre como seleccionar las herramientas de tu solución](https://kahoot.it/challenge/002978700)
 
 
 ## Playlists
