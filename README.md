@@ -202,7 +202,7 @@ Conoce sobre los factores que influyen en el costo, las herramientas que se pued
 - [Ejercicios de calculo de SLA](/res/ejercicios-sla.md)
 
 ### Examen de prueba Módulo 6
-- [Dale clic aquí para acceder al examen (PROXIMAMENTE)]()
+- [Dale clic aquí para acceder al examen](https://kahoot.it/challenge/009697722)
 
 ### Links necesarios
 - [Calculadora de TCO](https://azure.microsoft.com/es-mx/pricing/tco/)
@@ -212,10 +212,10 @@ ______
 ______
 
 ## Examenes finales de prueba (Kahoot)
-- [Kahoot G1 (PROXIMAMENTE)]()
-- [Kahoot G2 (PROXIMAMENTE)]()
-- [Kahoot G3 (PROXIMAMENTE)]()
-- [Kahoot G4 (PROXIMAMENTE)]()
+- [Kahoot G1](https://kahoot.it/challenge/008200452)
+- [Kahoot G2](https://kahoot.it/challenge/001726604)
+- [Kahoot G3](https://kahoot.it/challenge/003448806)
+- [Kahoot G4](https://kahoot.it/challenge/002421291)
 - [Prueba de examen AZ-900](https://kahoot.it/challenge/00748758)
 - [Examen sobre como seleccionar las herramientas de tu solución (PROXIMAMENTE)]()
 
