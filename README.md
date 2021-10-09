@@ -11,7 +11,9 @@ Aquí podrás encontrar todos los recursos usados en Innovacción Virtual para a
 
 ***Nota para Innovacción: cuida tu crédito de azure** eliminando recursos, apagandolos y usando basic o free tiers de los recursos ya que Microsoft no te dará saldo extra una vez te lo acabes.*
 
+
 ## Links importantes
+- [LO QUE TIENES QUE HACER - Mapa de Viaje](https://docs.microsoft.com/es-mx/learn/challenges?id=02d0a3b0-f201-49f2-8373-4eb51d1d9d20)
 - **[(Solo Innovacción) Challenge Innovacción virtual (Contenido de tu examen)](https://docs.microsoft.com/es-mx/learn/challenges?id=02d0a3b0-f201-49f2-8373-4eb51d1d9d20)**
 - [Certificación AZ-900](https://docs.microsoft.com/es-mx/learn/certifications/exams/az-900#two-ways-to-prepare)
 - [Calculadora de TCO](https://azure.microsoft.com/es-mx/pricing/tco/)
@@ -26,7 +28,7 @@ Aquí podrás encontrar todos los recursos usados en Innovacción Virtual para a
 - [Contribuidores](#contribuidores)
 
 ## Glosarios
-- [Glosario de términos básicos de tecnología]([/res/docs/V2%20Glosario%20de%20términos%20Innovacción.pdf](https://github.com/josejesusguzman/acordeon-az900-innovaccion/blob/main/res/docs/V2%20Glosario%20de%20t%C3%A9rminos%20Innovacci%C3%B3n.pdf))
+- [Glosario de términos básicos de tecnología](/res/docs/V2%20Glosario%20de%20términos%20Innovacción.pdf)
 - [Glosario de términos de Azure](res/terminos_azure.md)
 - **[Descarga las fichas de imágenes de los términos aquí](https://innovaccion-my.sharepoint.com/:f:/g/personal/jguzman_innovaccion_mx/EnO9_QErWA1DmICARLq9Mq0BpkrljWEX8VYgRHoz-i5ezw?e=ktAUKs)**
   - *Imagenes por [@mientraselmundosederrumba](https://www.instagram.com/mientraselmundosederrumba/)*   
@@ -36,12 +38,31 @@ Aquí podrás encontrar todos los recursos usados en Innovacción Virtual para a
 - [Board de Miro con notas propedéuticas](https://miro.com/app/board/o9J_lFmeuC4=/)
 - [Board de Miro con notas de Azure](https://miro.com/app/board/o9J_lDGKcdM=/)
 
+## Forma de estudio
+
+Esta es la forma sugerida de usar todos los recursos que tienes a tu alcance:
+
+1. Asiste a las sesiones en vivo, puedes ver las grabacions las veces que quieras desde el -> [canal de grabaciones](https://web.microsoftstream.com/channel/24b57c35-e5eb-4ded-bd37-180b6f33efd3) <-
+2. Revisa a detalle los -> [contenidos del Challenge ](https://docs.microsoft.com/es-mx/learn/challenges?id=02d0a3b0-f201-49f2-8373-4eb51d1d9d20) <- de acuerdo al orden que puedes ver en este acordeón o en el -> [Mapa de Viaje](https://docs.microsoft.com/es-mx/learn/challenges?id=02d0a3b0-f201-49f2-8373-4eb51d1d9d20) <-
+**3. Haz los Kahoot semanales**  (Examenes de prueba)
+4. Si no te queda clara la diferencia entre los recursos de Azure, consulta este acordeón
+5. Si no entiendes una palabra que dice el Challenge o que digo en los en vivo buscala en el -> [Glosario de términos básicos de tecnología](/res/docs/V2%20Glosario%20de%20términos%20Innovacción.pdf) <-
+
+### Opcionales - Aprendizaje como PRO 
+
+1. Entra diario a la comunidad, contesta preguntas, comparte cosas que encuentres en Internet y que sean de apoyo para toda la comunidad y haz compañer@s de viaje
+2. Haz el reto inicial y final
+3. Revisa los contenidos del canal -> [5. Contenidos del viaje 💼](https://teams.microsoft.com/l/channel/19%3a7328d38d926e4b08a746daf6e9dde76b%40thread.tacv2/5.%2520Contenidos%2520del%2520viaje%2520%25F0%259F%25A7%25B3?groupId=8aaaf529-9e34-4bc7-a88e-5c24abb2d701&tenantId=4ae54b05-b77e-4224-aef1-8661422e0816) <-
+4. Revisa los contenidos adicionales de este acordeón
+
+**Recuerda que no tienes que hacer todo sino lo que necesites para aprovechar el viaje y conseguir la certificación**
+
 _________
 _________
 
 # Semana 1
 
-- [Agenda semana 1]()
+- [Agenda/Resumen semana 1](https://cicloespecializado4.azurewebsites.net/semana-1-inteligencia-artificial/)
 
 ## Módulo 1: Descripción de los conceptos básicos de Azure
 En este módulo aprenderás sobre las definiciones fundamentales del uso de la nube de Microsoft Azure. Después, explorarás el portal de Azure para comenzar a crear soluciones.
