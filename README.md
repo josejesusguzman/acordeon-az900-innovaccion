@@ -7,6 +7,8 @@
 
 Aquí podrás encontrar todos los recursos usados en Innovacción Virtual para ayudarte en tu travesía hacia certificarte en la nube de Azure.
 
+- [Revisa el método de estudio](#método-de-estudio)
+
 ***Nota para Innovacción: No compres la certificación**, espera instrucciones. Te daremos un voucher para hacer tu examen gratis. Microsoft no te devolverá el dinero que hayas gastado por error en comprar el examen o un curso pagado.*
 
 ***Nota para Innovacción: cuida tu crédito de azure** eliminando recursos, apagandolos y usando basic o free tiers de los recursos ya que Microsoft no te dará saldo extra una vez te lo acabes.*
@@ -38,7 +40,7 @@ Aquí podrás encontrar todos los recursos usados en Innovacción Virtual para a
 - [Board de Miro con notas propedéuticas](https://miro.com/app/board/o9J_lFmeuC4=/)
 - [Board de Miro con notas de Azure](https://miro.com/app/board/o9J_lDGKcdM=/)
 
-## Forma de estudio
+## Método de estudio
 
 Esta es la forma sugerida de usar todos los recursos que tienes a tu alcance:
 
