@@ -1,7 +1,7 @@
 # Acordeón de estudio AZ-900 Microsoft Fundamentals
 ## Ciclo especializado - 4ta edición
 
-![Logo COMUNIDAD](/res/images/logo-iarockstars.jpeg)
+![Logo COMUNIDAD](/res/images/logo-iarockstars4.jpg)
 
 #IARockstars 🤘🤘🤘
 
@@ -12,16 +12,16 @@ Aquí podrás encontrar todos los recursos usados en Innovacción Virtual para a
 ***Nota para Innovacción: cuida tu crédito de azure** eliminando recursos, apagandolos y usando basic o free tiers de los recursos ya que Microsoft no te dará saldo extra una vez te lo acabes.*
 
 ## Links importantes
-- **[(Solo Innovacción) Challenge Innovacción virtual (Contenido de tu examen)](https://docs.microsoft.com/es-mx/learn/challenges?id=34c9df60-8837-4f54-bc29-6d33e3fe7ea9)**
+- **[(Solo Innovacción) Challenge Innovacción virtual (Contenido de tu examen)](https://docs.microsoft.com/es-mx/learn/challenges?id=02d0a3b0-f201-49f2-8373-4eb51d1d9d20)**
 - [Certificación AZ-900](https://docs.microsoft.com/es-mx/learn/certifications/exams/az-900#two-ways-to-prepare)
 - [Calculadora de TCO](https://azure.microsoft.com/es-mx/pricing/tco/)
 - [Calculadora de costos de Azure](https://azure.microsoft.com/es-mx/pricing/calculator/)
 - [Contratos de nivel de servicios de Azure](https://azure.microsoft.com/es-mx/support/legal/sla/)
 - [(Solo Innovacción) Microsoft Sponsorships. Revisa cuanto saldo tienes](https://www.microsoftazuresponsorships.com/)
-- [(Solo Innovacción) Grabaciones de los live](https://web.microsoftstream.com/channel/618720da-83c4-414e-8ea6-8477c1565055)
+- [(Solo Innovacción) Grabaciones de los live](https://web.microsoftstream.com/channel/24b57c35-e5eb-4ded-bd37-180b6f33efd3)
 - [App de Azure para iOS y iPadOS](https://apps.apple.com/es/app/microsoft-azure/id1219013620)
 - [App de Azure para Android](https://play.google.com/store/apps/details?id=com.microsoft.azure&hl=es_MX&gl=US)
-- [Examenes finales de prueba (PROXIMAMENTE)](#examenes-finales-de-prueba-kahoot)
+- Examenes finales de prueba (PROXIMAMENTE)
 - [Playlists](#playlists)
 - [Contribuidores](#contribuidores)
 
@@ -41,7 +41,7 @@ _________
 
 # Semana 1
 
-- [Resumen semana 1](https://innovaccionvirtual.azurewebsites.net/2021/08/17/%f0%9f%a4%98-semana-1-inteligencia-artificial-%f0%9f%a4%98/)
+- [Agenda semana 1]()
 
 ## Módulo 1: Descripción de los conceptos básicos de Azure
 En este módulo aprenderás sobre las definiciones fundamentales del uso de la nube de Microsoft Azure. Después, explorarás el portal de Azure para comenzar a crear soluciones.
@@ -62,7 +62,7 @@ En este módulo aprenderás sobre las definiciones fundamentales del uso de la n
 - [Podcast en español sobre que es cómputo en la nube](https://open.spotify.com/episode/4Sp0OYXtD8ndueA9aBsny6?si=ke9SNZudRqKxf8AIrO1_Iw)
 
 ### Examen de prueba Módulo 1
-- [Da clic aquí para acceder al examen](https://kahoot.it/challenge/008710702)
+- [Da clic aquí para acceder al examen (PROXIMAMENTE)]()
 
 ### Extras
 - [Práctica de fundamentos de Python](https://github.com/josejesusguzman/practica-fundamentos-python)
@@ -71,7 +71,6 @@ _______
 
 # Semana 2
 
-- [Resumen semana 2](https://innovaccionvirtual.azurewebsites.net/2021/08/23/semana-2-inteligencia-artificial/)
 
 ## Módulo 2: Descripción de los servicios básicos de Azure
 Comienza con los servicios básicos de Azure. Los servicios de compute, Storage, Database y Network son los que componen la mayoria de los demás recursos más complejos en Azure.
@@ -96,13 +95,12 @@ Comienza con los servicios básicos de Azure. Los servicios de compute, Storage,
 
 ### Examen de prueba Módulo 2
 
-- [Dale clic aquí para acceder al examen](https://kahoot.it/challenge/004602331)
+- [Dale clic aquí para acceder al examen (PROXIMAMENTE)]()
 
 __________
 
 # Semana 3
 
-- [Resumen semana 3](https://innovaccionvirtual.azurewebsites.net/2021/08/30/semana-3-inteligencia-artificial/)
 
 ## Módulo 3: Descripción de las principales soluciones y herramientas de administración de Azure
 En este módulo veremos más servicios de la nube de Azure, así como las herramientas que nos permiten hacer más eficiente el trabajo de los equipos de TI.
@@ -134,7 +132,7 @@ En este módulo veremos más servicios de la nube de Azure, así como las herram
 - [Azure DevTest Labs](https://www.youtube.com/watch?v=FffAWp2xz84)
 
 ### Examen de prueba Módulo 3
-- [Dale clic aquí para acceder al examen](https://kahoot.it/challenge/00127445)
+- [Dale clic aquí para acceder al examen (PROXIMAMENTE)]()
 
 ### Extras
 - [Elección de algoritmos de Inteligencia Artificial](https://docs.microsoft.com/en-us/azure/machine-learning/algorithm-cheat-sheet)
@@ -149,8 +147,6 @@ ______
 
 # Semana 4
 
-- [Resumen semana 4](https://innovaccionvirtual.azurewebsites.net/2021/09/06/semana-4-inteligencia-artificial/)
-
 ## Módulo 4: Descripción de las características de seguridad general y seguridad de red
 En este módulo aprenderás sobre los servicios que protejen a la nube de Azure a las soluciones sobre esta, de ataques externos.
 
@@ -164,7 +160,7 @@ En este módulo aprenderás sobre los servicios que protejen a la nube de Azure 
 - [Comparativa entre Azure Advisor, Monitor, Log Analytics, Service Health y Sentinel](/res/comparativa-advisor-monitor-log-sentinel.md)
 
 ### Examen de prueba Módulo 4
-- [Dale clic aquí para acceder al examen](https://kahoot.it/challenge/007825621)
+- [Dale clic aquí para acceder al examen (PROXIMAMENTE)]()
 
 ______
 
@@ -184,7 +180,7 @@ Obten información sobre cómo Azure puede ayudarle a proteger el acceso a los r
 - [Pasos del Cloud Adoption Framework](/res/pasos_caf.md)
 
 ### Examen de prueba Módulo 5
-- [Dale clic aquí para acceder al examen](https://kahoot.it/challenge/009967703)
+- [Dale clic aquí para acceder al examen (PROXIMAMENTE)]()
 _______
 
 ## Módulo 6: Descripción de los acuerdos de nivel de servicio y la administración de costos de Azure
@@ -202,7 +198,7 @@ Conoce sobre los factores que influyen en el costo, las herramientas que se pued
 - [Ejercicios de calculo de SLA](/res/ejercicios-sla.md)
 
 ### Examen de prueba Módulo 6
-- [Dale clic aquí para acceder al examen](https://kahoot.it/challenge/009697722)
+- [Dale clic aquí para acceder al examen (PROXIMAMENTE)]()
 
 ### Links necesarios
 - [Calculadora de TCO](https://azure.microsoft.com/es-mx/pricing/tco/)
@@ -212,22 +208,23 @@ ______
 ______
 
 ## Examenes finales de prueba (Kahoot)
-- [Kahoot G1](https://kahoot.it/challenge/008200452)
-- [Kahoot G2](https://kahoot.it/challenge/001726604)
-- [Kahoot G3](https://kahoot.it/challenge/003448806)
-- [Kahoot G4](https://kahoot.it/challenge/002421291)
-- [Prueba de examen AZ-900](https://kahoot.it/challenge/00748758)
-- [Examen sobre como seleccionar las herramientas de tu solución](https://kahoot.it/challenge/002978700)
+- [Kahoot G1 (PROXIMAMENTE)]()
+- [Kahoot G2 (PROXIMAMENTE)]()
+- [Kahoot G3 (PROXIMAMENTE)]()
+- [Kahoot G4 (PROXIMAMENTE)]()
+- [Prueba de examen AZ-900 (PROXIMAMENTE)]()
+- [Examen sobre como seleccionar las herramientas de tu solución (PROXIMAMENTE)]()
 
 
 ## Playlists
-- [Spotify: Summer Camp. Curaduría del Sherpa](https://open.spotify.com/playlist/2maugKhJMa5miQvtSmNDPp?si=614d1c994d34482a)
-- [Spotify: IA Rockstars Oficial](https://open.spotify.com/playlist/7jktZpm3lg720ycH2jFRoR?si=fdd9e65d4e9c4b6b)
+- [Playlist Curaduría del Sherpa](https://open.spotify.com/playlist/2maugKhJMa5miQvtSmNDPp?si=5fe825426fa046e4)
+  - Tienes hasta el 8 de noviembre para adivinar la historia detrás de la playlist (No participan personas de del ciclo verano)  
+- [Spotify: IA Rockstars Oficial - Agrega tus canciones](https://open.spotify.com/playlist/66ZSLwDkgPhDZ5ZTU97RyC?si=96c8967d6145407b)
   - Si quieres una adición a la playlist tendrás que hacer un **Pull Request** a este repositorio con una modificación en el [apartado de adiciones a la playlist](/res/adiciones-playlist.md)
 - Puedes pasar las canciones a tu plataforma preferida con: [Songshift](https://songshift.com/) o similares
 
 # Asignador random de casos tipo examen
-[Asignador random de casos tipo examen(PROXIMAMENTE)]()*
+[Asignador random de casos tipo examen (PROXIMAMENTE)]()*
 
 Si quieres integrar algún recurso extra que te haya servido haz un *pull request* y lo evaluaré.
 
