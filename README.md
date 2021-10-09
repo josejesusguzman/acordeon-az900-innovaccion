@@ -1,5 +1,5 @@
 # Acordeón de estudio AZ-900 Microsoft Fundamentals
-## Ciclo especializado - 4ta edición
+## Ciclo especializado - 3ra edición
 
 ![Logo COMUNIDAD](/res/images/logo-iarockstars.jpeg)
 
@@ -21,7 +21,7 @@ Aquí podrás encontrar todos los recursos usados en Innovacción Virtual para a
 - [(Solo Innovacción) Grabaciones de los live](https://web.microsoftstream.com/channel/618720da-83c4-414e-8ea6-8477c1565055)
 - [App de Azure para iOS y iPadOS](https://apps.apple.com/es/app/microsoft-azure/id1219013620)
 - [App de Azure para Android](https://play.google.com/store/apps/details?id=com.microsoft.azure&hl=es_MX&gl=US)
-- [Examenes finales de prueba (PROXIMAMENTE)](#examenes-finales-de-prueba-kahoot)
+- [Examenes finales de prueba](#examenes-finales-de-prueba-kahoot)
 - [Playlists](#playlists)
 - [Contribuidores](#contribuidores)
 
