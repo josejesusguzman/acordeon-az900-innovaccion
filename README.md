@@ -1,5 +1,5 @@
 # Acordeón de estudio AZ-900 Microsoft Fundamentals
-## Ciclo especializado - 3ra edición
+## Ciclo especializado - 4ta edición
 
 ![Logo COMUNIDAD](/res/images/logo-iarockstars.jpeg)
 
