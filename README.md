@@ -47,6 +47,7 @@ Esta es la forma sugerida de usar todos los recursos que tienes a tu alcance:
 **3. Haz los Kahoot semanales**  (Examenes de prueba)
 4. Si no te queda clara la diferencia entre los recursos de Azure, consulta este acordeón
 5. Si no entiendes una palabra que dice el Challenge o que digo en los en vivo buscala en el -> [Glosario de términos básicos de tecnología](/res/docs/V2%20Glosario%20de%20términos%20Innovacción.pdf) <-
+6. Pregunta y pide ayuda no solo a tu Sherpa sino también a tus compañer@s. No hay preguntas estupidas, no estupido es no preguntar
 
 ### Opcionales - Aprendizaje como PRO 
 
