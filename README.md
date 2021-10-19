@@ -65,7 +65,7 @@ _________
 
 # Semana 1
 
-- [Agenda/Resumen semana 1](https://cicloespecializado4.azurewebsites.net/semana-1-inteligencia-artificial/)
+- [Resumen semana 1](https://cicloespecializado4.azurewebsites.net/semana-1-inteligencia-artificial/)
 
 ## Módulo 1: Descripción de los conceptos básicos de Azure
 En este módulo aprenderás sobre las definiciones fundamentales del uso de la nube de Microsoft Azure. Después, explorarás el portal de Azure para comenzar a crear soluciones.
@@ -94,6 +94,8 @@ En este módulo aprenderás sobre las definiciones fundamentales del uso de la n
 _______
 
 # Semana 2
+
+- [Agenda/Resumen semana 2](https://cicloespecializado4.azurewebsites.net/semana-2-inteligencia-artificial/)
 
 
 ## Módulo 2: Descripción de los servicios básicos de Azure
