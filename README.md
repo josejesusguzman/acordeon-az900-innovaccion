@@ -95,7 +95,7 @@ _______
 
 # Semana 2
 
-- [Agenda/Resumen semana 2](https://cicloespecializado4.azurewebsites.net/semana-2-inteligencia-artificial/)
+- [Resumen semana 2](https://cicloespecializado4.azurewebsites.net/semana-2-inteligencia-artificial/)
 
 
 ## Módulo 2: Descripción de los servicios básicos de Azure
@@ -121,11 +121,13 @@ Comienza con los servicios básicos de Azure. Los servicios de compute, Storage,
 
 ### Examen de prueba Módulo 2
 
-- [Dale clic aquí para acceder al examen (PROXIMAMENTE)]()
+- [Dale clic aquí para acceder al examen](https://kahoot.it/challenge/007323776)
 
 __________
 
 # Semana 3
+
+- [Agenda/Resumen semana 3](https://cicloespecializado4.azurewebsites.net/semana-3-inteligencia-artificial/)
 
 
 ## Módulo 3: Descripción de las principales soluciones y herramientas de administración de Azure
