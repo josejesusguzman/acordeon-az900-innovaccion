@@ -160,7 +160,7 @@ En este módulo veremos más servicios de la nube de Azure, así como las herram
 - [Azure DevTest Labs](https://www.youtube.com/watch?v=FffAWp2xz84)
 
 ### Examen de prueba Módulo 3
-- [Dale clic aquí para acceder al examen (PROXIMAMENTE)]()
+- [Dale clic aquí para acceder al examen](https://kahoot.it/challenge/001904447)
 
 ### Extras
 - [Elección de algoritmos de Inteligencia Artificial](https://docs.microsoft.com/en-us/azure/machine-learning/algorithm-cheat-sheet)
