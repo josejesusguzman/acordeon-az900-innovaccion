@@ -23,6 +23,7 @@ Aquí podrás encontrar todos los recursos usados en Innovacción Virtual para a
 - [Contratos de nivel de servicios de Azure](https://azure.microsoft.com/es-mx/support/legal/sla/)
 - [(Solo Innovacción) Microsoft Sponsorships. Revisa cuanto saldo tienes](https://www.microsoftazuresponsorships.com/)
 - [(Solo Innovacción) Grabaciones de los live](https://web.microsoftstream.com/channel/24b57c35-e5eb-4ded-bd37-180b6f33efd3)
+- [(Solo Innovacción) Presentaciones](https://innovaccion-my.sharepoint.com/:f:/g/personal/jguzman_innovaccion_mx/ElYicKS5FQBOkrvxYjtX8tUBaRa_-ONvnNGj4VYQnV1EVw?e=mh5ozb)
 - [App de Azure para iOS y iPadOS](https://apps.apple.com/es/app/microsoft-azure/id1219013620)
 - [App de Azure para Android](https://play.google.com/store/apps/details?id=com.microsoft.azure&hl=es_MX&gl=US)
 - Examenes finales de prueba (PROXIMAMENTE)
@@ -127,8 +128,7 @@ __________
 
 # Semana 3
 
-- [Agenda/Resumen semana 3](https://cicloespecializado4.azurewebsites.net/semana-3-inteligencia-artificial/)
-
+- [Resumen semana 3](https://cicloespecializado4.azurewebsites.net/semana-3-inteligencia-artificial/)
 
 ## Módulo 3: Descripción de las principales soluciones y herramientas de administración de Azure
 En este módulo veremos más servicios de la nube de Azure, así como las herramientas que nos permiten hacer más eficiente el trabajo de los equipos de TI.
@@ -174,6 +174,8 @@ En este módulo veremos más servicios de la nube de Azure, así como las herram
 ______
 
 # Semana 4
+
+- [Resumen semana 3](https://cicloespecializado4.azurewebsites.net/semana-4-inteligencia-artificial/)
 
 ## Módulo 4: Descripción de las características de seguridad general y seguridad de red
 En este módulo aprenderás sobre los servicios que protejen a la nube de Azure a las soluciones sobre esta, de ataques externos.
