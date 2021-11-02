@@ -285,9 +285,9 @@ conecta su única salida a la entrada restante de **Train Model**
 11. Una ves terminada la ejecución exitosa de nuestro experimento
 En el diseñador > Borradores de canalización > Seleccionamos le que hicimos
 
-12. Da clic en **Crear canalización de Interferencia** y selecciona canalización de tnerferencia en tiempo real
+12. Da clic en **Crear canalización de Interferencia** y selecciona canalización de inferencia en tiempo real
 
-![tutorial-ml-crear-canalizacion-interferencia](/res/images/tutorial-ml/tutorial-ml-crear-canalizacion-interferencia.jpg)
+![tutorial-ml-crear-canalizacion-interferencia](/res/images/tutorial-ml/tutorial-ml-crear-canalizacion-interferencia.png)
 
 - Se abrirá un pipeline nuevo
 - Renombralo a Predicción Diabetes
