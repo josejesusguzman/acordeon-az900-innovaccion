@@ -243,7 +243,7 @@ ______
 - [Kahoot G3 (PROXIMAMENTE)]()
 - [Kahoot G4 (PROXIMAMENTE)]()
 - [Prueba de examen AZ-900 (PROXIMAMENTE)]()
-- [Examen sobre como seleccionar las herramientas de tu solución (PROXIMAMENTE)]()
+- [Examen sobre como seleccionar las herramientas de tu solución](https://kahoot.it/challenge/008088545)
 
 
 ## Playlists
