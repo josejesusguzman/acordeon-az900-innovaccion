@@ -175,7 +175,7 @@ ______
 
 # Semana 4
 
-- [Resumen semana 3](https://cicloespecializado4.azurewebsites.net/semana-4-inteligencia-artificial/)
+- [Resumen semana 4](https://cicloespecializado4.azurewebsites.net/semana-4-inteligencia-artificial/)
 
 ## Módulo 4: Descripción de las características de seguridad general y seguridad de red
 En este módulo aprenderás sobre los servicios que protejen a la nube de Azure a las soluciones sobre esta, de ataques externos.
@@ -238,11 +238,11 @@ ______
 ______
 
 ## Examenes finales de prueba (Kahoot)
-- [Kahoot G1 (PROXIMAMENTE)]()
-- [Kahoot G2 (PROXIMAMENTE)]()
-- [Kahoot G3 (PROXIMAMENTE)]()
-- [Kahoot G4 (PROXIMAMENTE)]()
-- [Prueba de examen AZ-900 (PROXIMAMENTE)]()
+- [Kahoot G1](https://kahoot.it/challenge/001345706)
+- [Kahoot G2](https://kahoot.it/challenge/005171939)
+- [Kahoot G3](https://kahoot.it/challenge/007330217)
+- [Kahoot G4](https://kahoot.it/challenge/00388466)
+- [Prueba de examen AZ-900](https://kahoot.it/challenge/003726439)
 - [Examen sobre como seleccionar las herramientas de tu solución](https://kahoot.it/challenge/008088545)
 
 
