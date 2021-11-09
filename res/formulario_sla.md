@@ -18,6 +18,22 @@ Otro ejemplo es el de **Azure Kubernetes Service (AKS)** ya que sin zonas de dis
 
 Aclaro de nuevo, esto no significa que vayan a haber 4 horas de interrupción continuas sino es la suma de todos los tiempos más pequeños y su resultado es el máximo que Azure tiene "derecho" a interrumpirse.
 
+### **Fórmula para calcular _% SLA_ a partir del _tiempo de inactividad_ y _tiempo máximo de disponibilidad_**
+
+* ***SLA*** = Tiempo de Actividad (mensual, anual,..).
+
+* ***Tin*** = Tiempo de inactividad.
+
+* ***Tmax*** = Tiempo máximo de disponibilidad.
+
+~~~
+SLA = [ ( Tmax - Tin ) / Tmax ] * 100
+~~~
+### **Fórmula para calcular el _Tiempo de inactividad_ a partir del _tiempo de inactividad_ y el _SLA_**
+~~~
+Tin = Tmax - ( Tmax * SLA ) 
+~~~
+
 ## Calculo del SLA por arquitectura o conjunto de servicios
 
 Es posible (y necesario) calcular el nivel de acuerdo de servcio de toda la solución en conjunta para efectos de calidad en el servicio, terminos y condiciones y previsión.
