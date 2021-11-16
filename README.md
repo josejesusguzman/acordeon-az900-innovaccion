@@ -1,7 +1,7 @@
 # Acordeón de estudio AZ-900 Microsoft Fundamentals
 ## Winter Cloud 
 
-![Logo COMUNIDAD]()
+![Logo COMUNIDAD (Pendiente)]()
 
 #HASHTAGPENDIENTE
 
