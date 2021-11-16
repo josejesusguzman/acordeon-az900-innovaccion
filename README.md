@@ -47,7 +47,7 @@ Esta es la forma sugerida de usar todos los recursos que tienes a tu alcance:
 
 1. Asiste a las sesiones en vivo, puedes ver las grabacions las veces que quieras desde el -> [canal de grabaciones](https://web.microsoftstream.com/channel/3b453209-9ed3-4e36-8c7a-4ca5a62c4e8b) <-
 2. Revisa a detalle los -> [contenidos del Challenge ](https://docs.microsoft.com/es-mx/learn/challenges?id=97d9e7db-8ec9-4616-ab1b-befab7c10442) <- de acuerdo al orden que puedes ver en este acordeón o en el -> [Kit de inicio rápido](https://wintercloud.azurewebsites.net/kit-de-inicio-rapido/) <-
-**3. Haz los Kahoot semanales**  (Examenes de prueba)
+3. **Haz los Kahoot semanales**  (Examenes de prueba)
 4. Si no te queda clara la diferencia entre los recursos de Azure, consulta este acordeón
 5. Si no entiendes una palabra que dice el Challenge o que digo en los en vivo buscala en el -> [Glosario de términos básicos de tecnología](/res/docs/V2%20Glosario%20de%20términos%20Innovacción.pdf) <-
 6. Pregunta y pide ayuda no solo a tu Sherpa sino también a tus compañer@s. No hay preguntas estupidas, no estupido es no preguntar
