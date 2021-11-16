@@ -234,7 +234,7 @@ ______
 
 ## Playlists
 - [Playlist Curaduría del Sherpa](https://open.spotify.com/playlist/7a9NYFyQmGueF9gJUKMhBf?si=441545d7ce3a474d)
-  - Tienes hasta el 8 de noviembre para adivinar la historia detrás de la playlist (No participan personas de del ciclo verano)  
+  - Tienes hasta el 13 de diciembre para adivinar la historia detrás de la playlist 
 - [Playlist oficial - Agrega tus canciones](https://open.spotify.com/playlist/7ERagVH0pINMd9zQrw18vp?si=2521581fb9314e09)
   - Si quieres una adición a la playlist tendrás que hacer un **Pull Request** a este repositorio con una modificación en el [apartado de adiciones a la playlist](/res/adiciones-playlist.md)
 - Puedes pasar las canciones a tu plataforma preferida con: [Songshift](https://songshift.com/) o similares
