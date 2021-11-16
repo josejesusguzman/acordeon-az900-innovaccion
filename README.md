@@ -3,7 +3,7 @@
 
 ![Logo COMUNIDAD (Pendiente)]()
 
-#HASHTAGPENDIENTE
+\#HASHTAG PENDIENTE
 
 Aquí podrás encontrar todos los recursos usados en Innovacción Virtual para ayudarte en tu travesía hacia certificarte en la nube de Azure.
 
@@ -15,15 +15,15 @@ Aquí podrás encontrar todos los recursos usados en Innovacción Virtual para a
 
 
 ## Links importantes
-- [LO QUE TIENES QUE HACER - Mapa de Viaje](https://docs.microsoft.com/es-mx/learn/challenges?id=02d0a3b0-f201-49f2-8373-4eb51d1d9d20)
-- **[(Solo Innovacción) Challenge Innovacción virtual (Contenido de tu examen)](https://docs.microsoft.com/es-mx/learn/challenges?id=02d0a3b0-f201-49f2-8373-4eb51d1d9d20)**
+- [LO QUE TIENES QUE HACER - Kit de inicio rápido](https://docs.microsoft.com/es-mx/learn/challenges?id=02d0a3b0-f201-49f2-8373-4eb51d1d9d20)
+- **[(Solo Innovacción) Challenge Innovacción virtual (Contenido de tu examen)](https://docs.microsoft.com/es-mx/learn/challenges?id=97d9e7db-8ec9-4616-ab1b-befab7c10442)**
 - [Certificación AZ-900](https://docs.microsoft.com/es-mx/learn/certifications/exams/az-900#two-ways-to-prepare)
 - [Calculadora de TCO](https://azure.microsoft.com/es-mx/pricing/tco/)
 - [Calculadora de costos de Azure](https://azure.microsoft.com/es-mx/pricing/calculator/)
 - [Contratos de nivel de servicios de Azure](https://azure.microsoft.com/es-mx/support/legal/sla/)
 - [(Solo Innovacción) Microsoft Sponsorships. Revisa cuanto saldo tienes](https://www.microsoftazuresponsorships.com/)
-- [(Solo Innovacción) Grabaciones de los live](https://web.microsoftstream.com/channel/24b57c35-e5eb-4ded-bd37-180b6f33efd3)
-- [(Solo Innovacción) Presentaciones](https://innovaccion-my.sharepoint.com/:f:/g/personal/jguzman_innovaccion_mx/ElYicKS5FQBOkrvxYjtX8tUBaRa_-ONvnNGj4VYQnV1EVw?e=mh5ozb)
+- [(Solo Innovacción) Grabaciones de los live](https://web.microsoftstream.com/channel/3b453209-9ed3-4e36-8c7a-4ca5a62c4e8b)
+- [(Solo Innovacción) Presentaciones (PROXIMAMENTE)]()
 - [App de Azure para iOS y iPadOS](https://apps.apple.com/es/app/microsoft-azure/id1219013620)
 - [App de Azure para Android](https://play.google.com/store/apps/details?id=com.microsoft.azure&hl=es_MX&gl=US)
 - Examenes finales de prueba (PROXIMAMENTE)
@@ -45,8 +45,8 @@ Aquí podrás encontrar todos los recursos usados en Innovacción Virtual para a
 
 Esta es la forma sugerida de usar todos los recursos que tienes a tu alcance:
 
-1. Asiste a las sesiones en vivo, puedes ver las grabacions las veces que quieras desde el -> [canal de grabaciones](https://web.microsoftstream.com/channel/24b57c35-e5eb-4ded-bd37-180b6f33efd3) <-
-2. Revisa a detalle los -> [contenidos del Challenge ](https://docs.microsoft.com/es-mx/learn/challenges?id=02d0a3b0-f201-49f2-8373-4eb51d1d9d20) <- de acuerdo al orden que puedes ver en este acordeón o en el -> [Mapa de Viaje](https://docs.microsoft.com/es-mx/learn/challenges?id=02d0a3b0-f201-49f2-8373-4eb51d1d9d20) <-
+1. Asiste a las sesiones en vivo, puedes ver las grabacions las veces que quieras desde el -> [canal de grabaciones](https://web.microsoftstream.com/channel/3b453209-9ed3-4e36-8c7a-4ca5a62c4e8b) <-
+2. Revisa a detalle los -> [contenidos del Challenge ](https://docs.microsoft.com/es-mx/learn/challenges?id=97d9e7db-8ec9-4616-ab1b-befab7c10442) <- de acuerdo al orden que puedes ver en este acordeón o en el -> [Mapa de Viaje](https://docs.microsoft.com/es-mx/learn/challenges?id=02d0a3b0-f201-49f2-8373-4eb51d1d9d20) <-
 **3. Haz los Kahoot semanales**  (Examenes de prueba)
 4. Si no te queda clara la diferencia entre los recursos de Azure, consulta este acordeón
 5. Si no entiendes una palabra que dice el Challenge o que digo en los en vivo buscala en el -> [Glosario de términos básicos de tecnología](/res/docs/V2%20Glosario%20de%20términos%20Innovacción.pdf) <-
