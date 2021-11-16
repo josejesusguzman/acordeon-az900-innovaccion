@@ -1,9 +1,9 @@
 # Acordeón de estudio AZ-900 Microsoft Fundamentals
-## Ciclo especializado - 4ta edición
+## Winter Cloud 
 
-![Logo COMUNIDAD](/res/images/logo-iarockstars4.jpg)
+![Logo COMUNIDAD]()
 
-#IARockstars 🤘🤘🤘
+#HASHTAGPENDIENTE
 
 Aquí podrás encontrar todos los recursos usados en Innovacción Virtual para ayudarte en tu travesía hacia certificarte en la nube de Azure.
 
@@ -66,8 +66,6 @@ _________
 
 # Semana 1
 
-- [Resumen semana 1](https://cicloespecializado4.azurewebsites.net/semana-1-inteligencia-artificial/)
-
 ## Módulo 1: Descripción de los conceptos básicos de Azure
 En este módulo aprenderás sobre las definiciones fundamentales del uso de la nube de Microsoft Azure. Después, explorarás el portal de Azure para comenzar a crear soluciones.
 
@@ -87,7 +85,7 @@ En este módulo aprenderás sobre las definiciones fundamentales del uso de la n
 - [Podcast en español sobre que es cómputo en la nube](https://open.spotify.com/episode/4Sp0OYXtD8ndueA9aBsny6?si=ke9SNZudRqKxf8AIrO1_Iw)
 
 ### Examen de prueba Módulo 1
-- [Da clic aquí para acceder al examen](https://kahoot.it/challenge/003912717)
+- [Da clic aquí para acceder al examen (PROXIMAMENTE)]()
 
 ### Extras
 - [Práctica de fundamentos de Python](https://github.com/josejesusguzman/practica-fundamentos-python)
@@ -95,8 +93,6 @@ En este módulo aprenderás sobre las definiciones fundamentales del uso de la n
 _______
 
 # Semana 2
-
-- [Resumen semana 2](https://cicloespecializado4.azurewebsites.net/semana-2-inteligencia-artificial/)
 
 
 ## Módulo 2: Descripción de los servicios básicos de Azure
@@ -122,13 +118,11 @@ Comienza con los servicios básicos de Azure. Los servicios de compute, Storage,
 
 ### Examen de prueba Módulo 2
 
-- [Dale clic aquí para acceder al examen](https://kahoot.it/challenge/007323776)
+- [Dale clic aquí para acceder al examen (PROXIMAMENTE)]()
 
 __________
 
 # Semana 3
-
-- [Resumen semana 3](https://cicloespecializado4.azurewebsites.net/semana-3-inteligencia-artificial/)
 
 ## Módulo 3: Descripción de las principales soluciones y herramientas de administración de Azure
 En este módulo veremos más servicios de la nube de Azure, así como las herramientas que nos permiten hacer más eficiente el trabajo de los equipos de TI.
@@ -146,7 +140,6 @@ En este módulo veremos más servicios de la nube de Azure, así como las herram
 - [Buenas practicas para plantillas ARM](https://github.com/Azure/azure-quickstart-templates/blob/master/1-CONTRIBUTION-GUIDE/best-practices.md)
 - [Plantillas ARM validadas de la comunidad](https://github.com/Azure/azure-quickstart-templates)
 - [Podcast en español sobre que es Inteligencia Artificial](https://open.spotify.com/episode/6kLmxMKovbdE3QmGhvDCFH?si=ad949acfe2284c57)
-- [Podcast en español sobre que es Inteligencia Artificial -  Extendido](https://open.spotify.com/episode/2N8EEOKikGGq5xtrrHBT9K?si=f0349be769a545c3)
 - [Comparativa entre Azure Sentinel y Azure Sphere](/res/comparativa-sentinel-sphere.md)
 - [Comparativa entre Azure Advisor, Monitor, Log Analytics, Service Health y Sentinel](/res/comparativa-advisor-monitor-log-sentinel.md)
 
@@ -155,27 +148,20 @@ En este módulo veremos más servicios de la nube de Azure, así como las herram
 - [Consumo de la API de Speech-To-Text (Crea tu asistente virtual)](https://github.com/josejesusguzman/speech-to-text-consumption-jarvis)
 - [Código de consumo de Custom Vision](https://github.com/josejesusguzman/azure-preditcion-api-consumption)
 - [Como hacer plantillas de ARM](/res/plantilla_arm.md)
-- [Tutorial de creación de un experimento con Machine Learning Studio](/res/ml-studio-excercise.md)
 - [Práctica de Azure IoT Hub](https://github.com/jose1824/iot-edge-innovaccion-practice)
 - [Azure DevTest Labs](https://www.youtube.com/watch?v=FffAWp2xz84)
 
 ### Examen de prueba Módulo 3
-- [Dale clic aquí para acceder al examen](https://kahoot.it/challenge/001904447)
+- [Dale clic aquí para acceder al examen (PROXIMAMENTE)]()
 
 ### Extras
-- [Elección de algoritmos de Inteligencia Artificial](https://docs.microsoft.com/en-us/azure/machine-learning/algorithm-cheat-sheet)
 - [Genera arte con Inteligencia Artificial](https://colab.research.google.com/drive/1go6YwMFe5MX6XM9tv-cnQiSTU50N9EeT#scrollTo=g7EDme5RYCrt)
   - [Explicación en la clase](https://web.microsoftstream.com/video/451b5ae7-2555-44b9-b848-d2d17f6a3a05)
-- [Hoja para decidir que algoritmo de IA usar](https://docs.microsoft.com/es-mx/azure/machine-learning/algorithm-cheat-sheet)
 - [Así usa Netflix la inteligencia artificial para las portadas de su contenido](https://medium.com/bigdatalatam/netflix-una-peque%C3%B1a-vista-a-la-compleja-tecnolog%C3%ADa-detr%C3%A1s-del-servicio-m%C3%A1s-popular-de-streaming-907124c3d5da)
-- [Así usa Spotify la IA - 1](https://lieslanggijono.medium.com/the-magic-ingredient-of-spotify-machine-learning-b6af57ecca03)
-- [Así usa Spotify la IA - 2](https://medium.com/s/story/spotifys-discover-weekly-how-machine-learning-finds-your-new-music-19a41ab76efe)
-- [Curso básico de programación con Python](https://github.com/RodolfoFerro/python-innovaccion)
+- [Así usa Spotify la IA](https://lieslanggijono.medium.com/the-magic-ingredient-of-spotify-machine-learning-b6af57ecca03)
 ______
 
 # Semana 4
-
-- [Resumen semana 4](https://cicloespecializado4.azurewebsites.net/semana-4-inteligencia-artificial/)
 
 ## Módulo 4: Descripción de las características de seguridad general y seguridad de red
 En este módulo aprenderás sobre los servicios que protejen a la nube de Azure a las soluciones sobre esta, de ataques externos.
@@ -190,7 +176,7 @@ En este módulo aprenderás sobre los servicios que protejen a la nube de Azure 
 - [Comparativa entre Azure Advisor, Monitor, Log Analytics, Service Health y Sentinel](/res/comparativa-advisor-monitor-log-sentinel.md)
 
 ### Examen de prueba Módulo 4
-- [Dale clic aquí para acceder al examen](https://kahoot.it/challenge/008240837)
+- [Dale clic aquí para acceder al examen (PROXIMAMENTE)]()
 
 ______
 
@@ -210,7 +196,7 @@ Obten información sobre cómo Azure puede ayudarle a proteger el acceso a los r
 - [Pasos del Cloud Adoption Framework](/res/pasos_caf.md)
 
 ### Examen de prueba Módulo 5
-- [Dale clic aquí para acceder al examen](https://kahoot.it/challenge/001943434)
+- [Dale clic aquí para acceder al examen (PROXIMAMENTE)]()
 _______
 
 ## Módulo 6: Descripción de los acuerdos de nivel de servicio y la administración de costos de Azure
@@ -228,7 +214,7 @@ Conoce sobre los factores que influyen en el costo, las herramientas que se pued
 - [Ejercicios de calculo de SLA](/res/ejercicios-sla.md)
 
 ### Examen de prueba Módulo 6
-- [Dale clic aquí para acceder al examen](https://kahoot.it/challenge/00898611)
+- [Dale clic aquí para acceder al examen (PROXIMAMENTE)]()
 
 ### Links necesarios
 - [Calculadora de TCO](https://azure.microsoft.com/es-mx/pricing/tco/)
@@ -238,12 +224,12 @@ ______
 ______
 
 ## Examenes finales de prueba (Kahoot)
-- [Kahoot G1](https://kahoot.it/challenge/001345706)
-- [Kahoot G2](https://kahoot.it/challenge/005171939)
-- [Kahoot G3](https://kahoot.it/challenge/007330217)
-- [Kahoot G4](https://kahoot.it/challenge/00388466)
-- [Prueba de examen AZ-900](https://kahoot.it/challenge/003726439)
-- [Examen sobre como seleccionar las herramientas de tu solución](https://kahoot.it/challenge/008088545)
+- [Kahoot G1 (PROXIMAMENTE)]()
+- [Kahoot G2 (PROXIMAMENTE)]()
+- [Kahoot G3 (PROXIMAMENTE)]()
+- [Kahoot G4 (PROXIMAMENTE)]()
+- [Prueba de examen AZ-900 (PROXIMAMENTE)]()
+- [Examen sobre como seleccionar las herramientas de tu solución (PROXIMAMENTE)]()
 
 
 ## Playlists
