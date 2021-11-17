@@ -1,9 +1,9 @@
 # Acordeón de estudio AZ-900 Microsoft Fundamentals
 ## Winter Cloud 
 
-![Logo COMUNIDAD (Pendiente)]()
+![Logo COMUNIDAD (Pendiente)](/res/images/logo-cloud-rockstars.png)
 
-\#HASHTAG PENDIENTE
+**\#Cloud Rockstars**
 
 Aquí podrás encontrar todos los recursos usados en Innovacción Virtual para ayudarte en tu travesía hacia certificarte en la nube de Azure.
 
