@@ -66,6 +66,8 @@ _________
 
 # Semana 1
 
+- [Resumen semana 1](https://wintercloud.azurewebsites.net/kit-de-inicio-rapido/)
+
 ## Módulo 1: Descripción de los conceptos básicos de Azure
 En este módulo aprenderás sobre las definiciones fundamentales del uso de la nube de Microsoft Azure. Después, explorarás el portal de Azure para comenzar a crear soluciones.
 
@@ -85,7 +87,7 @@ En este módulo aprenderás sobre las definiciones fundamentales del uso de la n
 - [Podcast en español sobre que es cómputo en la nube](https://open.spotify.com/episode/4Sp0OYXtD8ndueA9aBsny6?si=ke9SNZudRqKxf8AIrO1_Iw)
 
 ### Examen de prueba Módulo 1
-- [Da clic aquí para acceder al examen (PROXIMAMENTE)]()
+- [Da clic aquí para acceder al examen](https://kahoot.it/challenge/001117127)
 
 ### Extras
 - [Práctica de fundamentos de Python](https://github.com/josejesusguzman/practica-fundamentos-python)
@@ -94,6 +96,7 @@ _______
 
 # Semana 2
 
+- [agenda semana 2](https://wintercloud.azurewebsites.net/agenda-semana-2/)
 
 ## Módulo 2: Descripción de los servicios básicos de Azure
 Comienza con los servicios básicos de Azure. Los servicios de compute, Storage, Database y Network son los que componen la mayoria de los demás recursos más complejos en Azure.
