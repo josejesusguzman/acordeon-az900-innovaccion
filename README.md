@@ -115,6 +115,7 @@ Comienza con los servicios básicos de Azure. Los servicios de compute, Storage,
 
 ### Laboratorios - práctca
 - [Lab de Azure App Service: Sube tu página a App Service](https://github.com/josejesusguzman/lab-subir-app-service-azure)
+- [Consultas de SQL para Azure SQL Database](/res/consultas-sql.md)
 - [Página de Wordpress con Maquina Virtual y Azure CLI](https://github.com/jose1824/codigos_innovaccion_tutorial_vm_wordpress)
 - [Implementación de una Web App con Docker y Azure Kubernetes Service](/res/tutorial_kubernetes_basic.md)
 - [Tutorial de Wordpress con Kubernetes](/res/tutorial-k8s-wordpress.md)
