@@ -36,7 +36,6 @@ password="samplePassword123!
 5. Si no tiene datos la Base de datos ejecuta el siguiente Query:
 
 ```sql
-USE DATABASE Inventory;
 
 CREATE TABLE Inventory (
 	Id int PRIMARY KEY, 
