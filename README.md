@@ -96,7 +96,7 @@ _______
 
 # Semana 2
 
-- [agenda semana 2](https://wintercloud.azurewebsites.net/agenda-semana-2/)
+- [Resumen semana 2](https://wintercloud.azurewebsites.net/agenda-semana-2/)
 
 ## Módulo 2: Descripción de los servicios básicos de Azure
 Comienza con los servicios básicos de Azure. Los servicios de compute, Storage, Database y Network son los que componen la mayoria de los demás recursos más complejos en Azure.
@@ -122,11 +122,13 @@ Comienza con los servicios básicos de Azure. Los servicios de compute, Storage,
 
 ### Examen de prueba Módulo 2
 
-- [Dale clic aquí para acceder al examen (PROXIMAMENTE)]()
+- [Dale clic aquí para acceder al examen](https://kahoot.it/challenge/001278592)
 
 __________
 
 # Semana 3
+
+- [Agenda semana 3](https://wintercloud.azurewebsites.net/agenda-semana-3/)
 
 ## Módulo 3: Descripción de las principales soluciones y herramientas de administración de Azure
 En este módulo veremos más servicios de la nube de Azure, así como las herramientas que nos permiten hacer más eficiente el trabajo de los equipos de TI.
