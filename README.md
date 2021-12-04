@@ -158,7 +158,7 @@ En este módulo veremos más servicios de la nube de Azure, así como las herram
 - [Azure DevTest Labs](https://www.youtube.com/watch?v=FffAWp2xz84)
 
 ### Examen de prueba Módulo 3
-- [Dale clic aquí para acceder al examen (PROXIMAMENTE)]()
+- [Dale clic aquí para acceder al examen](https://kahoot.it/challenge/002045909)
 
 ### Extras
 - [Genera arte con Inteligencia Artificial](https://colab.research.google.com/drive/1go6YwMFe5MX6XM9tv-cnQiSTU50N9EeT#scrollTo=g7EDme5RYCrt)
