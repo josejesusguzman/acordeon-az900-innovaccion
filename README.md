@@ -23,7 +23,7 @@ Aquí podrás encontrar todos los recursos usados en Innovacción Virtual para a
 - [Contratos de nivel de servicios de Azure](https://azure.microsoft.com/es-mx/support/legal/sla/)
 - [(Solo Innovacción) Microsoft Sponsorships. Revisa cuanto saldo tienes](https://www.microsoftazuresponsorships.com/)
 - [(Solo Innovacción) Grabaciones de los live](https://web.microsoftstream.com/channel/3b453209-9ed3-4e36-8c7a-4ca5a62c4e8b)
-- [(Solo Innovacción) Presentaciones (PROXIMAMENTE)]()
+- [(Solo Innovacción) Presentaciones](https://innovaccion-my.sharepoint.com/:f:/g/personal/jguzman_innovaccion_mx/ErXKT2xqPspHoKdDVbG-Z1sBftxDwmk5_kW1V72txFdKrQ?e=xnlMyg)
 - [App de Azure para iOS y iPadOS](https://apps.apple.com/es/app/microsoft-azure/id1219013620)
 - [App de Azure para Android](https://play.google.com/store/apps/details?id=com.microsoft.azure&hl=es_MX&gl=US)
 - Examenes finales de prueba (PROXIMAMENTE)
