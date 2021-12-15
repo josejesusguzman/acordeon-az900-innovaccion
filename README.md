@@ -128,7 +128,7 @@ __________
 
 # Semana 3
 
-- [Agenda semana 3](https://wintercloud.azurewebsites.net/agenda-semana-3/)
+- [Resumen semana 3](https://wintercloud.azurewebsites.net/agenda-semana-3/)
 
 ## Módulo 3: Descripción de las principales soluciones y herramientas de administración de Azure
 En este módulo veremos más servicios de la nube de Azure, así como las herramientas que nos permiten hacer más eficiente el trabajo de los equipos de TI.
@@ -169,6 +169,8 @@ ______
 
 # Semana 4
 
+- [Resumen semana 4](https://wintercloud.azurewebsites.net/agenda-semana-4/)
+
 ## Módulo 4: Descripción de las características de seguridad general y seguridad de red
 En este módulo aprenderás sobre los servicios que protejen a la nube de Azure a las soluciones sobre esta, de ataques externos.
 
@@ -182,7 +184,7 @@ En este módulo aprenderás sobre los servicios que protejen a la nube de Azure 
 - [Comparativa entre Azure Advisor, Monitor, Log Analytics, Service Health y Sentinel](/res/comparativa-advisor-monitor-log-sentinel.md)
 
 ### Examen de prueba Módulo 4
-- [Dale clic aquí para acceder al examen (PROXIMAMENTE)]()
+- [Dale clic aquí para acceder al examen](https://kahoot.it/challenge/009450932)
 
 ______
 
@@ -202,7 +204,7 @@ Obten información sobre cómo Azure puede ayudarle a proteger el acceso a los r
 - [Pasos del Cloud Adoption Framework](/res/pasos_caf.md)
 
 ### Examen de prueba Módulo 5
-- [Dale clic aquí para acceder al examen (PROXIMAMENTE)]()
+- [Dale clic aquí para acceder al examen](https://kahoot.it/challenge/004436043)
 _______
 
 ## Módulo 6: Descripción de los acuerdos de nivel de servicio y la administración de costos de Azure
@@ -220,7 +222,7 @@ Conoce sobre los factores que influyen en el costo, las herramientas que se pued
 - [Ejercicios de calculo de SLA](/res/ejercicios-sla.md)
 
 ### Examen de prueba Módulo 6
-- [Dale clic aquí para acceder al examen (PROXIMAMENTE)]()
+- [Dale clic aquí para acceder al examen](https://kahoot.it/challenge/003582970)
 
 ### Links necesarios
 - [Calculadora de TCO](https://azure.microsoft.com/es-mx/pricing/tco/)
@@ -230,12 +232,12 @@ ______
 ______
 
 ## Examenes finales de prueba (Kahoot)
-- [Kahoot G1 (PROXIMAMENTE)]()
-- [Kahoot G2 (PROXIMAMENTE)]()
-- [Kahoot G3 (PROXIMAMENTE)]()
-- [Kahoot G4 (PROXIMAMENTE)]()
-- [Prueba de examen AZ-900 (PROXIMAMENTE)]()
-- [Examen sobre como seleccionar las herramientas de tu solución (PROXIMAMENTE)]()
+- [Kahoot G1](https://kahoot.it/challenge/007773874)
+- [Kahoot G2](https://kahoot.it/challenge/00743933)
+- [Kahoot G3](https://kahoot.it/challenge/001024275)
+- [Kahoot G4](https://kahoot.it/challenge/001248593)
+- [Prueba de examen AZ-900](https://kahoot.it/challenge/003133738)
+- [Examen sobre como seleccionar las herramientas de tu solución](https://kahoot.it/challenge/009096107)
 
 
 ## Playlists
