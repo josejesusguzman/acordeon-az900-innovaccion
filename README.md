@@ -240,9 +240,9 @@ ______
 
 
 ## Playlists
-- [Playlist Curaduría del Sherpa]()
-  - Tienes hasta el 13 de diciembre para adivinar la historia detrás de la playlist y llevarte un premio
-- [Playlist oficial - Agrega tus canciones]()
+- [Playlist Curaduría del Sherpa](https://open.spotify.com/playlist/2maugKhJMa5miQvtSmNDPp?si=0388a40b8b91486d)
+  - Tienes hasta el 19 de junio para adivinar la historia detrás de la playlist y llevarte un premio
+- [Playlist oficial - Agrega tus canciones](https://open.spotify.com/playlist/2GTmprpGUTGSWEgT8Fz8Lw?si=9aa3d87c1f1b4bba&pt=42738ec14ac09011c542d1308303f112)
   - Si quieres una adición a la playlist tendrás que hacer un **Pull Request** a este repositorio con una modificación en el [apartado de adiciones a la playlist](/res/adiciones-playlist.md)
 - Puedes pasar las canciones a tu plataforma preferida con: [Songshift](https://songshift.com/) o similares
 
