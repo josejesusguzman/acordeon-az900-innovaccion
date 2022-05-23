@@ -14,19 +14,19 @@ Aquí podrás encontrar todos los recursos usados en Innovacción Virtual para a
 
 
 ## Links importantes
-- [LO QUE TIENES QUE HACER - Kit de inicio rápido](https://wintercloud.azurewebsites.net/kit-de-inicio-rapido/)
-- **[(Solo Innovacción) Challenge Innovacción virtual (Contenido de tu examen)](https://docs.microsoft.com/es-mx/learn/challenges?id=97d9e7db-8ec9-4616-ab1b-befab7c10442)**
+- [LO QUE TIENES QUE HACER - Kit de inicio rápido](https://view.genial.ly/62882f1527bfd400185a1fcb/presentation-onboarding-ia)
+- **[(Solo Innovacción) Challenge Innovacción virtual (Contenido de tu examen)](https://docs.microsoft.com/es-mx/learn/challenges?id=4e801995-3c8b-46cb-9e94-f229a0e7127d)**
 - [Certificación AZ-900](https://docs.microsoft.com/es-mx/learn/certifications/exams/az-900#two-ways-to-prepare)
 - [Calculadora de TCO](https://azure.microsoft.com/es-mx/pricing/tco/)
 - [Calculadora de costos de Azure](https://azure.microsoft.com/es-mx/pricing/calculator/)
 - [Contratos de nivel de servicios de Azure](https://azure.microsoft.com/es-mx/support/legal/sla/)
 - [(Solo Innovacción) Microsoft Sponsorships. Revisa cuanto saldo tienes](https://www.microsoftazuresponsorships.com/)
-- [(Solo Innovacción) Grabaciones de los live](https://web.microsoftstream.com/channel/3b453209-9ed3-4e36-8c7a-4ca5a62c4e8b)
-- [(Solo Innovacción) Presentaciones](https://innovaccion-my.sharepoint.com/:f:/g/personal/jguzman_innovaccion_mx/ErXKT2xqPspHoKdDVbG-Z1sBftxDwmk5_kW1V72txFdKrQ?e=xnlMyg)
+- [(Solo Innovacción) Grabaciones de los live](https://web.microsoftstream.com/channel/6f59f10a-fc75-4ac9-918c-11541b156815)
+- [(Solo Innovacción) Presentaciones]() **Proximamente**
 - [App de Azure para iOS y iPadOS](https://apps.apple.com/es/app/microsoft-azure/id1219013620)
 - [App de Azure para Android](https://play.google.com/store/apps/details?id=com.microsoft.azure&hl=es_MX&gl=US)
 - Examenes finales de prueba (PROXIMAMENTE)
-- [Playlists](#playlists)
+- [Playlist](#playlists)
 - [Contribuidores](#contribuidores)
 
 ## Glosarios
@@ -44,8 +44,8 @@ Aquí podrás encontrar todos los recursos usados en Innovacción Virtual para a
 
 Esta es la forma sugerida de usar todos los recursos que tienes a tu alcance:
 
-1. Asiste a las sesiones en vivo, puedes ver las grabacions las veces que quieras desde el -> [canal de grabaciones](https://web.microsoftstream.com/channel/3b453209-9ed3-4e36-8c7a-4ca5a62c4e8b) <-
-2. Revisa a detalle los -> [contenidos del Challenge ](https://docs.microsoft.com/es-mx/learn/challenges?id=97d9e7db-8ec9-4616-ab1b-befab7c10442) <- de acuerdo al orden que puedes ver en este acordeón o en el -> [Kit de inicio rápido](https://wintercloud.azurewebsites.net/kit-de-inicio-rapido/) <-
+1. Asiste a las sesiones en vivo, puedes ver las grabacions las veces que quieras desde el -> [canal de grabaciones](https://web.microsoftstream.com/channel/6f59f10a-fc75-4ac9-918c-11541b156815) <-
+2. Revisa a detalle los -> [contenidos del Challenge ](https://docs.microsoft.com/es-mx/learn/challenges?id=4e801995-3c8b-46cb-9e94-f229a0e7127d) <- de acuerdo al orden que puedes ver en este acordeón o en el -> [Kit de inicio rápido](https://view.genial.ly/62882f1527bfd400185a1fcb/presentation-onboarding-ia) <-
 3. **Haz los Kahoot semanales**  (Examenes de prueba)
 4. Si no te queda clara la diferencia entre los recursos de Azure, consulta este acordeón
 5. Si no entiendes una palabra que dice el Challenge o que digo en los en vivo buscala en el -> [Glosario de términos básicos de tecnología](/res/docs/V2%20Glosario%20de%20términos%20Innovacción.pdf) <-
@@ -55,7 +55,7 @@ Esta es la forma sugerida de usar todos los recursos que tienes a tu alcance:
 
 1. Entra diario a la comunidad, contesta preguntas, comparte cosas que encuentres en Internet y que sean de apoyo para toda la comunidad y haz compañer@s de viaje
 2. Haz el reto inicial y final
-3. Revisa los contenidos del canal -> [5. Contenidos del curso 🎄🎄](https://teams.microsoft.com/l/channel/19%3a0561e5ea7f5c4de2a16d3d24cb347a16%40thread.tacv2/5.%2520Contenidos%2520del%2520curso%2520%25F0%259F%258E%2584%25F0%259F%258E%2584?groupId=143bf6d8-8b99-4950-9cff-55b5c2000571&tenantId=4ae54b05-b77e-4224-aef1-8661422e0816) <-
+3. Revisa los contenidos del canal -> [04 - Contenidos semanales 📚](https://teams.microsoft.com/l/channel/19%3a545fabc8bb33431cbed49acead539af5%40thread.tacv2/04%2520-%2520Contenidos%2520semanales%2520%25F0%259F%2593%259A?groupId=cd6d01e4-d9f6-4dda-bfcd-6e07d6432a70&tenantId=4ae54b05-b77e-4224-aef1-8661422e0816) <-
 4. Revisa los contenidos adicionales de este acordeón
 
 **Recuerda que no tienes que hacer todo sino lo que necesites para aprovechar el viaje y conseguir la certificación**
@@ -65,7 +65,7 @@ _________
 
 # Semana 1
 
-- [Resumen semana 1](https://wintercloud.azurewebsites.net/kit-de-inicio-rapido/)
+- [Resumen semana 1]()
 
 ## Módulo 1: Descripción de los conceptos básicos de Azure
 En este módulo aprenderás sobre las definiciones fundamentales del uso de la nube de Microsoft Azure. Después, explorarás el portal de Azure para comenzar a crear soluciones.
@@ -86,7 +86,7 @@ En este módulo aprenderás sobre las definiciones fundamentales del uso de la n
 - [Podcast en español sobre que es cómputo en la nube](https://open.spotify.com/episode/4Sp0OYXtD8ndueA9aBsny6?si=ke9SNZudRqKxf8AIrO1_Iw)
 
 ### Examen de prueba Módulo 1
-- [Da clic aquí para acceder al examen](https://kahoot.it/challenge/001117127)
+- [Da clic aquí para acceder al examen]()
 
 ### Extras
 - [Práctica de fundamentos de Python](https://github.com/josejesusguzman/practica-fundamentos-python)
@@ -95,7 +95,7 @@ _______
 
 # Semana 2
 
-- [Resumen semana 2](https://wintercloud.azurewebsites.net/agenda-semana-2/)
+- [Resumen semana 2]()
 
 ## Módulo 2: Descripción de los servicios básicos de Azure
 Comienza con los servicios básicos de Azure. Los servicios de compute, Storage, Database y Network son los que componen la mayoria de los demás recursos más complejos en Azure.
@@ -121,13 +121,13 @@ Comienza con los servicios básicos de Azure. Los servicios de compute, Storage,
 
 ### Examen de prueba Módulo 2
 
-- [Dale clic aquí para acceder al examen](https://kahoot.it/challenge/001278592)
+- [Dale clic aquí para acceder al examen]()
 
 __________
 
 # Semana 3
 
-- [Resumen semana 3](https://wintercloud.azurewebsites.net/agenda-semana-3/)
+- [Resumen semana 3]()
 
 ## Módulo 3: Descripción de las principales soluciones y herramientas de administración de Azure
 En este módulo veremos más servicios de la nube de Azure, así como las herramientas que nos permiten hacer más eficiente el trabajo de los equipos de TI.
@@ -157,7 +157,7 @@ En este módulo veremos más servicios de la nube de Azure, así como las herram
 - [Azure DevTest Labs](https://www.youtube.com/watch?v=FffAWp2xz84)
 
 ### Examen de prueba Módulo 3
-- [Dale clic aquí para acceder al examen](https://kahoot.it/challenge/002045909)
+- [Dale clic aquí para acceder al examen]()
 
 ### Extras
 - [Genera arte con Inteligencia Artificial](https://colab.research.google.com/drive/1go6YwMFe5MX6XM9tv-cnQiSTU50N9EeT#scrollTo=g7EDme5RYCrt)
@@ -168,7 +168,7 @@ ______
 
 # Semana 4
 
-- [Resumen semana 4](https://wintercloud.azurewebsites.net/agenda-semana-4/)
+- [Resumen semana 4]()
 
 ## Módulo 4: Descripción de las características de seguridad general y seguridad de red
 En este módulo aprenderás sobre los servicios que protejen a la nube de Azure a las soluciones sobre esta, de ataques externos.
@@ -183,7 +183,7 @@ En este módulo aprenderás sobre los servicios que protejen a la nube de Azure 
 - [Comparativa entre Azure Advisor, Monitor, Log Analytics, Service Health y Sentinel](/res/comparativa-advisor-monitor-log-sentinel.md)
 
 ### Examen de prueba Módulo 4
-- [Dale clic aquí para acceder al examen](https://kahoot.it/challenge/009450932)
+- [Dale clic aquí para acceder al examen]()
 
 ______
 
@@ -203,7 +203,7 @@ Obten información sobre cómo Azure puede ayudarle a proteger el acceso a los r
 - [Pasos del Cloud Adoption Framework](/res/pasos_caf.md)
 
 ### Examen de prueba Módulo 5
-- [Dale clic aquí para acceder al examen](https://kahoot.it/challenge/004436043)
+- [Dale clic aquí para acceder al examen]()
 _______
 
 ## Módulo 6: Descripción de los acuerdos de nivel de servicio y la administración de costos de Azure
@@ -221,7 +221,7 @@ Conoce sobre los factores que influyen en el costo, las herramientas que se pued
 - [Ejercicios de calculo de SLA](/res/ejercicios-sla.md)
 
 ### Examen de prueba Módulo 6
-- [Dale clic aquí para acceder al examen](https://kahoot.it/challenge/003582970)
+- [Dale clic aquí para acceder al examen]()
 
 ### Links necesarios
 - [Calculadora de TCO](https://azure.microsoft.com/es-mx/pricing/tco/)
@@ -231,18 +231,18 @@ ______
 ______
 
 ## Examenes finales de prueba (Kahoot)
-- [Kahoot G1](https://kahoot.it/challenge/007773874)
-- [Kahoot G2](https://kahoot.it/challenge/00743933)
-- [Kahoot G3](https://kahoot.it/challenge/001024275)
-- [Kahoot G4](https://kahoot.it/challenge/001248593)
-- [Prueba de examen AZ-900](https://kahoot.it/challenge/003133738)
-- [Examen sobre como seleccionar las herramientas de tu solución](https://kahoot.it/challenge/009096107)
+- [Kahoot G1]()
+- [Kahoot G2]()
+- [Kahoot G3]()
+- [Kahoot G4]()
+- [Prueba de examen AZ-900]()
+- [Examen sobre como seleccionar las herramientas de tu solución]()
 
 
 ## Playlists
-- [Playlist Curaduría del Sherpa](https://open.spotify.com/playlist/7a9NYFyQmGueF9gJUKMhBf?si=441545d7ce3a474d)
+- [Playlist Curaduría del Sherpa]()
   - Tienes hasta el 13 de diciembre para adivinar la historia detrás de la playlist y llevarte un premio
-- [Playlist oficial - Agrega tus canciones](https://open.spotify.com/playlist/7ERagVH0pINMd9zQrw18vp?si=2521581fb9314e09)
+- [Playlist oficial - Agrega tus canciones]()
   - Si quieres una adición a la playlist tendrás que hacer un **Pull Request** a este repositorio con una modificación en el [apartado de adiciones a la playlist](/res/adiciones-playlist.md)
 - Puedes pasar las canciones a tu plataforma preferida con: [Songshift](https://songshift.com/) o similares
 
