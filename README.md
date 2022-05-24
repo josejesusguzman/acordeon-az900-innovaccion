@@ -1,7 +1,7 @@
 # Acordeón de estudio AZ-900 Microsoft Fundamentals
-## Winter Cloud 
+## #IAWizards
 
-![Logo COMUNIDAD (Pendiente)]()
+![Logo COMUNIDAD (Pendiente)](res\images\logocomunidad2.png)
 
 
 Aquí podrás encontrar todos los recursos usados en Innovacción Virtual para ayudarte en tu travesía hacia certificarte en la nube de Azure.
@@ -25,7 +25,7 @@ Aquí podrás encontrar todos los recursos usados en Innovacción Virtual para a
 - [(Solo Innovacción) Presentaciones]() **Proximamente**
 - [App de Azure para iOS y iPadOS](https://apps.apple.com/es/app/microsoft-azure/id1219013620)
 - [App de Azure para Android](https://play.google.com/store/apps/details?id=com.microsoft.azure&hl=es_MX&gl=US)
-- Examenes finales de prueba (PROXIMAMENTE)
+- [Examenes finales de prueba (PROXIMAMENTE)]()
 - [Playlist](#playlists)
 - [Contribuidores](#contribuidores)
 
