@@ -1,7 +1,7 @@
 # Acordeón de estudio AZ-900 Microsoft Fundamentals
 ## #IAWizards
 
-![Logo COMUNIDAD (Pendiente)](res\images\logocomunidad2.png)
+![Logo COMUNIDAD (Pendiente)](https://github.com/josejesusguzman/acordeon-az900-innovaccion/blob/374863bf0aacb9dad6ef71294d3c3ae5d562f1ee/res/images/logocomunidad2.png)
 
 
 Aquí podrás encontrar todos los recursos usados en Innovacción Virtual para ayudarte en tu travesía hacia certificarte en la nube de Azure.
