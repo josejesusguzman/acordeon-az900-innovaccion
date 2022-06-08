@@ -10,7 +10,7 @@ Aquí podrás encontrar todos los recursos usados en Innovacción Virtual para a
 
 ***Nota para Innovacción: No compres la certificación**, espera instrucciones. Te daremos un voucher para hacer tu examen gratis. Microsoft no te devolverá el dinero que hayas gastado por error en comprar el examen o un curso pagado.*
 
-***Nota para Innovacción: cuida tu crédito de azure** eliminando recursos, apagandolos y usando basic o free tiers de los recursos ya que Microsoft no te dará saldo extra una vez te lo acabes.*
+***Nota para Innovacción: cuida tu crédito de Azure** eliminando recursos, apagándolos y usando basic o free tiers de los recursos ya que Microsoft no te dará saldo extra una vez te lo acabes.* 
 
 
 ## Links importantes
@@ -22,10 +22,10 @@ Aquí podrás encontrar todos los recursos usados en Innovacción Virtual para a
 - [Contratos de nivel de servicios de Azure](https://azure.microsoft.com/es-mx/support/legal/sla/)
 - [(Solo Innovacción) Microsoft Sponsorships. Revisa cuanto saldo tienes](https://www.microsoftazuresponsorships.com/)
 - [(Solo Innovacción) Grabaciones de los live](https://web.microsoftstream.com/channel/6f59f10a-fc75-4ac9-918c-11541b156815)
-- [(Solo Innovacción) Presentaciones]() **Proximamente**
+- [(Solo Innovacción) Presentaciones]() **Próximamente**
 - [App de Azure para iOS y iPadOS](https://apps.apple.com/es/app/microsoft-azure/id1219013620)
 - [App de Azure para Android](https://play.google.com/store/apps/details?id=com.microsoft.azure&hl=es_MX&gl=US)
-- [Examenes finales de prueba (PROXIMAMENTE)]()
+- [Exámenes finales de prueba (PRÓXIMAMENTE)]()
 - [Playlist](#playlists)
 - [Contribuidores](#contribuidores)
 
@@ -34,7 +34,7 @@ Aquí podrás encontrar todos los recursos usados en Innovacción Virtual para a
 - [Glosario de términos de Azure](res/terminos_azure.md)
 - **[Descarga las fichas de imágenes de los términos aquí](https://innovaccion-my.sharepoint.com/:f:/g/personal/jguzman_innovaccion_mx/EnO9_QErWA1DmICARLq9Mq0BpkrljWEX8VYgRHoz-i5ezw?e=ktAUKs)**
   - *Imagenes por [@mientraselmundosederrumba](https://www.instagram.com/mientraselmundosederrumba/)*   
-- [Diagrama de terminos de Azure](/res/images/conceptos/completo.jpeg)
+- [Diagrama de términos de Azure](/res/images/conceptos/completo.jpeg)
 
 ## Notas de ayuda
 - [Board de Miro con notas propedéuticas](https://miro.com/app/board/o9J_lFmeuC4=/)
@@ -44,12 +44,12 @@ Aquí podrás encontrar todos los recursos usados en Innovacción Virtual para a
 
 Esta es la forma sugerida de usar todos los recursos que tienes a tu alcance:
 
-1. Asiste a las sesiones en vivo, puedes ver las grabacions las veces que quieras desde el -> [canal de grabaciones](https://web.microsoftstream.com/channel/6f59f10a-fc75-4ac9-918c-11541b156815) <-
+1. Asiste a las sesiones en vivo, puedes ver las grabaciones las veces que quieras desde el -> [canal de grabaciones](https://web.microsoftstream.com/channel/6f59f10a-fc75-4ac9-918c-11541b156815) <-
 2. Revisa a detalle los -> [contenidos del Challenge ](https://docs.microsoft.com/es-mx/learn/challenges?id=4e801995-3c8b-46cb-9e94-f229a0e7127d) <- de acuerdo al orden que puedes ver en este acordeón o en el -> [Kit de inicio rápido](https://view.genial.ly/62882f1527bfd400185a1fcb/presentation-onboarding-ia) <-
-3. **Haz los Kahoot semanales**  (Examenes de prueba)
+3. **Haz los Kahoot semanales**  (Exámenes de prueba)
 4. Si no te queda clara la diferencia entre los recursos de Azure, consulta este acordeón
 5. Si no entiendes una palabra que dice el Challenge o que digo en los en vivo buscala en el -> [Glosario de términos básicos de tecnología](/res/docs/V2%20Glosario%20de%20términos%20Innovacción.pdf) <-
-6. Pregunta y pide ayuda no solo a tu Sherpa sino también a tus compañer@s. No hay preguntas estupidas, no estupido es no preguntar
+6. Pregunta y pide ayuda no solo a tu Sherpa sino también a tus compañer@s. No hay preguntas estúpidas, lo estúpido es no preguntar
 
 ### Opcionales - Aprendizaje como PRO 
 
@@ -98,7 +98,7 @@ _______
 - [Resumen semana 2]()
 
 ## Módulo 2: Descripción de los servicios básicos de Azure
-Comienza con los servicios básicos de Azure. Los servicios de compute, Storage, Database y Network son los que componen la mayoria de los demás recursos más complejos en Azure.
+Comienza con los servicios básicos de Azure. Los servicios de Compute, Storage, Database y Network son los que componen la mayoria de los demás recursos más complejos en Azure.
 
 ### Módulos de Microsoft Learn (Challenge)
 - [Exploración de los servicios de Azure Compute](https://docs.microsoft.com/es-mx/learn/modules/azure-compute-fundamentals/)
@@ -112,7 +112,7 @@ Comienza con los servicios básicos de Azure. Los servicios de compute, Storage,
 - [Como seleccionar las mejores herramientas para tu solución](/res/seleccion_herramientas.md)
 
 
-### Laboratorios - práctca
+### Laboratorios - Práctica
 - [Lab de Azure App Service: Sube tu página a App Service](https://github.com/josejesusguzman/lab-subir-app-service-azure)
 - [Consultas de SQL para Azure SQL Database](/res/consultas-sql.md)
 - [Página de Wordpress con Maquina Virtual y Azure CLI](https://github.com/jose1824/codigos_innovaccion_tutorial_vm_wordpress)
@@ -148,7 +148,7 @@ En este módulo veremos más servicios de la nube de Azure, así como las herram
 - [Comparativa entre Azure Sentinel y Azure Sphere](/res/comparativa-sentinel-sphere.md)
 - [Comparativa entre Azure Advisor, Monitor, Log Analytics, Service Health y Sentinel](/res/comparativa-advisor-monitor-log-sentinel.md)
 
-### Laboratorios - práctca
+### Laboratorios - Práctica
 - [Detección de edad y emociones con una Selfie](https://github.com/josejesusguzman/face-api-consumption-python)
 - [Consumo de la API de Speech-To-Text (Crea tu asistente virtual)](https://github.com/josejesusguzman/speech-to-text-consumption-jarvis)
 - [Código de consumo de Custom Vision](https://github.com/josejesusguzman/azure-preditcion-api-consumption)
@@ -171,7 +171,7 @@ ______
 - [Resumen semana 4]()
 
 ## Módulo 4: Descripción de las características de seguridad general y seguridad de red
-En este módulo aprenderás sobre los servicios que protejen a la nube de Azure a las soluciones sobre esta, de ataques externos.
+En este módulo aprenderás sobre los servicios que protegen a la nube de Azure a las soluciones sobre esta, de ataques externos.
 
 ### Módulos de Microsoft Learn (Challenge)
 - [Protección frente a amenazas de seguridad en Azure](https://docs.microsoft.com/es-mx/learn/modules/protect-against-security-threats-azure/)
@@ -217,7 +217,7 @@ Conoce sobre los factores que influyen en el costo, las herramientas que se pued
 ### Contenidos
 - [Fórmulas para calcular el nivel de servicio SLA](/res/formulario_sla.md)
 
-### Laboratorios - práctca
+### Laboratorios - Práctica
 - [Ejercicios de calculo de SLA](/res/ejercicios-sla.md)
 
 ### Examen de prueba Módulo 6
@@ -230,7 +230,7 @@ Conoce sobre los factores que influyen en el costo, las herramientas que se pued
 ______
 ______
 
-## Examenes finales de prueba (Kahoot)
+## Exámenes finales de prueba (Kahoot)
 - [Kahoot G1]()
 - [Kahoot G2]()
 - [Kahoot G3]()
