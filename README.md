@@ -25,13 +25,8 @@ Aquí podrás encontrar todos los recursos usados en Innovacción Virtual para a
 - [(Solo Innovacción) Presentaciones]() **Proximamente**
 - [App de Azure para iOS y iPadOS](https://apps.apple.com/es/app/microsoft-azure/id1219013620)
 - [App de Azure para Android](https://play.google.com/store/apps/details?id=com.microsoft.azure&hl=es_MX&gl=US)
-<<<<<<< HEAD
 - [Examenes finales de prueba (PROXIMAMENTE)]()
 - [Playlist](#playlists)
-=======
-- [Examenes finales de prueba](#examenes-finales-de-prueba-kahoot)
-- [Playlists](#playlists)
->>>>>>> 0af09ce265414e796e0ee141bf2549078f86c7fe
 - [Contribuidores](#contribuidores)
 
 ## Glosarios
@@ -158,6 +153,7 @@ En este módulo veremos más servicios de la nube de Azure, así como las herram
 - [Consumo de la API de Speech-To-Text (Crea tu asistente virtual)](https://github.com/josejesusguzman/speech-to-text-consumption-jarvis)
 - [Código de consumo de Custom Vision](https://github.com/josejesusguzman/azure-preditcion-api-consumption)
 - [Como hacer plantillas de ARM](/res/plantilla_arm.md)
+- [Tutorial de creación de un experimento con Machine Learning Studio](/res/ml-studio-excercise.md)
 - [Práctica de Azure IoT Hub](https://github.com/jose1824/iot-edge-innovaccion-practice)
 - [Azure DevTest Labs](https://www.youtube.com/watch?v=FffAWp2xz84)
 
