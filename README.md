@@ -25,8 +25,13 @@ Aquí podrás encontrar todos los recursos usados en Innovacción Virtual para a
 - [(Solo Innovacción) Presentaciones]() **Proximamente**
 - [App de Azure para iOS y iPadOS](https://apps.apple.com/es/app/microsoft-azure/id1219013620)
 - [App de Azure para Android](https://play.google.com/store/apps/details?id=com.microsoft.azure&hl=es_MX&gl=US)
+<<<<<<< HEAD
 - [Examenes finales de prueba (PROXIMAMENTE)]()
 - [Playlist](#playlists)
+=======
+- [Examenes finales de prueba](#examenes-finales-de-prueba-kahoot)
+- [Playlists](#playlists)
+>>>>>>> 0af09ce265414e796e0ee141bf2549078f86c7fe
 - [Contribuidores](#contribuidores)
 
 ## Glosarios
