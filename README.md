@@ -1,9 +1,8 @@
 # Acordeón de estudio AZ-900 Microsoft Fundamentals
-## Ciclo especializado - 4ta edición
+## #IAWizards
 
-![Logo COMUNIDAD](/res/images/logo-iarockstars4.jpg)
+![Logo COMUNIDAD (Pendiente)](https://github.com/josejesusguzman/acordeon-az900-innovaccion/blob/374863bf0aacb9dad6ef71294d3c3ae5d562f1ee/res/images/logocomunidad2.png)
 
-#IARockstars 🤘🤘🤘
 
 Aquí podrás encontrar todos los recursos usados en Innovacción Virtual para ayudarte en tu travesía hacia certificarte en la nube de Azure.
 
@@ -11,23 +10,23 @@ Aquí podrás encontrar todos los recursos usados en Innovacción Virtual para a
 
 ***Nota para Innovacción: No compres la certificación**, espera instrucciones. Te daremos un voucher para hacer tu examen gratis. Microsoft no te devolverá el dinero que hayas gastado por error en comprar el examen o un curso pagado.*
 
-***Nota para Innovacción: cuida tu crédito de azure** eliminando recursos, apagandolos y usando basic o free tiers de los recursos ya que Microsoft no te dará saldo extra una vez te lo acabes.*
+***Nota para Innovacción: cuida tu crédito de Azure** eliminando recursos, apagándolos y usando basic o free tiers de los recursos ya que Microsoft no te dará saldo extra una vez te lo acabes.* 
 
 
 ## Links importantes
-- [LO QUE TIENES QUE HACER - Mapa de Viaje](https://docs.microsoft.com/es-mx/learn/challenges?id=02d0a3b0-f201-49f2-8373-4eb51d1d9d20)
-- **[(Solo Innovacción) Challenge Innovacción virtual (Contenido de tu examen)](https://docs.microsoft.com/es-mx/learn/challenges?id=02d0a3b0-f201-49f2-8373-4eb51d1d9d20)**
+- [LO QUE TIENES QUE HACER - Kit de inicio rápido](https://view.genial.ly/62882f1527bfd400185a1fcb/presentation-onboarding-ia)
+- **[(Solo Innovacción) Challenge Innovacción virtual (Contenido de tu examen)](https://docs.microsoft.com/es-mx/learn/challenges?id=4e801995-3c8b-46cb-9e94-f229a0e7127d)**
 - [Certificación AZ-900](https://docs.microsoft.com/es-mx/learn/certifications/exams/az-900#two-ways-to-prepare)
 - [Calculadora de TCO](https://azure.microsoft.com/es-mx/pricing/tco/)
 - [Calculadora de costos de Azure](https://azure.microsoft.com/es-mx/pricing/calculator/)
 - [Contratos de nivel de servicios de Azure](https://azure.microsoft.com/es-mx/support/legal/sla/)
 - [(Solo Innovacción) Microsoft Sponsorships. Revisa cuanto saldo tienes](https://www.microsoftazuresponsorships.com/)
-- [(Solo Innovacción) Grabaciones de los live](https://web.microsoftstream.com/channel/24b57c35-e5eb-4ded-bd37-180b6f33efd3)
-- [(Solo Innovacción) Presentaciones](https://innovaccion-my.sharepoint.com/:f:/g/personal/jguzman_innovaccion_mx/ElYicKS5FQBOkrvxYjtX8tUBaRa_-ONvnNGj4VYQnV1EVw?e=mh5ozb)
+- [(Solo Innovacción) Grabaciones de los live](https://web.microsoftstream.com/channel/6f59f10a-fc75-4ac9-918c-11541b156815)
+- [(Solo Innovacción) Presentaciones]() **Próximamente**
 - [App de Azure para iOS y iPadOS](https://apps.apple.com/es/app/microsoft-azure/id1219013620)
 - [App de Azure para Android](https://play.google.com/store/apps/details?id=com.microsoft.azure&hl=es_MX&gl=US)
-- Examenes finales de prueba (PROXIMAMENTE)
-- [Playlists](#playlists)
+- [Exámenes finales de prueba (PRÓXIMAMENTE)]()
+- [Playlist](#playlists)
 - [Contribuidores](#contribuidores)
 
 ## Glosarios
@@ -35,7 +34,7 @@ Aquí podrás encontrar todos los recursos usados en Innovacción Virtual para a
 - [Glosario de términos de Azure](res/terminos_azure.md)
 - **[Descarga las fichas de imágenes de los términos aquí](https://innovaccion-my.sharepoint.com/:f:/g/personal/jguzman_innovaccion_mx/EnO9_QErWA1DmICARLq9Mq0BpkrljWEX8VYgRHoz-i5ezw?e=ktAUKs)**
   - *Imagenes por [@mientraselmundosederrumba](https://www.instagram.com/mientraselmundosederrumba/)*   
-- [Diagrama de terminos de Azure](/res/images/conceptos/completo.jpeg)
+- [Diagrama de términos de Azure](/res/images/conceptos/completo.jpeg)
 
 ## Notas de ayuda
 - [Board de Miro con notas propedéuticas](https://miro.com/app/board/o9J_lFmeuC4=/)
@@ -45,18 +44,18 @@ Aquí podrás encontrar todos los recursos usados en Innovacción Virtual para a
 
 Esta es la forma sugerida de usar todos los recursos que tienes a tu alcance:
 
-1. Asiste a las sesiones en vivo, puedes ver las grabacions las veces que quieras desde el -> [canal de grabaciones](https://web.microsoftstream.com/channel/24b57c35-e5eb-4ded-bd37-180b6f33efd3) <-
-2. Revisa a detalle los -> [contenidos del Challenge ](https://docs.microsoft.com/es-mx/learn/challenges?id=02d0a3b0-f201-49f2-8373-4eb51d1d9d20) <- de acuerdo al orden que puedes ver en este acordeón o en el -> [Mapa de Viaje](https://docs.microsoft.com/es-mx/learn/challenges?id=02d0a3b0-f201-49f2-8373-4eb51d1d9d20) <-
-**3. Haz los Kahoot semanales**  (Examenes de prueba)
+1. Asiste a las sesiones en vivo, puedes ver las grabaciones las veces que quieras desde el -> [canal de grabaciones](https://web.microsoftstream.com/channel/6f59f10a-fc75-4ac9-918c-11541b156815) <-
+2. Revisa a detalle los -> [contenidos del Challenge ](https://docs.microsoft.com/es-mx/learn/challenges?id=4e801995-3c8b-46cb-9e94-f229a0e7127d) <- de acuerdo al orden que puedes ver en este acordeón o en el -> [Kit de inicio rápido](https://view.genial.ly/62882f1527bfd400185a1fcb/presentation-onboarding-ia) <-
+3. **Haz los Kahoot semanales**  (Exámenes de prueba)
 4. Si no te queda clara la diferencia entre los recursos de Azure, consulta este acordeón
 5. Si no entiendes una palabra que dice el Challenge o que digo en los en vivo buscala en el -> [Glosario de términos básicos de tecnología](/res/docs/V2%20Glosario%20de%20términos%20Innovacción.pdf) <-
-6. Pregunta y pide ayuda no solo a tu Sherpa sino también a tus compañer@s. No hay preguntas estupidas, no estupido es no preguntar
+6. Pregunta y pide ayuda no solo a tu Sherpa sino también a tus compañer@s. No hay preguntas estúpidas, lo estúpido es no preguntar
 
 ### Opcionales - Aprendizaje como PRO 
 
 1. Entra diario a la comunidad, contesta preguntas, comparte cosas que encuentres en Internet y que sean de apoyo para toda la comunidad y haz compañer@s de viaje
 2. Haz el reto inicial y final
-3. Revisa los contenidos del canal -> [5. Contenidos del viaje 💼](https://teams.microsoft.com/l/channel/19%3a7328d38d926e4b08a746daf6e9dde76b%40thread.tacv2/5.%2520Contenidos%2520del%2520viaje%2520%25F0%259F%25A7%25B3?groupId=8aaaf529-9e34-4bc7-a88e-5c24abb2d701&tenantId=4ae54b05-b77e-4224-aef1-8661422e0816) <-
+3. Revisa los contenidos del canal -> [04 - Contenidos semanales 📚](https://teams.microsoft.com/l/channel/19%3a545fabc8bb33431cbed49acead539af5%40thread.tacv2/04%2520-%2520Contenidos%2520semanales%2520%25F0%259F%2593%259A?groupId=cd6d01e4-d9f6-4dda-bfcd-6e07d6432a70&tenantId=4ae54b05-b77e-4224-aef1-8661422e0816) <-
 4. Revisa los contenidos adicionales de este acordeón
 
 **Recuerda que no tienes que hacer todo sino lo que necesites para aprovechar el viaje y conseguir la certificación**
@@ -66,7 +65,7 @@ _________
 
 # Semana 1
 
-- [Resumen semana 1](https://cicloespecializado4.azurewebsites.net/semana-1-inteligencia-artificial/)
+- [Resumen semana 1]()
 
 ## Módulo 1: Descripción de los conceptos básicos de Azure
 En este módulo aprenderás sobre las definiciones fundamentales del uso de la nube de Microsoft Azure. Después, explorarás el portal de Azure para comenzar a crear soluciones.
@@ -87,7 +86,7 @@ En este módulo aprenderás sobre las definiciones fundamentales del uso de la n
 - [Podcast en español sobre que es cómputo en la nube](https://open.spotify.com/episode/4Sp0OYXtD8ndueA9aBsny6?si=ke9SNZudRqKxf8AIrO1_Iw)
 
 ### Examen de prueba Módulo 1
-- [Da clic aquí para acceder al examen](https://kahoot.it/challenge/003912717)
+- [Da clic aquí para acceder al examen]()
 
 ### Extras
 - [Práctica de fundamentos de Python](https://github.com/josejesusguzman/practica-fundamentos-python)
@@ -96,11 +95,10 @@ _______
 
 # Semana 2
 
-- [Resumen semana 2](https://cicloespecializado4.azurewebsites.net/semana-2-inteligencia-artificial/)
-
+- [Resumen semana 2]()
 
 ## Módulo 2: Descripción de los servicios básicos de Azure
-Comienza con los servicios básicos de Azure. Los servicios de compute, Storage, Database y Network son los que componen la mayoria de los demás recursos más complejos en Azure.
+Comienza con los servicios básicos de Azure. Los servicios de Compute, Storage, Database y Network son los que componen la mayoria de los demás recursos más complejos en Azure.
 
 ### Módulos de Microsoft Learn (Challenge)
 - [Exploración de los servicios de Azure Compute](https://docs.microsoft.com/es-mx/learn/modules/azure-compute-fundamentals/)
@@ -114,21 +112,22 @@ Comienza con los servicios básicos de Azure. Los servicios de compute, Storage,
 - [Como seleccionar las mejores herramientas para tu solución](/res/seleccion_herramientas.md)
 
 
-### Laboratorios - práctca
+### Laboratorios - Práctica
 - [Lab de Azure App Service: Sube tu página a App Service](https://github.com/josejesusguzman/lab-subir-app-service-azure)
+- [Consultas de SQL para Azure SQL Database](/res/consultas-sql.md)
 - [Página de Wordpress con Maquina Virtual y Azure CLI](https://github.com/jose1824/codigos_innovaccion_tutorial_vm_wordpress)
 - [Implementación de una Web App con Docker y Azure Kubernetes Service](/res/tutorial_kubernetes_basic.md)
 - [Tutorial de Wordpress con Kubernetes](/res/tutorial-k8s-wordpress.md)
 
 ### Examen de prueba Módulo 2
 
-- [Dale clic aquí para acceder al examen](https://kahoot.it/challenge/007323776)
+- [Dale clic aquí para acceder al examen]()
 
 __________
 
 # Semana 3
 
-- [Resumen semana 3](https://cicloespecializado4.azurewebsites.net/semana-3-inteligencia-artificial/)
+- [Resumen semana 3]()
 
 ## Módulo 3: Descripción de las principales soluciones y herramientas de administración de Azure
 En este módulo veremos más servicios de la nube de Azure, así como las herramientas que nos permiten hacer más eficiente el trabajo de los equipos de TI.
@@ -146,11 +145,10 @@ En este módulo veremos más servicios de la nube de Azure, así como las herram
 - [Buenas practicas para plantillas ARM](https://github.com/Azure/azure-quickstart-templates/blob/master/1-CONTRIBUTION-GUIDE/best-practices.md)
 - [Plantillas ARM validadas de la comunidad](https://github.com/Azure/azure-quickstart-templates)
 - [Podcast en español sobre que es Inteligencia Artificial](https://open.spotify.com/episode/6kLmxMKovbdE3QmGhvDCFH?si=ad949acfe2284c57)
-- [Podcast en español sobre que es Inteligencia Artificial -  Extendido](https://open.spotify.com/episode/2N8EEOKikGGq5xtrrHBT9K?si=f0349be769a545c3)
 - [Comparativa entre Azure Sentinel y Azure Sphere](/res/comparativa-sentinel-sphere.md)
 - [Comparativa entre Azure Advisor, Monitor, Log Analytics, Service Health y Sentinel](/res/comparativa-advisor-monitor-log-sentinel.md)
 
-### Laboratorios - práctca
+### Laboratorios - Práctica
 - [Detección de edad y emociones con una Selfie](https://github.com/josejesusguzman/face-api-consumption-python)
 - [Consumo de la API de Speech-To-Text (Crea tu asistente virtual)](https://github.com/josejesusguzman/speech-to-text-consumption-jarvis)
 - [Código de consumo de Custom Vision](https://github.com/josejesusguzman/azure-preditcion-api-consumption)
@@ -160,25 +158,21 @@ En este módulo veremos más servicios de la nube de Azure, así como las herram
 - [Azure DevTest Labs](https://www.youtube.com/watch?v=FffAWp2xz84)
 
 ### Examen de prueba Módulo 3
-- [Dale clic aquí para acceder al examen](https://kahoot.it/challenge/001904447)
+- [Dale clic aquí para acceder al examen]()
 
 ### Extras
-- [Elección de algoritmos de Inteligencia Artificial](https://docs.microsoft.com/en-us/azure/machine-learning/algorithm-cheat-sheet)
 - [Genera arte con Inteligencia Artificial](https://colab.research.google.com/drive/1go6YwMFe5MX6XM9tv-cnQiSTU50N9EeT#scrollTo=g7EDme5RYCrt)
   - [Explicación en la clase](https://web.microsoftstream.com/video/451b5ae7-2555-44b9-b848-d2d17f6a3a05)
-- [Hoja para decidir que algoritmo de IA usar](https://docs.microsoft.com/es-mx/azure/machine-learning/algorithm-cheat-sheet)
 - [Así usa Netflix la inteligencia artificial para las portadas de su contenido](https://medium.com/bigdatalatam/netflix-una-peque%C3%B1a-vista-a-la-compleja-tecnolog%C3%ADa-detr%C3%A1s-del-servicio-m%C3%A1s-popular-de-streaming-907124c3d5da)
-- [Así usa Spotify la IA - 1](https://lieslanggijono.medium.com/the-magic-ingredient-of-spotify-machine-learning-b6af57ecca03)
-- [Así usa Spotify la IA - 2](https://medium.com/s/story/spotifys-discover-weekly-how-machine-learning-finds-your-new-music-19a41ab76efe)
-- [Curso básico de programación con Python](https://github.com/RodolfoFerro/python-innovaccion)
+- [Así usa Spotify la IA](https://lieslanggijono.medium.com/the-magic-ingredient-of-spotify-machine-learning-b6af57ecca03)
 ______
 
 # Semana 4
 
-- [Resumen semana 3](https://cicloespecializado4.azurewebsites.net/semana-4-inteligencia-artificial/)
+- [Resumen semana 4]()
 
 ## Módulo 4: Descripción de las características de seguridad general y seguridad de red
-En este módulo aprenderás sobre los servicios que protejen a la nube de Azure a las soluciones sobre esta, de ataques externos.
+En este módulo aprenderás sobre los servicios que protegen a la nube de Azure a las soluciones sobre esta, de ataques externos.
 
 ### Módulos de Microsoft Learn (Challenge)
 - [Protección frente a amenazas de seguridad en Azure](https://docs.microsoft.com/es-mx/learn/modules/protect-against-security-threats-azure/)
@@ -190,7 +184,7 @@ En este módulo aprenderás sobre los servicios que protejen a la nube de Azure 
 - [Comparativa entre Azure Advisor, Monitor, Log Analytics, Service Health y Sentinel](/res/comparativa-advisor-monitor-log-sentinel.md)
 
 ### Examen de prueba Módulo 4
-- [Dale clic aquí para acceder al examen](https://kahoot.it/challenge/008240837)
+- [Dale clic aquí para acceder al examen]()
 
 ______
 
@@ -210,7 +204,7 @@ Obten información sobre cómo Azure puede ayudarle a proteger el acceso a los r
 - [Pasos del Cloud Adoption Framework](/res/pasos_caf.md)
 
 ### Examen de prueba Módulo 5
-- [Dale clic aquí para acceder al examen](https://kahoot.it/challenge/001943434)
+- [Dale clic aquí para acceder al examen]()
 _______
 
 ## Módulo 6: Descripción de los acuerdos de nivel de servicio y la administración de costos de Azure
@@ -224,11 +218,11 @@ Conoce sobre los factores que influyen en el costo, las herramientas que se pued
 ### Contenidos
 - [Fórmulas para calcular el nivel de servicio SLA](/res/formulario_sla.md)
 
-### Laboratorios - práctca
+### Laboratorios - Práctica
 - [Ejercicios de calculo de SLA](/res/ejercicios-sla.md)
 
 ### Examen de prueba Módulo 6
-- [Dale clic aquí para acceder al examen](https://kahoot.it/challenge/00898611)
+- [Dale clic aquí para acceder al examen]()
 
 ### Links necesarios
 - [Calculadora de TCO](https://azure.microsoft.com/es-mx/pricing/tco/)
@@ -237,19 +231,19 @@ Conoce sobre los factores que influyen en el costo, las herramientas que se pued
 ______
 ______
 
-## Examenes finales de prueba (Kahoot)
-- [Kahoot G1 (PROXIMAMENTE)]()
-- [Kahoot G2 (PROXIMAMENTE)]()
-- [Kahoot G3 (PROXIMAMENTE)]()
-- [Kahoot G4 (PROXIMAMENTE)]()
-- [Prueba de examen AZ-900 (PROXIMAMENTE)]()
-- [Examen sobre como seleccionar las herramientas de tu solución](https://kahoot.it/challenge/008088545)
+## Exámenes finales de prueba (Kahoot)
+- [Kahoot G1]()
+- [Kahoot G2]()
+- [Kahoot G3]()
+- [Kahoot G4]()
+- [Prueba de examen AZ-900]()
+- [Examen sobre como seleccionar las herramientas de tu solución]()
 
 
 ## Playlists
-- [Playlist Curaduría del Sherpa](https://open.spotify.com/playlist/2maugKhJMa5miQvtSmNDPp?si=5fe825426fa046e4)
-  - Tienes hasta el 8 de noviembre para adivinar la historia detrás de la playlist (No participan personas de del ciclo verano)  
-- [Spotify: IA Rockstars Oficial - Agrega tus canciones](https://open.spotify.com/playlist/66ZSLwDkgPhDZ5ZTU97RyC?si=96c8967d6145407b)
+- [Playlist Curaduría del Sherpa](https://open.spotify.com/playlist/2maugKhJMa5miQvtSmNDPp?si=0388a40b8b91486d)
+  - Tienes hasta el 19 de junio para adivinar la historia detrás de la playlist y llevarte un premio
+- [Playlist oficial - Agrega tus canciones](https://open.spotify.com/playlist/2GTmprpGUTGSWEgT8Fz8Lw?si=9aa3d87c1f1b4bba&pt=42738ec14ac09011c542d1308303f112)
   - Si quieres una adición a la playlist tendrás que hacer un **Pull Request** a este repositorio con una modificación en el [apartado de adiciones a la playlist](/res/adiciones-playlist.md)
 - Puedes pasar las canciones a tu plataforma preferida con: [Songshift](https://songshift.com/) o similares
 

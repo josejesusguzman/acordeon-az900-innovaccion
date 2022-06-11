@@ -1,4 +1,4 @@
-# Uso y comparativa entre Azure Advisor, Monitir, Sentinel, Service Health y Log Analytics
+# Uso y comparativa entre Azure Advisor, Monitor, Sentinel, Service Health y Log Analytics
 
 - **Azure Advisor**: Te da **recomendaciones** para ahorrar costos, mejorar la seguridad , la gobernanza y el rendimiento de tu infraestructura de nube
 - **Azure Monitor**: Monitorea y visualiza en tiempo real los datos de **rendimiento** (como uso de memoria o procesamiento) de tu infraestructura de nube
