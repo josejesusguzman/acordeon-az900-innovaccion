@@ -11,7 +11,7 @@ Aquí podrás encontrar todos los recursos usados en Innovacción Virtual para a
 
 ***Nota para Innovacción: No compres la certificación**, espera instrucciones. Te daremos un voucher para hacer tu examen gratis. Microsoft no te devolverá el dinero que hayas gastado por error en comprar el examen o un curso pagado.*
 
-***Nota para Innovacción: cuida tu crédito de azure** eliminando recursos, apagandolos y usando basic o free tiers de los recursos ya que Microsoft no te dará saldo extra una vez te lo acabes.*
+***Nota para Innovacción: cuida tu crédito de Azure** eliminando recursos, apagandolos y usando basic o free tiers de los recursos ya que Microsoft no te dará saldo extra una vez te lo acabes.*
 
 
 ## Links importantes
@@ -35,7 +35,7 @@ Aquí podrás encontrar todos los recursos usados en Innovacción Virtual para a
 - [Glosario de términos de Azure](res/terminos_azure.md)
 - **[Descarga las fichas de imágenes de los términos aquí](https://innovaccion-my.sharepoint.com/:f:/g/personal/jguzman_innovaccion_mx/EnO9_QErWA1DmICARLq9Mq0BpkrljWEX8VYgRHoz-i5ezw?e=ktAUKs)**
   - *Imagenes por [@mientraselmundosederrumba](https://www.instagram.com/mientraselmundosederrumba/)*   
-- [Diagrama de terminos de Azure](/res/images/conceptos/completo.jpeg)
+- [Diagrama de términos de Azure](/res/images/conceptos/completo.jpeg)
 
 ## Notas de ayuda
 - [Board de Miro con notas propedéuticas](https://miro.com/app/board/o9J_lFmeuC4=/)
@@ -45,17 +45,17 @@ Aquí podrás encontrar todos los recursos usados en Innovacción Virtual para a
 
 Esta es la forma sugerida de usar todos los recursos que tienes a tu alcance:
 
-1. Asiste a las sesiones en vivo, puedes ver las grabacions las veces que quieras desde el -> [canal de grabaciones](https://web.microsoftstream.com/channel/3b453209-9ed3-4e36-8c7a-4ca5a62c4e8b) <-
+1. Asiste a las sesiones en vivo, puedes ver las grabaciones las veces que quieras desde el -> [canal de grabaciones](https://web.microsoftstream.com/channel/3b453209-9ed3-4e36-8c7a-4ca5a62c4e8b) <-
 2. Revisa a detalle los -> [contenidos del Challenge ](https://docs.microsoft.com/es-mx/learn/challenges?id=97d9e7db-8ec9-4616-ab1b-befab7c10442) <- de acuerdo al orden que puedes ver en este acordeón o en el -> [Kit de inicio rápido](https://wintercloud.azurewebsites.net/kit-de-inicio-rapido/) <-
-3. **Haz los Kahoot semanales**  (Examenes de prueba)
+3. **Has los Kahoot semanales**  (Exámenes de prueba)
 4. Si no te queda clara la diferencia entre los recursos de Azure, consulta este acordeón
 5. Si no entiendes una palabra que dice el Challenge o que digo en los en vivo buscala en el -> [Glosario de términos básicos de tecnología](/res/docs/V2%20Glosario%20de%20términos%20Innovacción.pdf) <-
-6. Pregunta y pide ayuda no solo a tu Sherpa sino también a tus compañer@s. No hay preguntas estupidas, no estupido es no preguntar
+6. Pregunta y pide ayuda no solo a tu Sherpa sino también a tus compañer@s. No hay preguntas estúpidas, lo estúpido es no preguntar
 
 ### Opcionales - Aprendizaje como PRO 
 
-1. Entra diario a la comunidad, contesta preguntas, comparte cosas que encuentres en Internet y que sean de apoyo para toda la comunidad y haz compañer@s de viaje
-2. Haz el reto inicial y final
+1. Entra diario a la comunidad, contesta preguntas, comparte cosas que encuentres en Internet y que sean de apoyo para toda la comunidad y has compañer@s de viaje
+2. Has el reto inicial y final
 3. Revisa los contenidos del canal -> [5. Contenidos del curso 🎄🎄](https://teams.microsoft.com/l/channel/19%3a0561e5ea7f5c4de2a16d3d24cb347a16%40thread.tacv2/5.%2520Contenidos%2520del%2520curso%2520%25F0%259F%258E%2584%25F0%259F%258E%2584?groupId=143bf6d8-8b99-4950-9cff-55b5c2000571&tenantId=4ae54b05-b77e-4224-aef1-8661422e0816) <-
 4. Revisa los contenidos adicionales de este acordeón
 
@@ -79,12 +79,12 @@ En este módulo aprenderás sobre las definiciones fundamentales del uso de la n
 ### Contenidos
 - [Glosario de términos de Azure](res/terminos_azure.md)
 - **[Descarga las fichas de imágenes de los términos aquí](https://innovaccion-my.sharepoint.com/:f:/g/personal/jguzman_innovaccion_mx/EnO9_QErWA1DmICARLq9Mq0BpkrljWEX8VYgRHoz-i5ezw?e=ktAUKs)**
-  - *Imagenes por [@mientraselmundosederrumba](https://www.instagram.com/mientraselmundosederrumba/)*   
+  - *Imágenes por [@mientraselmundosederrumba](https://www.instagram.com/mientraselmundosederrumba/)*   
 - [Diagrama de términos de Azure](/res/images/conceptos/completo.jpeg)
 - [Diagrama de jerarquía de suscripciones de Azure](/res/jerarquia.md)
 - [Podcast en español sobre la certificación AZ-900](https://open.spotify.com/episode/7KY9i2Xz6WIHocJe6jlPmy?si=SyANKxMTT4K_4kCxGF59Ag)
 - [Podcast en inglés sobre la certificación AZ-900 (No tiene el mismo contenido que el de arriba)](https://open.spotify.com/episode/3UknsHbYA0ZzT33cggBmrA?si=_7qf-A9lRv6D3_fklpHSfw)
-- [Podcast en español sobre que es cómputo en la nube](https://open.spotify.com/episode/4Sp0OYXtD8ndueA9aBsny6?si=ke9SNZudRqKxf8AIrO1_Iw)
+- [Podcast en español sobre qué es cómputo en la nube](https://open.spotify.com/episode/4Sp0OYXtD8ndueA9aBsny6?si=ke9SNZudRqKxf8AIrO1_Iw)
 
 ### Examen de prueba Módulo 1
 - [Da clic aquí para acceder al examen](https://kahoot.it/challenge/001117127)
@@ -99,7 +99,7 @@ _______
 - [Resumen semana 2](https://wintercloud.azurewebsites.net/agenda-semana-2/)
 
 ## Módulo 2: Descripción de los servicios básicos de Azure
-Comienza con los servicios básicos de Azure. Los servicios de compute, Storage, Database y Network son los que componen la mayoria de los demás recursos más complejos en Azure.
+Comienza con los servicios básicos de Azure. Los servicios de Compute, Storage, Database y Network son los que componen la mayoria de los demás recursos más complejos en Azure.
 
 ### Módulos de Microsoft Learn (Challenge)
 - [Exploración de los servicios de Azure Compute](https://docs.microsoft.com/es-mx/learn/modules/azure-compute-fundamentals/)
