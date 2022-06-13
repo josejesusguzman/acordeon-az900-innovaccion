@@ -262,3 +262,4 @@ Muchas gracias por su valiosa ayuda
 - [Camilo Hortua](https://github.com/oc-hortua)
 - [Arturo Yael Avila Priego](https://github.com/ArturoAvilaP)
 - [Manuel Avalos](https://github.com/manuelavalosave)
+- [Erina Colver](https://github.com/ErinaColver)
