@@ -18,4 +18,5 @@ Por ejemplo:
 - Golden - Harry Styles - @JowsNunez
 - The death of me - Asking Alexandria - @JowsNunez
 - Infinite - Eminem - @hitdadrum
-
+- De Música Ligera - @Enrique04
+- Persiana Americana - @Enrique04
